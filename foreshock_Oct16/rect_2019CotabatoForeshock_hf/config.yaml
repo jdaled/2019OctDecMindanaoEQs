@@ -9,7 +9,8 @@ dataset_config: !grond.DatasetConfig
   blacklist_paths: []
   blacklist: []
   whitelist_paths: []
-  kite_scene_paths: ['data/events/${event_name}/insar']
+  kite_scene_paths:
+  - data/events/${event_name}/insar
 target_groups:
 - !grond.SatelliteTargetGroup
   normalisation_family: static
@@ -17,7 +18,9 @@ target_groups:
   weight: 1.0
   interpolation: multilinear
   store_id: ph_local_hf
-  kite_scenes: [a2_a136_20191005_20191019_deramp, s1_d163_20191014_20191026_deramp]
+  kite_scenes:
+  - A2_a136_1005-1019
+  - S1_d163_1014-1026
   misfit_config: !grond.SatelliteMisfitConfig
     optimise_orbital_ramp: false
     ranges:
@@ -37,7 +40,7 @@ problem_config: !grond.RectangularProblemConfig
     slip: 0 .. 2
     strike: 180 .. 360
     width: 2000 .. 20000
-  decimation_factor: 1
+  decimation_factor: 2
   distance_min: 0.0
   nthreads: 4
 analyser_configs:
@@ -62,7 +65,8 @@ optimiser_config: !grond.HighScoreOptimiserConfig
   nbootstrap: 25
 engine_config: !grond.EngineConfig
   gf_stores_from_pyrocko_config: false
-  gf_store_superdirs: [gf_stores]
+  gf_store_superdirs:
+  - gf_stores
   gf_store_dirs: []
 event_names: []
 event_names_exclude: []

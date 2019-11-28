@@ -2,10 +2,10 @@
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -5553.514372348358
-east_shift: 5271.845145799934
+north_shift: -5184.145739095976
+east_shift: 5377.798788695298
 time: 2019-10-16 11:37:10.100000
-depth: 8794.117817066593
+depth: 9014.82620078988
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -13,10 +13,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -5553.514372348358
-east_shift: 5271.845145799934
+north_shift: -5530.711507706167
+east_shift: 5764.401207893329
 time: 2019-10-16 11:37:10.100000
-depth: 8794.117817066593
+depth: 9564.439672143493
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -24,10 +24,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -6347.075247100923
-east_shift: 5373.770681375171
+north_shift: -5044.87424861435
+east_shift: 5095.921147220023
 time: 2019-10-16 11:37:10.100000
-depth: 8749.038568002852
+depth: 8946.38318209904
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -35,10 +35,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -6347.075247100923
-east_shift: 5373.770681375171
+north_shift: -5376.959518796163
+east_shift: 5402.501400171567
 time: 2019-10-16 11:37:10.100000
-depth: 8749.038568002852
+depth: 9724.159435320697
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -46,10 +46,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -6187.642260841635
-east_shift: 6168.799577559914
+north_shift: -5422.603524464689
+east_shift: 5875.257792063922
 time: 2019-10-16 11:37:10.100000
-depth: 9130.872845934968
+depth: 9848.76269340235
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -57,10 +57,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -6187.642260841635
-east_shift: 6168.799577559914
+north_shift: -5450.544994993684
+east_shift: 5382.21521308708
 time: 2019-10-16 11:37:10.100000
-depth: 9130.872845934968
+depth: 9194.653108453025
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -68,10 +68,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -6456.139529423111
-east_shift: 6424.2930490451145
+north_shift: -5601.602923172587
+east_shift: 5430.873922934952
 time: 2019-10-16 11:37:10.100000
-depth: 8965.577342891449
+depth: 9356.462446682142
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -79,10 +79,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -6456.139529423111
-east_shift: 6424.2930490451145
+north_shift: -5300.161863265795
+east_shift: 5785.423263640827
 time: 2019-10-16 11:37:10.100000
-depth: 8965.577342891449
+depth: 9610.94190643674
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -90,10 +90,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -7611.051402732964
-east_shift: 5760.612738861816
+north_shift: -5232.601714321898
+east_shift: 5607.837212601635
 time: 2019-10-16 11:37:10.100000
-depth: 9603.649086598001
+depth: 9566.872799431827
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -101,10 +101,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -7611.051402732964
-east_shift: 5760.612738861816
+north_shift: -5107.113701932164
+east_shift: 4926.484815507245
 time: 2019-10-16 11:37:10.100000
-depth: 9603.649086598001
+depth: 9095.326561783306
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -112,10 +112,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -7845.044410729664
-east_shift: 6536.495182559017
+north_shift: -5296.483078835578
+east_shift: 5328.287660145211
 time: 2019-10-16 11:37:10.100000
-depth: 9009.98883067098
+depth: 9584.798933997577
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -123,10 +123,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -7845.044410729664
-east_shift: 6536.495182559017
+north_shift: -5046.8569059821375
+east_shift: 5766.0088549457
 time: 2019-10-16 11:37:10.100000
-depth: 9009.98883067098
+depth: 9755.96822670786
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -134,10 +134,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -6231.632865176493
-east_shift: 6246.303844058579
+north_shift: -5946.665919542426
+east_shift: 6116.708431123942
 time: 2019-10-16 11:37:10.100000
-depth: 9683.437182898399
+depth: 9810.69402342371
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -145,10 +145,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -6231.632865176493
-east_shift: 6246.303844058579
+north_shift: -5194.163294751778
+east_shift: 4844.634752119596
 time: 2019-10-16 11:37:10.100000
-depth: 9683.437182898399
+depth: 8407.006364840934
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -156,10 +156,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -6686.01831385746
-east_shift: 6310.42689562932
+north_shift: -5375.976093586284
+east_shift: 5452.7793268430905
 time: 2019-10-16 11:37:10.100000
-depth: 8879.586092719464
+depth: 9529.327691178141
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -167,10 +167,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -6686.01831385746
-east_shift: 6310.42689562932
+north_shift: -5911.808182964768
+east_shift: 5760.563320003612
 time: 2019-10-16 11:37:10.100000
-depth: 8879.586092719464
+depth: 7606.020832836207
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -178,10 +178,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -6484.82797220852
-east_shift: 5241.96344399755
+north_shift: -5028.771905331907
+east_shift: 5186.605010795993
 time: 2019-10-16 11:37:10.100000
-depth: 8977.925550506836
+depth: 9764.361946270374
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -189,10 +189,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -6484.82797220852
-east_shift: 5241.96344399755
+north_shift: -5510.863566502983
+east_shift: 5375.157485298876
 time: 2019-10-16 11:37:10.100000
-depth: 8977.925550506836
+depth: 8996.12998742488
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -200,10 +200,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -6415.899852139167
-east_shift: 5927.503391017148
+north_shift: -6033.14538249299
+east_shift: 5536.012689490582
 time: 2019-10-16 11:37:10.100000
-depth: 8838.660321680181
+depth: 6524.175565111193
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -211,10 +211,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -6415.899852139167
-east_shift: 5927.503391017148
+north_shift: -6137.11981087725
+east_shift: 6136.871088725424
 time: 2019-10-16 11:37:10.100000
-depth: 8838.660321680181
+depth: 9760.685196405
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -222,10 +222,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -3867.643967178479
-east_shift: 25936.278348576583
+north_shift: -5560.179861181258
+east_shift: 5459.54562495613
 time: 2019-10-16 11:37:10.100000
-depth: 502.82934530852947
+depth: 8881.020724442913
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -233,10 +233,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -3714.043483597624
-east_shift: 26052.85536930664
+north_shift: -5807.959011189373
+east_shift: 6302.333613459904
 time: 2019-10-16 11:37:10.100000
-depth: 532.7979791833253
+depth: 9563.086320805129
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -244,10 +244,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 20243.8755003188
-east_shift: 29616.521274299408
+north_shift: -5767.656231758817
+east_shift: 5660.1537410439605
 time: 2019-10-16 11:37:10.100000
-depth: 606.306367604355
+depth: 8820.5289761529
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -255,10 +255,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -4317.534471679401
-east_shift: 25325.222148535307
+north_shift: -5767.656231758817
+east_shift: 5660.1537410439605
 time: 2019-10-16 11:37:10.100000
-depth: 556.3409823227925
+depth: 8820.5289761529
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -266,10 +266,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -4609.086438664481
-east_shift: 25829.973474243558
+north_shift: -5321.315127477202
+east_shift: 4828.176905544561
 time: 2019-10-16 11:37:10.100000
-depth: 560.1312790661186
+depth: 7900.726921153717
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -277,10 +277,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -3927.8152558830134
-east_shift: 25926.35883833214
+north_shift: -6099.274475010463
+east_shift: 5864.281535001712
 time: 2019-10-16 11:37:10.100000
-depth: 538.4755078712113
+depth: 9011.348504731668
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -288,10 +288,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -3669.0037495033016
-east_shift: 25889.629607739927
+north_shift: -5755.753605795296
+east_shift: 5392.84877656037
 time: 2019-10-16 11:37:10.100000
-depth: 518.01834556259
+depth: 8887.817206334408
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -299,10 +299,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -3305.2568625222493
-east_shift: 25782.02427176953
+north_shift: -5415.660575001929
+east_shift: 5250.986411911125
 time: 2019-10-16 11:37:10.100000
-depth: 602.2256128228578
+depth: 9219.598394905994
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -310,10 +310,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -3612.6769281985107
-east_shift: 25828.73548518573
+north_shift: -5485.462777499244
+east_shift: 6284.636759342551
 time: 2019-10-16 11:37:10.100000
-depth: 552.6046940773901
+depth: 8991.622160822535
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -321,10 +321,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -3798.5441512650605
-east_shift: 25902.741965470486
+north_shift: -5399.828882996135
+east_shift: 5161.285212285798
 time: 2019-10-16 11:37:10.100000
-depth: 587.8364539336577
+depth: 9064.931063722915
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -332,10 +332,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -3632.024926709588
-east_shift: 26097.058327954368
+north_shift: -5177.008424559609
+east_shift: 4985.305804125107
 time: 2019-10-16 11:37:10.100000
-depth: 595.4240640337493
+depth: 8919.489693285088
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -343,10 +343,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -3873.4110457617007
-east_shift: 25910.781500024263
+north_shift: -6096.840051656616
+east_shift: 6012.850405734932
 time: 2019-10-16 11:37:10.100000
-depth: 550.6038402557182
+depth: 9436.745805040771
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -354,10 +354,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -3965.017964222533
-east_shift: 25855.259141407096
+north_shift: -5673.933032993268
+east_shift: 5193.495515279935
 time: 2019-10-16 11:37:10.100000
-depth: 578.7994567767983
+depth: 8503.543920025693
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -365,10 +365,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 19682.719091747887
-east_shift: 30323.11663794243
+north_shift: -5673.933032993268
+east_shift: 5193.495515279935
 time: 2019-10-16 11:37:10.100000
-depth: 556.9448380741966
+depth: 8503.543920025693
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -376,10 +376,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 19682.719091747887
-east_shift: 30323.11663794243
+north_shift: -5439.407832760709
+east_shift: 6081.099675944992
 time: 2019-10-16 11:37:10.100000
-depth: 556.9448380741966
+depth: 8755.390028928996
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -387,10 +387,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 20172.182399085224
-east_shift: 30284.47833789694
+north_shift: -5136.111434432872
+east_shift: 5512.230387873691
 time: 2019-10-16 11:37:10.100000
-depth: 614.9398735674046
+depth: 9863.763769428619
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -398,10 +398,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -4251.249491097435
-east_shift: 25815.7244895311
+north_shift: -5873.432618303985
+east_shift: 5628.254030400191
 time: 2019-10-16 11:37:10.100000
-depth: 505.9640363698268
+depth: 8105.010635799867
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -409,10 +409,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -3635.170685326298
-east_shift: 26078.556035936956
+north_shift: -5873.432618303985
+east_shift: 5628.254030400191
 time: 2019-10-16 11:37:10.100000
-depth: 515.1331041033804
+depth: 8105.010635799867
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -420,10 +420,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -923.2747281671245
-east_shift: 26219.747212080725
+north_shift: -6055.996166829675
+east_shift: 5424.422076087133
 time: 2019-10-16 11:37:10.100000
-depth: 555.6758091570207
+depth: 8909.014642080916
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -431,10 +431,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -4110.432299954968
-east_shift: 26103.61701346479
+north_shift: -5976.818548447563
+east_shift: 5826.849313175369
 time: 2019-10-16 11:37:10.100000
-depth: 516.7729141343318
+depth: 9219.737350032608
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -442,10 +442,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -1437.541767911528
-east_shift: 26399.606873900488
+north_shift: -5423.382459099218
+east_shift: 5219.917192554862
 time: 2019-10-16 11:37:10.100000
-depth: 523.4352153480359
+depth: 7826.967254886272
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -453,10 +453,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 19902.376148281786
-east_shift: 30055.16708229293
+north_shift: -5565.850007827415
+east_shift: 6389.533496472159
 time: 2019-10-16 11:37:10.100000
-depth: 513.573010456823
+depth: 8708.587904792368
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -464,10 +464,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -4287.720670524738
-east_shift: 25345.33184727442
+north_shift: -5387.037886041448
+east_shift: 5830.2439707147605
 time: 2019-10-16 11:37:10.100000
-depth: 520.7827850736991
+depth: 8998.495392761479
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -475,10 +475,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 20210.290488666076
-east_shift: 29820.361793209326
+north_shift: -5045.44984599812
+east_shift: 5845.648155615808
 time: 2019-10-16 11:37:10.100000
-depth: 595.5013332284823
+depth: 8518.859662974832
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -486,10 +486,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -3012.863370296572
-east_shift: 25571.311549004353
+north_shift: -5323.496237536244
+east_shift: 5765.860435414887
 time: 2019-10-16 11:37:10.100000
-depth: 514.5856125183116
+depth: 9703.900913627045
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -497,10 +497,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -3082.2359651069582
-east_shift: 25183.62903739369
+north_shift: -5884.212288696268
+east_shift: 6293.366808209107
 time: 2019-10-16 11:37:10.100000
-depth: 506.67081575491517
+depth: 8313.233976228847
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -508,10 +508,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 20491.764039018937
-east_shift: 30457.5590729553
+north_shift: -5915.73444217996
+east_shift: 6375.92237728047
 time: 2019-10-16 11:37:10.100000
-depth: 517.2819869856442
+depth: 9818.873441680626
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -519,10 +519,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 20491.764039018937
-east_shift: 30457.5590729553
+north_shift: -5985.222904361764
+east_shift: 6130.45534660593
 time: 2019-10-16 11:37:10.100000
-depth: 517.2819869856442
+depth: 8152.391070360513
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -530,10 +530,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -3951.5427127362473
-east_shift: 25578.041109187772
+north_shift: -6211.181487814048
+east_shift: 6406.938158592619
 time: 2019-10-16 11:37:10.100000
-depth: 527.9248025850723
+depth: 8964.367666257867
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -541,10 +541,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 20285.919013478448
-east_shift: 29606.21762736412
+north_shift: -5396.092021751255
+east_shift: 6307.2232764818555
 time: 2019-10-16 11:37:10.100000
-depth: 553.4298355331662
+depth: 9745.04874844572
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -552,10 +552,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -3928.196667839165
-east_shift: 25348.279268439568
+north_shift: -5398.965972592407
+east_shift: 6054.927848880429
 time: 2019-10-16 11:37:10.100000
-depth: 522.0780961557606
+depth: 8892.098307976197
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -563,10 +563,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 20184.331306331882
-east_shift: 30134.151245466986
+north_shift: -6100.134806747068
+east_shift: 5917.538342213534
 time: 2019-10-16 11:37:10.100000
-depth: 500.02363477598874
+depth: 9183.091667759963
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -574,10 +574,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 20535.90070414066
-east_shift: 29170.871489097917
+north_shift: -5370.818877153637
+east_shift: 6367.195621410584
 time: 2019-10-16 11:37:10.100000
-depth: 546.7684553299789
+depth: 9716.71113175547
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -585,10 +585,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -2710.375672188116
-east_shift: 26319.349282632582
+north_shift: -6136.982177565195
+east_shift: 6077.170554119252
 time: 2019-10-16 11:37:10.100000
-depth: 529.483209013856
+depth: 9191.411802423261
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -596,10 +596,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -3619.7104770760257
-east_shift: 26404.808028271946
+north_shift: -5741.682672404782
+east_shift: 6500.114528306525
 time: 2019-10-16 11:37:10.100000
-depth: 534.9327110144197
+depth: 9278.642856805382
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -607,10 +607,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -4522.098048666296
-east_shift: 25383.532644911207
+north_shift: -5819.774284068521
+east_shift: 6415.803138513893
 time: 2019-10-16 11:37:10.100000
-depth: 560.5929807515541
+depth: 9303.593561525091
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -618,10 +618,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -3373.9398613709377
-east_shift: 26364.931970490918
+north_shift: -6133.318189586165
+east_shift: 6186.728089653094
 time: 2019-10-16 11:37:10.100000
-depth: 529.3585047363981
+depth: 9686.818484936839
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -629,10 +629,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -3567.7077262999596
-east_shift: 25857.757555273933
+north_shift: -5354.430217630353
+east_shift: 5931.816737943264
 time: 2019-10-16 11:37:10.100000
-depth: 578.4384790188678
+depth: 7966.360721126359
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -640,10 +640,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 19945.398268969282
-east_shift: 30807.500727378334
+north_shift: -6038.665135233271
+east_shift: 6453.0243511945255
 time: 2019-10-16 11:37:10.100000
-depth: 501.97746642770124
+depth: 8998.355632013856
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -651,10 +651,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 19945.398268969282
-east_shift: 30807.500727378334
+north_shift: -5008.795455026474
+east_shift: 5492.9385495156075
 time: 2019-10-16 11:37:10.100000
-depth: 501.97746642770124
+depth: 9779.957567834985
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -662,10 +662,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -4343.149054070751
-east_shift: 25496.47787835254
+north_shift: -5352.443912133491
+east_shift: 5774.880117186751
 time: 2019-10-16 11:37:10.100000
-depth: 544.0989075835181
+depth: 9738.12053129336
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -673,10 +673,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 19365.872864991827
-east_shift: 30978.52757070489
+north_shift: -6067.134927973012
+east_shift: 5776.395301234367
 time: 2019-10-16 11:37:10.100000
-depth: 518.4586804668636
+depth: 8278.208548196817
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -684,10 +684,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 19966.45203460705
-east_shift: 29589.272064260036
+north_shift: -6067.134927973012
+east_shift: 5776.395301234367
 time: 2019-10-16 11:37:10.100000
-depth: 646.4375541978085
+depth: 8278.208548196817
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -695,10 +695,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -3003.4044088818055
-east_shift: 26064.41141045955
+north_shift: -5852.402351905059
+east_shift: 4838.398759405359
 time: 2019-10-16 11:37:10.100000
-depth: 576.7185006337036
+depth: 8638.391774345884
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -706,10 +706,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -4231.012641507606
-east_shift: 25152.796149380647
+north_shift: -6122.533961792616
+east_shift: 6194.369862572571
 time: 2019-10-16 11:37:10.100000
-depth: 587.6156270256653
+depth: 9554.258416457751
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -717,10 +717,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -3035.791225470726
-east_shift: 25479.710169412192
+north_shift: -5992.888955409498
+east_shift: 6637.413929735244
 time: 2019-10-16 11:37:10.100000
-depth: 547.2143336678622
+depth: 9817.688962978795
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -728,10 +728,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -3035.791225470726
-east_shift: 25479.710169412192
+north_shift: -5736.938809954426
+east_shift: 5374.394539614357
 time: 2019-10-16 11:37:10.100000
-depth: 547.2143336678622
+depth: 8398.152934272232
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -739,10 +739,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -4044.087387482605
-east_shift: 26328.273578779717
+north_shift: -5736.938809954426
+east_shift: 5374.394539614357
 time: 2019-10-16 11:37:10.100000
-depth: 556.3945025915424
+depth: 8398.152934272232
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -750,10 +750,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -4567.302805113857
-east_shift: 26010.982656941134
+north_shift: -5241.922101104601
+east_shift: 5494.833622195218
 time: 2019-10-16 11:37:10.100000
-depth: 563.6367599599326
+depth: 9666.077863088061
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -761,10 +761,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -3225.072217957489
-east_shift: 25749.074248463767
+north_shift: -5375.832989253733
+east_shift: 6058.544300843211
 time: 2019-10-16 11:37:10.100000
-depth: 533.7646383131328
+depth: 9167.371902420167
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -772,10 +772,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 20352.532946635918
-east_shift: 30594.332503886933
+north_shift: -5404.775835143453
+east_shift: 6176.306323774662
 time: 2019-10-16 11:37:10.100000
-depth: 525.5891392936836
+depth: 9059.826033013058
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -783,10 +783,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 20402.788936421646
-east_shift: 29747.34055568414
+north_shift: -6373.689312354477
+east_shift: 6627.9466556365005
 time: 2019-10-16 11:37:10.100000
-depth: 627.9909561166141
+depth: 8931.90398361917
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -794,10 +794,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 19682.373764492582
-east_shift: 29299.283532981714
+north_shift: -5409.435811099984
+east_shift: 4534.861468973195
 time: 2019-10-16 11:37:10.100000
-depth: 525.3435006093699
+depth: 7132.822004228682
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -805,10 +805,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -3083.413289453439
-east_shift: 26122.978226662624
+north_shift: -5388.359586769528
+east_shift: 5444.691651494597
 time: 2019-10-16 11:37:10.100000
-depth: 559.7824446148992
+depth: 8542.293168797829
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -816,10 +816,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 20211.9691875669
-east_shift: 29114.2941117829
+north_shift: -5924.797483307532
+east_shift: 6634.61864480975
 time: 2019-10-16 11:37:10.100000
-depth: 579.125915294593
+depth: 9246.362726344654
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -827,10 +827,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -3326.816506191626
-east_shift: 25364.74303774267
+north_shift: -6157.177650842713
+east_shift: 6116.136472567526
 time: 2019-10-16 11:37:10.100000
-depth: 531.8142158679559
+depth: 9183.009677232287
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -838,10 +838,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -3105.108223247724
-east_shift: 25923.2222480817
+north_shift: -5458.817083280691
+east_shift: 5190.288683149846
 time: 2019-10-16 11:37:10.100000
-depth: 503.87018818918165
+depth: 9121.537108015269
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -849,10 +849,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -3642.2614351709294
-east_shift: 25828.81763283078
+north_shift: -6076.401032734243
+east_shift: 4973.4468463692665
 time: 2019-10-16 11:37:10.100000
-depth: 588.4575333382312
+depth: 6878.076742439438
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -860,10 +860,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 19815.84003771991
-east_shift: 30124.71505522832
+north_shift: -6357.285539705245
+east_shift: 6597.68456358206
 time: 2019-10-16 11:37:10.100000
-depth: 509.6627615509858
+depth: 8997.369163446954
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -871,10 +871,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -3512.8391023896324
-east_shift: 26333.65055415675
+north_shift: -6074.67782493797
+east_shift: 6819.617693186742
 time: 2019-10-16 11:37:10.100000
-depth: 534.6948451038064
+depth: 9607.72566253776
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -882,10 +882,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -3616.291418094465
-east_shift: 25750.551708987085
+north_shift: -5539.486594468071
+east_shift: 5486.468473044964
 time: 2019-10-16 11:37:10.100000
-depth: 510.18290056449007
+depth: 9239.100015073565
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -893,10 +893,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -4494.982049884766
-east_shift: 25388.26493698261
+north_shift: -5916.717235182477
+east_shift: 5612.211389143278
 time: 2019-10-16 11:37:10.100000
-depth: 570.3580370975053
+depth: 6918.6069350732605
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -904,10 +904,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -3885.15581640895
-east_shift: 26053.060950396502
+north_shift: -6161.758893671622
+east_shift: 5454.183511140754
 time: 2019-10-16 11:37:10.100000
-depth: 566.8129618852497
+depth: 8940.35943183436
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -915,10 +915,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -2973.40047772444
-east_shift: 24990.26371367291
+north_shift: -5448.29755786558
+east_shift: 5621.347619492432
 time: 2019-10-16 11:37:10.100000
-depth: 512.2256027875094
+depth: 9673.283777392662
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -926,10 +926,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 20992.082647967694
-east_shift: 30276.630886974985
+north_shift: -5454.5922537831375
+east_shift: 6300.808694968616
 time: 2019-10-16 11:37:10.100000
-depth: 580.472589246926
+depth: 9444.28739930451
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -937,10 +937,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 20992.082647967694
-east_shift: 30276.630886974985
+north_shift: -5971.308670316763
+east_shift: 6365.758595630006
 time: 2019-10-16 11:37:10.100000
-depth: 580.472589246926
+depth: 9728.188855693357
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -948,10 +948,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 20442.658964188777
-east_shift: 29600.79597299309
+north_shift: -5154.032485304445
+east_shift: 4532.530840282914
 time: 2019-10-16 11:37:10.100000
-depth: 522.0772593644675
+depth: 6844.081836530127
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -959,10 +959,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -4189.495906075963
-east_shift: 26451.82588096878
+north_shift: -5394.63660715623
+east_shift: 4624.82930145689
 time: 2019-10-16 11:37:10.100000
-depth: 532.9456631246289
+depth: 7034.510868279123
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -970,10 +970,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -2990.7317496433157
-east_shift: 25133.529036106236
+north_shift: -5312.2294671574455
+east_shift: 6165.596211050077
 time: 2019-10-16 11:37:10.100000
-depth: 505.33462721803363
+depth: 8675.717911863105
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -981,10 +981,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -3831.4893038510095
-east_shift: 26504.353648467313
+north_shift: -5049.374864159864
+east_shift: 5879.1754591983445
 time: 2019-10-16 11:37:10.100000
-depth: 587.2938717115378
+depth: 8462.700218667947
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -992,10 +992,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -3831.4893038510095
-east_shift: 26504.353648467313
+north_shift: -6325.209650855936
+east_shift: 4861.770811688028
 time: 2019-10-16 11:37:10.100000
-depth: 587.2938717115378
+depth: 7332.688270845355
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1003,10 +1003,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -3332.340670083118
-east_shift: 26038.875554531354
+north_shift: -5382.802608539706
+east_shift: 4407.446296217539
 time: 2019-10-16 11:37:10.100000
-depth: 515.9186121133586
+depth: 6874.609577886821
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1014,10 +1014,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 18517.210677655963
-east_shift: 30719.140073638402
+north_shift: -5827.735032447192
+east_shift: 5843.174293977125
 time: 2019-10-16 11:37:10.100000
-depth: 544.6318781620558
+depth: 9390.578073643977
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1025,10 +1025,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 18517.210677655963
-east_shift: 30719.140073638402
+north_shift: -5827.735032447192
+east_shift: 5843.174293977125
 time: 2019-10-16 11:37:10.100000
-depth: 544.6318781620558
+depth: 9390.578073643977
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1036,10 +1036,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 20446.766624428714
-east_shift: 28445.23236042537
+north_shift: -5948.788993011919
+east_shift: 5599.4613306688025
 time: 2019-10-16 11:37:10.100000
-depth: 546.5526063792117
+depth: 9894.313955861648
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1047,10 +1047,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 20085.60183287264
-east_shift: 29394.17511110532
+north_shift: -5047.278492123313
+east_shift: 6021.394170859107
 time: 2019-10-16 11:37:10.100000
-depth: 514.7131110856247
+depth: 8084.973826740104
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1058,10 +1058,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -6975.83848028833
-east_shift: 28408.41002038845
+north_shift: -5429.613539693838
+east_shift: 5075.210074252522
 time: 2019-10-16 11:37:10.100000
-depth: 520.2517268187088
+depth: 9186.834049604324
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1069,10 +1069,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -3955.5817809593673
-east_shift: 25502.589324511904
+north_shift: -6019.478854922613
+east_shift: 6173.514905252037
 time: 2019-10-16 11:37:10.100000
-depth: 535.3757804472157
+depth: 9365.761370189794
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1080,10 +1080,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -3658.644318416716
-east_shift: 25697.982140419404
+north_shift: -6100.623691818938
+east_shift: 6837.625195672057
 time: 2019-10-16 11:37:10.100000
-depth: 511.33117436238695
+depth: 9363.03167048579
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1091,10 +1091,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -5523.070817283993
-east_shift: 28531.705592545877
+north_shift: -5412.739531645799
+east_shift: 4536.494429523788
 time: 2019-10-16 11:37:10.100000
-depth: 629.9648248742452
+depth: 6767.269910968244
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1102,10 +1102,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 20583.405124386725
-east_shift: 30196.127984724786
+north_shift: -5556.02733718051
+east_shift: 6308.0085571391055
 time: 2019-10-16 11:37:10.100000
-depth: 549.6038659302391
+depth: 8210.150551766457
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1113,10 +1113,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -3944.5346921847304
-east_shift: 25828.95286136313
+north_shift: -5166.418495319791
+east_shift: 6045.512709031728
 time: 2019-10-16 11:37:10.100000
-depth: 554.9959499526623
+depth: 8386.602326505532
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1124,10 +1124,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -3454.8253223237343
-east_shift: 26525.22071075426
+north_shift: -5320.426813018435
+east_shift: 4545.377372112494
 time: 2019-10-16 11:37:10.100000
-depth: 530.3077854611996
+depth: 7024.528741413214
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1135,10 +1135,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -3632.621015563939
-east_shift: 26832.36498690288
+north_shift: -5332.072522630196
+east_shift: 5322.42293407119
 time: 2019-10-16 11:37:10.100000
-depth: 521.5112679378174
+depth: 9041.456254303388
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1146,10 +1146,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -2714.5314079809514
-east_shift: 26321.511409877734
+north_shift: -6153.706272841433
+east_shift: 5606.089344087604
 time: 2019-10-16 11:37:10.100000
-depth: 511.24632529384303
+depth: 9535.476201587158
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1157,10 +1157,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -5731.083112714274
-east_shift: 25844.714953909435
+north_shift: -5948.5757094693445
+east_shift: 6707.686768164953
 time: 2019-10-16 11:37:10.100000
-depth: 506.1782665213397
+depth: 9557.577994465139
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1168,10 +1168,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -4071.092288426952
-east_shift: 26184.404612431972
+north_shift: -5223.736697910739
+east_shift: 5200.18114475726
 time: 2019-10-16 11:37:10.100000
-depth: 549.7361304273506
+depth: 9484.255680354483
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1179,10 +1179,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 20480.32700690016
-east_shift: 30870.9637077856
+north_shift: -5323.7597555959355
+east_shift: 4424.897273384127
 time: 2019-10-16 11:37:10.100000
-depth: 580.3351441911675
+depth: 6643.31874608137
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1190,10 +1190,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -3751.429988347534
-east_shift: 25703.63807923888
+north_shift: -6078.5471607788295
+east_shift: 6264.105873279179
 time: 2019-10-16 11:37:10.100000
-depth: 538.5726150154401
+depth: 8914.944415301305
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1201,10 +1201,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -2865.948111560944
-east_shift: 25198.395323979443
+north_shift: -5401.437074880016
+east_shift: 4695.634497380424
 time: 2019-10-16 11:37:10.100000
-depth: 507.6070209293292
+depth: 6996.201755582208
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1212,10 +1212,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -3965.5757585804567
-east_shift: 25879.24919087108
+north_shift: -6057.817450402776
+east_shift: 5673.216140979352
 time: 2019-10-16 11:37:10.100000
-depth: 519.6997426717732
+depth: 9292.455034188322
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1223,10 +1223,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 17160.02698017407
-east_shift: 28697.023485786216
+north_shift: -5833.645114233487
+east_shift: 5358.954551426358
 time: 2019-10-16 11:37:10.100000
-depth: 663.5544168223728
+depth: 8086.485246240861
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1234,10 +1234,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 18610.19904543582
-east_shift: 29341.742489076296
+north_shift: -5999.00013407718
+east_shift: 6803.306000894202
 time: 2019-10-16 11:37:10.100000
-depth: 648.8842594413402
+depth: 9747.851171417089
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1245,10 +1245,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 19699.56466164563
-east_shift: 30409.633770646087
+north_shift: -5372.120684466045
+east_shift: 6140.197241851847
 time: 2019-10-16 11:37:10.100000
-depth: 518.9982560248957
+depth: 8647.19594019357
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1256,10 +1256,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 20467.09292012228
-east_shift: 30413.005872154998
+north_shift: -6086.094005728154
+east_shift: 6367.428344977561
 time: 2019-10-16 11:37:10.100000
-depth: 549.0867796971328
+depth: 9666.030172654984
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1267,10 +1267,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 20061.682304059035
-east_shift: 29719.949046257305
+north_shift: -5148.248934519326
+east_shift: 4223.034475997575
 time: 2019-10-16 11:37:10.100000
-depth: 560.8394467229978
+depth: 6652.377812418489
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1278,10 +1278,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -4331.1274678658865
-east_shift: 24682.47805605537
+north_shift: -6075.852498394155
+east_shift: 5045.833674111138
 time: 2019-10-16 11:37:10.100000
-depth: 521.7178869804455
+depth: 6479.3185551483
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1289,10 +1289,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 20431.079401948668
-east_shift: 30022.648253945612
+north_shift: -5865.49380221543
+east_shift: 5700.739837841179
 time: 2019-10-16 11:37:10.100000
-depth: 592.0491515648573
+depth: 7906.325811397758
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1300,10 +1300,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -3670.3601841058858
-east_shift: 25034.93288591628
+north_shift: -5974.712948872196
+east_shift: 5250.676439584464
 time: 2019-10-16 11:37:10.100000
-depth: 548.6534393290881
+depth: 9912.96817185847
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1311,10 +1311,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -4093.449661601375
-east_shift: 26493.516730588286
+north_shift: -6041.607191609128
+east_shift: 6777.235926309117
 time: 2019-10-16 11:37:10.100000
-depth: 507.097403844381
+depth: 9601.600731862134
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1322,10 +1322,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 20399.17146319906
-east_shift: 30284.538550059242
+north_shift: -6119.679846640258
+east_shift: 5213.347393947838
 time: 2019-10-16 11:37:10.100000
-depth: 505.80363283047205
+depth: 6525.041877359415
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1333,10 +1333,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -3424.0475255716906
-east_shift: 26084.9150854551
+north_shift: -5905.050399412529
+east_shift: 5630.123143354731
 time: 2019-10-16 11:37:10.100000
-depth: 504.879351503683
+depth: 7867.97459876678
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1344,10 +1344,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 20418.790694415056
-east_shift: 29849.007393532145
+north_shift: -5905.050399412529
+east_shift: 5630.123143354731
 time: 2019-10-16 11:37:10.100000
-depth: 529.2474923027243
+depth: 7867.97459876678
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1355,10 +1355,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -3822.6048564732
-east_shift: 24306.766793401675
+north_shift: -5905.050399412529
+east_shift: 5630.123143354731
 time: 2019-10-16 11:37:10.100000
-depth: 552.7572595629705
+depth: 7867.97459876678
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1366,10 +1366,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -3656.7804690220582
-east_shift: 24509.936022484315
+north_shift: -6001.677779745089
+east_shift: 6442.059934123529
 time: 2019-10-16 11:37:10.100000
-depth: 595.1090976317467
+depth: 8184.780669743622
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1377,10 +1377,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -4065.2644056694967
-east_shift: 26515.925457956753
+north_shift: -5687.506779247109
+east_shift: 5679.765853925561
 time: 2019-10-16 11:37:10.100000
-depth: 519.5261668188142
+depth: 8289.711839899377
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1388,10 +1388,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -4131.263070973451
-east_shift: 26248.35887358409
+north_shift: -5687.506779247109
+east_shift: 5679.765853925561
 time: 2019-10-16 11:37:10.100000
-depth: 552.4843627398673
+depth: 8289.711839899377
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1399,10 +1399,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 19651.779135604767
-east_shift: 31294.99943311436
+north_shift: -5665.4769309890935
+east_shift: 5519.141282851117
 time: 2019-10-16 11:37:10.100000
-depth: 556.990594732195
+depth: 8747.561863588387
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1410,10 +1410,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 18819.291759414136
-east_shift: 29830.57268777915
+north_shift: -5665.4769309890935
+east_shift: 5519.141282851117
 time: 2019-10-16 11:37:10.100000
-depth: 508.526440177016
+depth: 8747.561863588387
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1421,10 +1421,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -3530.907050140883
-east_shift: 26113.108576209826
+north_shift: -5665.4769309890935
+east_shift: 5519.141282851117
 time: 2019-10-16 11:37:10.100000
-depth: 566.2194198083723
+depth: 8747.561863588387
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1432,10 +1432,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -3046.907303925051
-east_shift: 26542.72735158051
+north_shift: -5982.779685371123
+east_shift: 6452.830423334125
 time: 2019-10-16 11:37:10.100000
-depth: 560.4505759983119
+depth: 8697.541647804155
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1443,10 +1443,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -3516.9904058564766
-east_shift: 26414.61934171556
+north_shift: -5209.471366817313
+east_shift: 4598.3939891071295
 time: 2019-10-16 11:37:10.100000
-depth: 529.4710226789717
+depth: 6858.041810840146
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1454,10 +1454,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 20845.764052085135
-east_shift: 30957.819818132713
+north_shift: -5680.0844665726045
+east_shift: 5721.812259803595
 time: 2019-10-16 11:37:10.100000
-depth: 558.1875521202977
+depth: 9374.2547955252
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1465,10 +1465,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -3414.1470072755437
-east_shift: 25313.60201664749
+north_shift: -5680.0844665726045
+east_shift: 5721.812259803595
 time: 2019-10-16 11:37:10.100000
-depth: 525.7446530932497
+depth: 9374.2547955252
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1476,10 +1476,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 19913.840843276248
-east_shift: 29998.558967912995
+north_shift: -5921.018356928622
+east_shift: 5960.267279256045
 time: 2019-10-16 11:37:10.100000
-depth: 568.0530698227373
+depth: 8923.321298311985
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1487,10 +1487,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 20344.48339150194
-east_shift: 29206.915096131514
+north_shift: -6148.79576310891
+east_shift: 6458.278361764223
 time: 2019-10-16 11:37:10.100000
-depth: 550.4733070161342
+depth: 8991.659845910428
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1498,10 +1498,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -3719.7567859390024
-east_shift: 25988.92031296785
+north_shift: -5507.822977514482
+east_shift: 6230.111586124985
 time: 2019-10-16 11:37:10.100000
-depth: 544.6974793553674
+depth: 8812.141211428474
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1509,10 +1509,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 20251.0618115675
-east_shift: 29750.931248082896
+north_shift: -5451.454904211535
+east_shift: 4699.504192216941
 time: 2019-10-16 11:37:10.100000
-depth: 501.16811277894874
+depth: 6428.108678062603
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1520,10 +1520,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -3642.0371204981784
-east_shift: 26546.384439135258
+north_shift: -5116.528741638633
+east_shift: 6210.964218831493
 time: 2019-10-16 11:37:10.100000
-depth: 569.1006636478168
+depth: 8844.467900588927
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1531,10 +1531,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -3784.1183451449574
-east_shift: 25999.93658378457
+north_shift: -5816.284971614483
+east_shift: 6218.9596498439305
 time: 2019-10-16 11:37:10.100000
-depth: 1080.6101000515196
+depth: 9125.87403765547
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1542,10 +1542,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 17250.353685320606
-east_shift: 28987.433623527897
+north_shift: -5736.573476869871
+east_shift: 4831.633454008409
 time: 2019-10-16 11:37:10.100000
-depth: 519.8518529580696
+depth: 7578.774664327349
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1553,10 +1553,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 20495.417082060085
-east_shift: 29964.384768163298
+north_shift: -6013.9990633686075
+east_shift: 5326.798696825024
 time: 2019-10-16 11:37:10.100000
-depth: 522.2070921890007
+depth: 9909.073316878774
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1564,10 +1564,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 20447.065503084723
-east_shift: 30185.256015566654
+north_shift: -5932.754886356864
+east_shift: 6347.401765630424
 time: 2019-10-16 11:37:10.100000
-depth: 590.2410547706318
+depth: 9291.739511988417
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1575,10 +1575,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 20124.662027205828
-east_shift: 30229.55266392028
+north_shift: -5702.221491725769
+east_shift: 5661.581734071237
 time: 2019-10-16 11:37:10.100000
-depth: 520.697935520308
+depth: 9222.188191355363
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1586,10 +1586,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -4645.6882825324765
-east_shift: 26697.885495375176
+north_shift: -5702.221491725769
+east_shift: 5661.581734071237
 time: 2019-10-16 11:37:10.100000
-depth: 527.2800001323882
+depth: 9222.188191355363
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1597,10 +1597,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 20247.512455110413
-east_shift: 29632.171173164177
+north_shift: -6175.16339341455
+east_shift: 5087.878382140196
 time: 2019-10-16 11:37:10.100000
-depth: 505.8738846969933
+depth: 6899.228330043474
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1608,10 +1608,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 19993.99673553612
-east_shift: 28533.47089421383
+north_shift: -5786.783578487345
+east_shift: 5396.724072480287
 time: 2019-10-16 11:37:10.100000
-depth: 535.9791065473506
+depth: 8147.7162981076835
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1619,10 +1619,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 20355.53451359018
-east_shift: 30110.75871559068
+north_shift: -6208.183643605659
+east_shift: 5712.031966449498
 time: 2019-10-16 11:37:10.100000
-depth: 615.3408140319261
+depth: 7269.23359787333
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1630,10 +1630,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 20355.53451359018
-east_shift: 30110.75871559068
+north_shift: -5915.6530351194
+east_shift: 5415.8879255132815
 time: 2019-10-16 11:37:10.100000
-depth: 615.3408140319261
+depth: 9942.771228464919
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1641,10 +1641,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 18815.840610296713
-east_shift: 29659.82845270436
+north_shift: -5934.718122766405
+east_shift: 4489.857071648926
 time: 2019-10-16 11:37:10.100000
-depth: 516.3933471611178
+depth: 6575.055279578226
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1652,10 +1652,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 18815.840610296713
-east_shift: 29659.82845270436
+north_shift: -6037.596433154509
+east_shift: 5281.176254007812
 time: 2019-10-16 11:37:10.100000
-depth: 516.3933471611178
+depth: 8703.415944580474
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1663,10 +1663,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -3892.5507003062103
-east_shift: 25834.05953607708
+north_shift: -6037.596433154509
+east_shift: 5281.176254007812
 time: 2019-10-16 11:37:10.100000
-depth: 884.6623403319355
+depth: 8703.415944580474
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1674,10 +1674,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -6095.955578815298
-east_shift: 26060.085796131643
+north_shift: -6394.459519710926
+east_shift: 6336.371928538974
 time: 2019-10-16 11:37:10.100000
-depth: 526.4619913760383
+depth: 7948.525649131928
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1685,10 +1685,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 20319.103843599263
-east_shift: 29762.709560027048
+north_shift: -5891.152362589558
+east_shift: 5962.013046542863
 time: 2019-10-16 11:37:10.100000
-depth: 515.5548841696158
+depth: 8571.142117409103
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1696,10 +1696,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 20319.103843599263
-east_shift: 29762.709560027048
+north_shift: -5735.246606559918
+east_shift: 4827.3680043608765
 time: 2019-10-16 11:37:10.100000
-depth: 515.5548841696158
+depth: 7566.357603694276
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1707,10 +1707,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -2986.421477462194
-east_shift: 25860.817922497714
+north_shift: -5252.212979106297
+east_shift: 5971.312435400757
 time: 2019-10-16 11:37:10.100000
-depth: 628.646841888106
+depth: 8079.746672971833
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1718,10 +1718,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 20151.532759537124
-east_shift: 29950.60651649515
+north_shift: -5930.983638791383
+east_shift: 5345.173070018998
 time: 2019-10-16 11:37:10.100000
-depth: 513.1015040718582
+depth: 9033.754585077437
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1729,10 +1729,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -3228.949180767241
-east_shift: 26101.4717433905
+north_shift: -5930.983638791383
+east_shift: 5345.173070018998
 time: 2019-10-16 11:37:10.100000
-depth: 884.7321615145936
+depth: 9033.754585077437
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1740,10 +1740,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -3445.6659602366126
-east_shift: 25010.713376909403
+north_shift: -5930.983638791383
+east_shift: 5345.173070018998
 time: 2019-10-16 11:37:10.100000
-depth: 501.039841194292
+depth: 9033.754585077437
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1751,10 +1751,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 20917.868858570102
-east_shift: 28848.09367722121
+north_shift: -5812.436030269612
+east_shift: 5556.350662628364
 time: 2019-10-16 11:37:10.100000
-depth: 532.9644583787164
+depth: 7834.579959390609
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1762,10 +1762,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 20254.865512271488
-east_shift: 29922.280749354293
+north_shift: -5487.545882775572
+east_shift: 4526.552411790956
 time: 2019-10-16 11:37:10.100000
-depth: 506.15434066255483
+depth: 7001.381267504302
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1773,10 +1773,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -4058.8146259025084
-east_shift: 26516.496997048875
+north_shift: -5976.309316800548
+east_shift: 5500.62850413171
 time: 2019-10-16 11:37:10.100000
-depth: 528.7835602526177
+depth: 9823.06290055153
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1784,10 +1784,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 20039.215164578192
-east_shift: 29807.90298326648
+north_shift: -5976.309316800548
+east_shift: 5500.62850413171
 time: 2019-10-16 11:37:10.100000
-depth: 537.4192002477939
+depth: 9823.06290055153
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1795,10 +1795,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 20774.022794425364
-east_shift: 30034.78018544968
+north_shift: -5568.832791893303
+east_shift: 4465.475856468472
 time: 2019-10-16 11:37:10.100000
-depth: 600.5420944503032
+depth: 7328.823432767831
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1806,10 +1806,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -4743.087042098019
-east_shift: 26682.593668812307
+north_shift: -5677.409227461002
+east_shift: 4835.251998814232
 time: 2019-10-16 11:37:10.100000
-depth: 569.3301691991852
+depth: 6735.6279667030385
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1817,10 +1817,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 18927.93312466612
-east_shift: 31342.717506660054
+north_shift: -5882.449000497229
+east_shift: 5816.999606659113
 time: 2019-10-16 11:37:10.100000
-depth: 574.5110104712613
+depth: 9264.708837021184
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1828,10 +1828,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -5936.344891449133
-east_shift: 27487.325639226656
+north_shift: -5882.449000497229
+east_shift: 5816.999606659113
 time: 2019-10-16 11:37:10.100000
-depth: 577.6117089676612
+depth: 9264.708837021184
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1839,10 +1839,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 20362.498841248038
-east_shift: 28276.354044967156
+north_shift: -5109.58744807713
+east_shift: 5903.587380897914
 time: 2019-10-16 11:37:10.100000
-depth: 506.9364122162866
+depth: 8001.340897666543
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1850,10 +1850,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -4002.706636599927
-east_shift: 25845.143202403164
+north_shift: -5873.55380995553
+east_shift: 5007.752360903102
 time: 2019-10-16 11:37:10.100000
-depth: 514.7291669109144
+depth: 8750.534512789112
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1861,10 +1861,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 17565.55919744319
-east_shift: 30489.172269057213
+north_shift: -5839.318303171817
+east_shift: 5053.502052003831
 time: 2019-10-16 11:37:10.100000
-depth: 540.1679928621411
+depth: 7583.366782994641
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1872,10 +1872,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 17565.55919744319
-east_shift: 30489.172269057213
+north_shift: -5619.356524900848
+east_shift: 5716.403538835251
 time: 2019-10-16 11:37:10.100000
-depth: 540.1679928621411
+depth: 9363.68337381022
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1883,10 +1883,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -3037.4862545152437
-east_shift: 25794.885865138025
+north_shift: -5657.690515229362
+east_shift: 5779.77584604739
 time: 2019-10-16 11:37:10.100000
-depth: 501.15831099041117
+depth: 9375.939698464454
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1894,10 +1894,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 19975.85833059682
-east_shift: 30118.176806521486
+north_shift: -6032.298766542303
+east_shift: 5390.107349090607
 time: 2019-10-16 11:37:10.100000
-depth: 535.1061353460026
+depth: 7917.278106085461
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1905,10 +1905,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 20405.742788236745
-east_shift: 27979.56573958083
+north_shift: -5867.79272969382
+east_shift: 5813.19433040051
 time: 2019-10-16 11:37:10.100000
-depth: 655.6375113044998
+depth: 8777.278964908317
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1916,10 +1916,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -3753.7872033044014
-east_shift: 25325.880183254136
+north_shift: -6001.3480391763405
+east_shift: 4997.307681145119
 time: 2019-10-16 11:37:10.100000
-depth: 548.1950077544517
+depth: 7595.690523802497
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1927,10 +1927,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 20025.314240848424
-east_shift: 28773.413857983247
+north_shift: -5767.312911216922
+east_shift: 5815.685801551116
 time: 2019-10-16 11:37:10.100000
-depth: 572.8746773373488
+depth: 9401.50851414791
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1938,10 +1938,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 19633.06531808354
-east_shift: 30518.131447118954
+north_shift: -5778.223562895087
+east_shift: 5290.308087494381
 time: 2019-10-16 11:37:10.100000
-depth: 553.5522757081171
+depth: 6814.553307566738
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1949,10 +1949,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -1642.0934921583253
-east_shift: 25979.463131718898
+north_shift: -5596.250465449783
+east_shift: 4816.742429942047
 time: 2019-10-16 11:37:10.100000
-depth: 857.613503811418
+depth: 7846.020860734859
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1960,10 +1960,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 20883.99621059361
-east_shift: 29987.727102470548
+north_shift: -6113.426624896083
+east_shift: 5339.677556447966
 time: 2019-10-16 11:37:10.100000
-depth: 519.3297476946603
+depth: 8130.537135275232
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1971,10 +1971,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 19929.652397866557
-east_shift: 30427.76536754042
+north_shift: -6060.226773534681
+east_shift: 5227.450037619217
 time: 2019-10-16 11:37:10.100000
-depth: 507.01848138342314
+depth: 7520.93133687959
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1982,10 +1982,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 20703.811440002977
-east_shift: 29257.725788083044
+north_shift: -5852.4890046804185
+east_shift: 4713.911041201288
 time: 2019-10-16 11:37:10.100000
-depth: 555.2419853399301
+depth: 7559.101376785852
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -1993,10 +1993,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -2744.665028977642
-east_shift: 26259.50044540863
+north_shift: -5974.554380945224
+east_shift: 5126.388027429223
 time: 2019-10-16 11:37:10.100000
-depth: 1060.2029720550918
+depth: 8099.557039552742
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -2004,10 +2004,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -1035.9128474742565
-east_shift: 26153.02438445565
+north_shift: -6073.656137015244
+east_shift: 5848.431754401888
 time: 2019-10-16 11:37:10.100000
-depth: 529.3417455410005
+depth: 8782.907569515124
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -2015,10 +2015,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -5487.027850663663
-east_shift: 25669.65568043494
+north_shift: -5374.742368759519
+east_shift: 6172.703077774292
 time: 2019-10-16 11:37:10.100000
-depth: 591.1007826229076
+depth: 8620.500380526873
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -2026,10 +2026,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -3890.291035956464
-east_shift: 26058.781452184005
+north_shift: -6025.918999554745
+east_shift: 6138.03058792923
 time: 2019-10-16 11:37:10.100000
-depth: 518.2378751015813
+depth: 8228.543267418912
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -2037,10 +2037,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -6475.89505649887
-east_shift: 24537.948727705083
+north_shift: -6018.051470735209
+east_shift: 5542.223181157492
 time: 2019-10-16 11:37:10.100000
-depth: 561.7451781667967
+depth: 7653.3345775905345
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -2048,10 +2048,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -4143.042086211142
-east_shift: 25745.83874232533
+north_shift: -5487.021547075875
+east_shift: 5071.410515040354
 time: 2019-10-16 11:37:10.100000
-depth: 799.6647154784544
+depth: 7756.7151655299285
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -2059,10 +2059,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 19677.08444480111
-east_shift: 30982.333669841326
+north_shift: -5777.733906226459
+east_shift: 4966.728772784573
 time: 2019-10-16 11:37:10.100000
-depth: 579.0715098651054
+depth: 7874.616343031186
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -2070,10 +2070,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -4348.752862444664
-east_shift: 25280.418083292025
+north_shift: -5988.917397468576
+east_shift: 5452.689958331344
 time: 2019-10-16 11:37:10.100000
-depth: 529.283865537312
+depth: 8312.032306694824
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -2081,10 +2081,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 20434.222828987396
-east_shift: 29126.493230830394
+north_shift: -6122.343512339433
+east_shift: 5700.82221628358
 time: 2019-10-16 11:37:10.100000
-depth: 539.7187355623255
+depth: 8130.661918072985
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -2092,10 +2092,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 19638.765690950444
-east_shift: 29074.41012799976
+north_shift: -5725.77438333484
+east_shift: 4945.151031794258
 time: 2019-10-16 11:37:10.100000
-depth: 598.0519023137801
+depth: 8526.211720035639
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -2103,10 +2103,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 19638.765690950444
-east_shift: 29074.41012799976
+north_shift: -5849.595381120195
+east_shift: 5738.242788581676
 time: 2019-10-16 11:37:10.100000
-depth: 598.0519023137801
+depth: 9009.457348052349
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -2114,10 +2114,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -3550.7189367062774
-east_shift: 24568.229555507296
+north_shift: -5757.135241012191
+east_shift: 5693.707779941327
 time: 2019-10-16 11:37:10.100000
-depth: 502.0237713490976
+depth: 8577.756142128932
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -2125,10 +2125,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 23464.506403565636
-east_shift: 30811.40691631862
+north_shift: -5757.135241012191
+east_shift: 5693.707779941327
 time: 2019-10-16 11:37:10.100000
-depth: 538.6335927341328
+depth: 8577.756142128932
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -2136,10 +2136,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -4583.152518365873
-east_shift: 25932.869250036914
+north_shift: -6164.621738570342
+east_shift: 5942.328962821638
 time: 2019-10-16 11:37:10.100000
-depth: 534.0102031055392
+depth: 8728.288803096717
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -2147,10 +2147,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -4583.152518365873
-east_shift: 25932.869250036914
+north_shift: -6156.311320717133
+east_shift: 6018.53407455993
 time: 2019-10-16 11:37:10.100000
-depth: 534.0102031055392
+depth: 8043.540801651463
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -2158,10 +2158,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 19984.241400497267
-east_shift: 30379.5328824322
+north_shift: -6270.838715832234
+east_shift: 6120.83539152122
 time: 2019-10-16 11:37:10.100000
-depth: 597.3152210171822
+depth: 8772.771653352907
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -2169,10 +2169,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 19984.241400497267
-east_shift: 30379.5328824322
+north_shift: -5972.846875057846
+east_shift: 5291.132624200316
 time: 2019-10-16 11:37:10.100000
-depth: 597.3152210171822
+depth: 7743.776450691322
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -2180,10 +2180,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 17289.72894109415
-east_shift: 33831.22933731145
+north_shift: -5910.405235244085
+east_shift: 5084.3565538485145
 time: 2019-10-16 11:37:10.100000
-depth: 602.2312946920915
+depth: 7896.840372268127
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -2191,10 +2191,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 19856.255523742006
-east_shift: 29295.588000374642
+north_shift: -5894.713007748937
+east_shift: 5192.898611686862
 time: 2019-10-16 11:37:10.100000
-depth: 528.8394197515688
+depth: 8689.889802502805
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -2202,10 +2202,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 18930.938544250916
-east_shift: 31933.828740803565
+north_shift: -6609.270548615253
+east_shift: 5645.83922379892
 time: 2019-10-16 11:37:10.100000
-depth: 560.3149488363259
+depth: 8273.661716307437
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -2213,10 +2213,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -3144.500424146744
-east_shift: 25927.461664846287
+north_shift: -5869.04726414951
+east_shift: 5247.990342015459
 time: 2019-10-16 11:37:10.100000
-depth: 625.3186106928315
+depth: 8830.137076715404
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -2224,10 +2224,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -4475.7081613845085
-east_shift: 24070.48354049108
+north_shift: -5910.101512689623
+east_shift: 5351.969585443176
 time: 2019-10-16 11:37:10.100000
-depth: 540.9529200485629
+depth: 8552.980177011832
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -2235,10 +2235,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -4475.7081613845085
-east_shift: 24070.48354049108
+north_shift: -6771.58005089148
+east_shift: 5781.685346238236
 time: 2019-10-16 11:37:10.100000
-depth: 540.9529200485629
+depth: 8989.487401297347
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -2246,10 +2246,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -2575.9334904289594
-east_shift: 26679.488597784235
+north_shift: -5839.9698497185545
+east_shift: 5481.360857401188
 time: 2019-10-16 11:37:10.100000
-depth: 601.8564085392977
+depth: 7017.214657367306
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -2257,10 +2257,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 19244.64049846894
-east_shift: 29785.408825396007
+north_shift: -6367.990248430131
+east_shift: 5557.1594589216575
 time: 2019-10-16 11:37:10.100000
-depth: 520.2345340168902
+depth: 7457.016663057195
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -2268,10 +2268,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 20276.355297004313
-east_shift: 29955.062467032723
+north_shift: -5852.6135018656605
+east_shift: 5121.229068950524
 time: 2019-10-16 11:37:10.100000
-depth: 532.5439058683186
+depth: 7157.835544580419
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -2279,10 +2279,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -3864.8846449760526
-east_shift: 26021.55432467732
+north_shift: -5766.38755287594
+east_shift: 4907.618707517012
 time: 2019-10-16 11:37:10.100000
-depth: 516.3173172442961
+depth: 8524.174028924224
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -2290,10 +2290,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 19949.222234158548
-east_shift: 28959.871233450074
+north_shift: -6262.063236632925
+east_shift: 5878.762099504897
 time: 2019-10-16 11:37:10.100000
-depth: 504.46031036381913
+depth: 9056.851524929698
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -2301,10 +2301,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 22441.2931022006
-east_shift: 29151.713316709982
+north_shift: -5989.528889128728
+east_shift: 5893.6528185505185
 time: 2019-10-16 11:37:10.100000
-depth: 560.3809347945296
+depth: 8171.593068205336
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -2312,10 +2312,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 20652.73769968521
-east_shift: 30290.11869096498
+north_shift: -5863.5869873569
+east_shift: 4968.922229330064
 time: 2019-10-16 11:37:10.100000
-depth: 514.2071920881525
+depth: 7384.658942025697
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -2323,10 +2323,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -3310.7455675147353
-east_shift: 26060.339967078944
+north_shift: -5939.2499551448855
+east_shift: 4268.340565062739
 time: 2019-10-16 11:37:10.100000
-depth: 598.3102476643861
+depth: 6569.037369290182
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -2334,10 +2334,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -3515.130316503666
-east_shift: 24624.358800582915
+north_shift: -5383.551585249833
+east_shift: 4563.783742006811
 time: 2019-10-16 11:37:10.100000
-depth: 504.89494958168353
+depth: 6938.167547654882
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -2345,10 +2345,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -4139.409930021966
-east_shift: 24550.824640996227
+north_shift: -6764.590202937638
+east_shift: 5332.282886109161
 time: 2019-10-16 11:37:10.100000
-depth: 516.60789246877
+depth: 8143.043961174701
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -2356,10 +2356,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 20658.17442498793
-east_shift: 29087.96163252429
+north_shift: -5823.394121384255
+east_shift: 5059.390561621486
 time: 2019-10-16 11:37:10.100000
-depth: 576.4944322295567
+depth: 7409.195590619068
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -2367,10 +2367,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 19136.749473935783
-east_shift: 30557.984620441715
+north_shift: -6322.685086503267
+east_shift: 5300.891731310983
 time: 2019-10-16 11:37:10.100000
-depth: 585.4818074708038
+depth: 8012.343623418768
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -2378,10 +2378,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 19554.16523332694
-east_shift: 31302.61526346354
+north_shift: -6264.641797392751
+east_shift: 5695.443143341388
 time: 2019-10-16 11:37:10.100000
-depth: 550.917147586525
+depth: 8417.076621223323
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -2389,10 +2389,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 21283.312544235905
-east_shift: 29695.61920433762
+north_shift: -5832.046572135723
+east_shift: 5278.877047279007
 time: 2019-10-16 11:37:10.100000
-depth: 506.63155757864615
+depth: 8733.340026022019
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -2400,10 +2400,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 19208.612528359197
-east_shift: 30341.21795271846
+north_shift: -6272.617715515183
+east_shift: 5961.813009941994
 time: 2019-10-16 11:37:10.100000
-depth: 548.7630865638234
+depth: 8153.141723106698
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -2411,10 +2411,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -3742.162339755405
-east_shift: 26451.44702497596
+north_shift: -5977.9686517833525
+east_shift: 5791.273434648988
 time: 2019-10-16 11:37:10.100000
-depth: 503.6446217792861
+depth: 9230.944916450559
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -2422,10 +2422,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 19095.553410965593
-east_shift: 32456.644634040942
+north_shift: -5745.2242349490925
+east_shift: 4882.992651211953
 time: 2019-10-16 11:37:10.100000
-depth: 513.6284637587227
+depth: 7068.549873306885
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -2433,10 +2433,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -4705.612987857676
-east_shift: 26728.569340639326
+north_shift: -5976.187012821089
+east_shift: 5428.909731274431
 time: 2019-10-16 11:37:10.100000
-depth: 549.2040733617904
+depth: 7268.622432084245
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -2444,10 +2444,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -4944.520363247027
-east_shift: 26863.624067026696
+north_shift: -5636.919578456667
+east_shift: 5205.909230838638
 time: 2019-10-16 11:37:10.100000
-depth: 500.0431034409486
+depth: 8454.651317781454
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -2455,10 +2455,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 19751.821682863003
-east_shift: 30228.364828867976
+north_shift: -5965.123761730973
+east_shift: 5280.31162165634
 time: 2019-10-16 11:37:10.100000
-depth: 503.636522219791
+depth: 8903.87389078971
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -2466,10 +2466,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 19751.821682863003
-east_shift: 30228.364828867976
+north_shift: -5875.211010938522
+east_shift: 5358.802612761074
 time: 2019-10-16 11:37:10.100000
-depth: 503.636522219791
+depth: 9545.748573982592
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -2477,10 +2477,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 19751.821682863003
-east_shift: 30228.364828867976
+north_shift: -5647.965609304838
+east_shift: 4700.205058533437
 time: 2019-10-16 11:37:10.100000
-depth: 503.636522219791
+depth: 7219.651389327897
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -2488,10 +2488,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 18485.997471969717
-east_shift: 31466.15244445984
+north_shift: -6096.814606930127
+east_shift: 5715.359904806059
 time: 2019-10-16 11:37:10.100000
-depth: 564.5587584748499
+depth: 8275.907475845077
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -2499,10 +2499,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -3769.2342689324114
-east_shift: 25762.3304196172
+north_shift: -5981.7049832062185
+east_shift: 5390.694738663802
 time: 2019-10-16 11:37:10.100000
-depth: 533.1924485500476
+depth: 8703.817067135566
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -2510,10 +2510,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 20536.768088444118
-east_shift: 28623.177786246662
+north_shift: -5981.7049832062185
+east_shift: 5390.694738663802
 time: 2019-10-16 11:37:10.100000
-depth: 589.8945698359495
+depth: 8703.817067135566
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -2521,10 +2521,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 19859.42570456577
-east_shift: 29339.34859535621
+north_shift: -5949.174671931725
+east_shift: 5176.000304149139
 time: 2019-10-16 11:37:10.100000
-depth: 766.7301196852321
+depth: 7425.109860656668
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -2532,10 +2532,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 19879.377610640575
-east_shift: 29219.293687596433
+north_shift: -6815.611548195024
+east_shift: 5426.531729938443
 time: 2019-10-16 11:37:10.100000
-depth: 1006.443327660887
+depth: 8121.062961289196
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -2543,10 +2543,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -4380.26513899623
-east_shift: 24755.270734012713
+north_shift: -6708.787487223104
+east_shift: 5529.474235603855
 time: 2019-10-16 11:37:10.100000
-depth: 505.0785709097846
+depth: 8821.119544014597
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -2554,10 +2554,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -4054.356396957599
-east_shift: 26403.07503775343
+north_shift: -6472.464272115616
+east_shift: 5466.667127800714
 time: 2019-10-16 11:37:10.100000
-depth: 568.1120606154584
+depth: 9280.358554019995
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -2565,10 +2565,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -5872.609469703781
-east_shift: 27594.894914798522
+north_shift: -5889.27878384357
+east_shift: 5631.319082789947
 time: 2019-10-16 11:37:10.100000
-depth: 588.1348170983172
+depth: 9224.68726048446
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -2576,10 +2576,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 20071.64893817154
-east_shift: 28849.30858697808
+north_shift: -6009.352416403309
+east_shift: 5276.658127674545
 time: 2019-10-16 11:37:10.100000
-depth: 788.1491078556256
+depth: 8714.18867082711
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -2587,10 +2587,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 21009.994521869747
-east_shift: 27742.91314542621
+north_shift: -6009.352416403309
+east_shift: 5276.658127674545
 time: 2019-10-16 11:37:10.100000
-depth: 534.9199132744492
+depth: 8714.18867082711
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -2598,10 +2598,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 20049.31151900056
-east_shift: 29171.55727793476
+north_shift: -6365.62474685078
+east_shift: 6027.05190393326
 time: 2019-10-16 11:37:10.100000
-depth: 837.3818965255573
+depth: 7655.74302081583
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -2609,10 +2609,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 20805.26480946398
-east_shift: 29884.014911131693
+north_shift: -6777.908970742194
+east_shift: 5594.150972912486
 time: 2019-10-16 11:37:10.100000
-depth: 516.2949546688448
+depth: 8941.941761173453
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -2620,10 +2620,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 19984.268348132497
-east_shift: 29186.619372125147
+north_shift: -6258.625588795759
+east_shift: 5822.988062979355
 time: 2019-10-16 11:37:10.100000
-depth: 910.2749056097365
+depth: 7656.745581017477
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -2631,10 +2631,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 20220.426786516462
-east_shift: 29381.49244505339
+north_shift: -5943.766883410943
+east_shift: 4388.585410123201
 time: 2019-10-16 11:37:10.100000
-depth: 587.1277751250587
+depth: 6756.577821732575
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -2642,10 +2642,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 19094.8397309107
-east_shift: 30141.029795116512
+north_shift: -5802.6428055017905
+east_shift: 5197.307177084857
 time: 2019-10-16 11:37:10.100000
-depth: 558.924017673801
+depth: 7394.963141735029
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -2653,10 +2653,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 20283.438729799396
-east_shift: 27912.427654832816
+north_shift: -6300.107736398591
+east_shift: 5845.301818637452
 time: 2019-10-16 11:37:10.100000
-depth: 518.7760633288631
+depth: 6831.339751922266
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -2664,10 +2664,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 19715.920685577057
-east_shift: 29280.272820130613
+north_shift: -6065.09877249195
+east_shift: 5463.124664363566
 time: 2019-10-16 11:37:10.100000
-depth: 764.8625155865335
+depth: 9090.780154241658
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -2675,10 +2675,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 19891.67430750119
-east_shift: 30897.557765945447
+north_shift: -6167.534563322771
+east_shift: 5414.748996538194
 time: 2019-10-16 11:37:10.100000
-depth: 546.2092983721777
+depth: 8291.819816034464
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -2686,10 +2686,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 18808.333877088095
-east_shift: 31822.031939670454
+north_shift: -5624.294726202017
+east_shift: 5452.549439791387
 time: 2019-10-16 11:37:10.100000
-depth: 523.5782284009632
+depth: 9445.160924736583
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -2697,10 +2697,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -3159.334749877371
-east_shift: 25780.95156109326
+north_shift: -5621.7800991229715
+east_shift: 5407.254522082327
 time: 2019-10-16 11:37:10.100000
-depth: 529.6271997975608
+depth: 9346.496980290778
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -2708,10 +2708,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 20726.76550277842
-east_shift: 28749.875128735308
+north_shift: -5598.842111139924
+east_shift: 5336.877684787028
 time: 2019-10-16 11:37:10.100000
-depth: 519.6666119376695
+depth: 9319.45257445163
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -2719,10 +2719,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 19394.555601045922
-east_shift: 32175.722964179822
+north_shift: -6467.117296881858
+east_shift: 5525.018059045766
 time: 2019-10-16 11:37:10.100000
-depth: 523.8371670030081
+depth: 9272.240379768113
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -2730,10 +2730,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -4620.655909976306
-east_shift: 26451.734964564494
+north_shift: -6062.966439559442
+east_shift: 5737.635094664338
 time: 2019-10-16 11:37:10.100000
-depth: 512.2699774233217
+depth: 7844.247209280005
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -2741,10 +2741,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -5735.209243855173
-east_shift: 27570.439217612504
+north_shift: -6257.738793888266
+east_shift: 5282.671407514524
 time: 2019-10-16 11:37:10.100000
-depth: 581.8862530551031
+depth: 9134.381899741356
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -2752,10 +2752,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 19032.62547406035
-east_shift: 30298.26147517011
+north_shift: -6437.1072785153665
+east_shift: 5608.445437345849
 time: 2019-10-16 11:37:10.100000
-depth: 557.4086355645592
+depth: 7366.8139791144795
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -2763,10 +2763,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 19330.228840295407
-east_shift: 29680.275715023756
+north_shift: -5704.484117772091
+east_shift: 4980.044332515919
 time: 2019-10-16 11:37:10.100000
-depth: 589.8909529794637
+depth: 7326.40831198883
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -2774,10 +2774,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 19367.785064048614
-east_shift: 29863.910014426943
+north_shift: -6130.1666603180365
+east_shift: 5597.964957682849
 time: 2019-10-16 11:37:10.100000
-depth: 552.0881709716455
+depth: 8798.684437913193
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -2785,10 +2785,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -4434.456947098082
-east_shift: 25306.806728379703
+north_shift: -6321.687846599183
+east_shift: 5977.838287426407
 time: 2019-10-16 11:37:10.100000
-depth: 524.1171271442537
+depth: 7873.234986823384
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -2796,10 +2796,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 20650.32484380045
-east_shift: 28845.56303033464
+north_shift: -5963.769398418757
+east_shift: 4506.017724448973
 time: 2019-10-16 11:37:10.100000
-depth: 557.936257545708
+depth: 6661.335663622549
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -2807,10 +2807,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -2976.0225777922715
-east_shift: 25084.792305090676
+north_shift: -5949.563482606215
+east_shift: 6047.131874434325
 time: 2019-10-16 11:37:10.100000
-depth: 553.772631936149
+depth: 8386.436209913423
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -2818,10 +2818,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 19825.57948202751
-east_shift: 30962.05228429526
+north_shift: -5920.118978829373
+east_shift: 5406.924796412947
 time: 2019-10-16 11:37:10.100000
-depth: 527.033502575924
+depth: 9236.265848034
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -2829,10 +2829,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 18970.649552392657
-east_shift: 29550.39035723647
+north_shift: -5820.726580148318
+east_shift: 5671.752708161722
 time: 2019-10-16 11:37:10.100000
-depth: 548.9021197665486
+depth: 9025.69379940834
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -2840,10 +2840,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -3710.433197788223
-east_shift: 26415.123946144202
+north_shift: -6031.267625031065
+east_shift: 5624.713847350367
 time: 2019-10-16 11:37:10.100000
-depth: 566.9264740461144
+depth: 8602.619860338786
 name: foreshock_Oct16
 duration: 4.0
 tags: []
@@ -2851,10 +2851,10 @@ tags: []
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: 20146.69058704516
-east_shift: 33627.879913234785
+north_shift: -5866.660674009115
+east_shift: 5808.959042200827
 time: 2019-10-16 11:37:10.100000
-depth: 531.5853830907397
+depth: 8120.852856480505
 name: foreshock_Oct16
 duration: 4.0
 tags: []

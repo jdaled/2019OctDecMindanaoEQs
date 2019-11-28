@@ -27,44 +27,55 @@ formats:
 - !grond.PNG {}
 variant: default
 feather_icon: fast-forward
-size_cm: [14.0, 6.0]
+size_cm:
+- 14.0
+- 6.0
 items:
 - !grond.PlotItem
   name: fig_1
   attributes:
-    parameters: [east_shift]
+    parameters:
+    - east_shift
 - !grond.PlotItem
   name: fig_2
   attributes:
-    parameters: [north_shift]
+    parameters:
+    - north_shift
 - !grond.PlotItem
   name: fig_3
   attributes:
-    parameters: [depth]
+    parameters:
+    - depth
 - !grond.PlotItem
   name: fig_4
   attributes:
-    parameters: [length]
+    parameters:
+    - length
 - !grond.PlotItem
   name: fig_5
   attributes:
-    parameters: [width]
+    parameters:
+    - width
 - !grond.PlotItem
   name: fig_6
   attributes:
-    parameters: [slip]
+    parameters:
+    - slip
 - !grond.PlotItem
   name: fig_7
   attributes:
-    parameters: [strike]
+    parameters:
+    - strike
 - !grond.PlotItem
   name: fig_8
   attributes:
-    parameters: [dip]
+    parameters:
+    - dip
 - !grond.PlotItem
   name: fig_9
   attributes:
-    parameters: [rake]
+    parameters:
+    - rake
 - !grond.PlotItem
   name: fig_10
   attributes:

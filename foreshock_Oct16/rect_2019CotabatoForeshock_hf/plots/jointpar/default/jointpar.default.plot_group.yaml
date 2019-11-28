@@ -23,18 +23,38 @@ formats:
 - !grond.PNG {}
 variant: default
 feather_icon: crosshair
-size_cm: [20.0, 20.0]
+size_cm:
+- 20.0
+- 20.0
 items:
 - !grond.PlotItem
   name: fig_0_0
   attributes:
-    parameters: [east_shift, north_shift, depth, length, width, slip, strike]
+    parameters:
+    - east_shift
+    - north_shift
+    - depth
+    - length
+    - width
+    - slip
+    - strike
 - !grond.PlotItem
   name: fig_1_0
   attributes:
-    parameters: [east_shift, dip, north_shift, depth, length, width, slip, rake]
+    parameters:
+    - east_shift
+    - dip
+    - north_shift
+    - depth
+    - length
+    - width
+    - slip
+    - rake
 - !grond.PlotItem
   name: fig_1_1
   attributes:
-    parameters: [strike, dip, rake]
+    parameters:
+    - strike
+    - dip
+    - rake
 attributes: {}

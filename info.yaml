@@ -4,16 +4,16 @@ description: This interactive document aggregates earthquake source inversion re
   from optimisations performed with Grond.
 version_info: !grond.VersionInfo
   grond_version: '1.3.1'
-  grond_long_version: 'grond_1.3.1_8ea864b001a6ab554a20bef30c6f6b9370d6318c_2019-11-20_16:57:30'
-  git_sha1: '8ea864b001a6ab554a20bef30c6f6b9370d6318c'
+  grond_long_version: 'grond_1.3.1_f0e96fb186a0bcdbccaaf238abead84787c69bcd_2019-10-24_14:57:33'
+  git_sha1: 'f0e96fb186a0bcdbccaaf238abead84787c69bcd'
   local_modifications: false
-  installed_date: '2019-11-20_16:57:30'
+  installed_date: '2019-10-24_14:57:33'
   dependencies:
-    PyQt: '5.11.3'
-    Qt: '5.11.2'
-    matplotlib: '3.0.2'
-    numpy: '1.16.1'
-    pyrocko: 'pyrocko-2019.06.06-3a57e599ade70a18781b0cadd82fd5cb9f4303f2-2019-10-24_14:49:05'
+    PyQt: '5.13.1'
+    Qt: '5.13.0'
+    matplotlib: '3.1.1'
+    numpy: '1.17.2'
+    pyrocko: 'pyrocko-2019.06.06-3a57e599ade70a18781b0cadd82fd5cb9f4303f2-2019-10-24_14:57:24'
     python: '3.7.1'
     scipy: '1.1.0'
 have_archive: true

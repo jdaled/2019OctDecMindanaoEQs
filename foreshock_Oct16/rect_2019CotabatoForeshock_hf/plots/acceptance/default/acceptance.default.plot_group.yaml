@@ -16,7 +16,9 @@ formats:
 - !grond.PNG {}
 variant: default
 feather_icon: check
-size_cm: [21.0, 14.9]
+size_cm:
+- 21.0
+- 14.9
 items:
 - !grond.PlotItem
   name: acceptance

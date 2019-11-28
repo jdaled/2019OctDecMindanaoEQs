@@ -31,13 +31,16 @@ formats:
 - !grond.PNG {}
 variant: default
 feather_icon: navigation
-size_cm: [22.0, 12.0]
+size_cm:
+- 22.0
+- 12.0
 items:
 - !grond.PlotItem
   name: fig_0
   attributes:
-    targets: [insar]
-  title: Satellite Surface Displacements - Foreshock_Sentinel-1_descending
+    targets:
+    - insar
+  title: Satellite Surface Displacements - Cotabato2019_Foreshock_S1
   description: '
 
     Surface displacements derived from satellite data.
@@ -50,8 +53,9 @@ items:
 - !grond.PlotItem
   name: fig_1
   attributes:
-    targets: [insar]
-  title: Satellite Surface Displacements - Foreshock_ALOS-2_ascending
+    targets:
+    - insar
+  title: Satellite Surface Displacements - Cotabato2019_Foreshock_A2
   description: '
 
     Surface displacements derived from satellite data.
