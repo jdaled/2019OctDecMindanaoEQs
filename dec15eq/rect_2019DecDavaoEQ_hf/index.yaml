@@ -1,0 +1,42 @@
+--- !grond.ReportIndexEntry
+path: .
+problem_name: rect_2019DecDavaoEQ_hf
+event_reference: !pf.Event
+  lat: 6.64
+  lon: 125.16
+  time: 2019-12-15 06:11:51.100000
+  depth: 12000.0
+  name: dec15eq
+  magnitude: 6.7
+  region: MINDANAO PHILIPPINES
+  catalog: Copley
+  moment_tensor: !pf.MomentTensor
+    mnn: -2.6e+17
+    mee: 5.26e+18
+    mdd: -5.0e+18
+    mne: -5.45e+17
+    mnd: -2.42e+17
+    med: 1.57e+17
+    strike1: 8.32170979758868
+    dip1: 46.06403175975352
+    rake1: -86.18561223261874
+    strike2: 182.83303284774937
+    dip2: 44.067537362364604
+    rake2: -93.94956706712848
+    moment: 5.171831203742054e+18
+    magnitude: 6.442429561401127
+  tags: []
+  extras: {}
+event_best: !pf.Event
+  lat: 6.64
+  lon: 125.16
+  north_shift: 5029.665175082262
+  east_shift: 899.6560875450039
+  time: 2019-12-15 06:11:51.100000
+  depth: 0.21949983517896074
+  name: dec15eq
+  tags: []
+  extras: {}
+grond_version: 1.3.1
+run_info: !grond.RunInfo
+  tags: []
