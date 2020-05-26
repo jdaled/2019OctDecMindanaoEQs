@@ -1,15 +1,15 @@
 --- !grond.RectangularProblem
 name: rect_2019DecDavaoEQ_hf
 ranges:
-  depth: 0 .. 10000
+  depth: 0 .. 5000
   dip: 40 .. 90
   east_shift: -10000 .. 20000
   length: 10000 .. 100000
-  north_shift: -20000 .. 10000
-  rake: -180 .. 180
-  slip: 0 .. 3
-  strike: 180 .. 360
-  width: 2000 .. 25000
+  north_shift: -10000 .. 20000
+  rake: -30 .. 90
+  slip: 0 .. 2
+  strike: 270 .. 360
+  width: 2000 .. 30000
 norm_exponent: 2
 base_source: !pf.RectangularSource
   lat: 6.64
@@ -26,7 +26,6 @@ base_source: !pf.RectangularSource
   width: 0.0
   anchor: top
   velocity: 3500.0
-  decimation_factor: 2
 targets:
 - !grond.SatelliteMisfitTarget
   lats: |2

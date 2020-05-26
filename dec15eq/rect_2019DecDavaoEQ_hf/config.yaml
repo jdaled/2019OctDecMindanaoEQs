@@ -31,16 +31,16 @@ problem_config: !grond.RectangularProblemConfig
   name_template: rect_2019DecDavaoEQ_hf
   norm_exponent: 2
   ranges:
-    depth: 0 .. 10000
+    depth: 0 .. 5000
     dip: 40 .. 90
     east_shift: -10000 .. 20000
     length: 10000 .. 100000
-    north_shift: -20000 .. 10000
-    rake: -180 .. 180
-    slip: 0 .. 3
-    strike: 180 .. 360
-    width: 2000 .. 25000
-  decimation_factor: 2
+    north_shift: -10000 .. 20000
+    rake: -30 .. 90
+    slip: 0 .. 2
+    strike: 270 .. 360
+    width: 2000 .. 30000
+  decimation_factor: 1
   distance_min: 0.0
   nthreads: 4
 analyser_configs:
