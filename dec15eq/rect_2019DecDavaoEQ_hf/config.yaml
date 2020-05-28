@@ -15,7 +15,7 @@ target_groups:
 - !grond.SatelliteTargetGroup
   normalisation_family: static
   path: insar
-  weight: 0.66
+  weight: 1.0
   interpolation: multilinear
   store_id: ph_local_hf
   kite_scenes:
@@ -29,7 +29,7 @@ target_groups:
 - !grond.SatelliteTargetGroup
   normalisation_family: static
   path: insar2
-  weight: 1.0
+  weight: 0.66
   interpolation: multilinear
   store_id: ph_local_hf
   kite_scenes:
@@ -53,7 +53,7 @@ problem_config: !grond.RectangularProblemConfig
     slip: 0 .. 2
     strike: 270 .. 360
     width: 2000 .. 30000
-  decimation_factor: 1
+  decimation_factor: 2
   distance_min: 0.0
   nthreads: 4
 analyser_configs:

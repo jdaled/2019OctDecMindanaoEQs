@@ -26,6 +26,7 @@ base_source: !pf.RectangularSource
   width: 0.0
   anchor: top
   velocity: 3500.0
+  decimation_factor: 2
 targets:
 - !grond.SatelliteMisfitTarget
   lats: |2
@@ -907,7 +908,7 @@ target_groups:
 - !grond.SatelliteTargetGroup
   normalisation_family: static
   path: insar
-  weight: 0.66
+  weight: 1.0
   interpolation: multilinear
   store_id: ph_local_hf
   kite_scenes:
@@ -916,7 +917,7 @@ target_groups:
 - !grond.SatelliteTargetGroup
   normalisation_family: static
   path: insar2
-  weight: 1.0
+  weight: 0.66
   interpolation: multilinear
   store_id: ph_local_hf
   kite_scenes:
