@@ -2,10 +2,10 @@
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4458.038823901465
-east_shift: 1707.1269546572878
+north_shift: 4212.074135274537
+east_shift: 2230.1297205386545
 time: 2019-12-15 06:11:51.100000
-depth: 733.2912376634245
+depth: 1248.7413895913116
 name: dec15eq
 tags: []
 extras: {}

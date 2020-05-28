@@ -2,10 +2,10 @@
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4480.6598006867225
-east_shift: 1725.2002572420022
+north_shift: 4189.692957594169
+east_shift: 2205.452391034502
 time: 2019-12-15 06:11:51.100000
-depth: 723.7919433479234
+depth: 1274.6701103739213
 name: dec15eq
 tags: []
 extras: {}
@@ -13,10 +13,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4480.6598006867225
-east_shift: 1725.2002572420022
+north_shift: 4194.772912882822
+east_shift: 2212.7546574540015
 time: 2019-12-15 06:11:51.100000
-depth: 723.7919433479234
+depth: 1270.1823316018795
 name: dec15eq
 tags: []
 extras: {}
@@ -24,10 +24,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4481.996637300994
-east_shift: 1733.0665291567104
+north_shift: 4192.288075074275
+east_shift: 2208.99699186049
 time: 2019-12-15 06:11:51.100000
-depth: 727.5200830057464
+depth: 1277.8473096285034
 name: dec15eq
 tags: []
 extras: {}
@@ -35,10 +35,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4481.996637300994
-east_shift: 1733.0665291567104
+north_shift: 4193.068009586388
+east_shift: 2215.6587575123594
 time: 2019-12-15 06:11:51.100000
-depth: 727.5200830057464
+depth: 1283.909816225994
 name: dec15eq
 tags: []
 extras: {}
@@ -46,10 +46,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4481.996637300994
-east_shift: 1733.0665291567104
+north_shift: 4186.4160446997
+east_shift: 2214.634237121221
 time: 2019-12-15 06:11:51.100000
-depth: 727.5200830057464
+depth: 1268.5544134202173
 name: dec15eq
 tags: []
 extras: {}
@@ -57,10 +57,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4481.996637300994
-east_shift: 1733.0665291567104
+north_shift: 4188.931101433743
+east_shift: 2216.956867412654
 time: 2019-12-15 06:11:51.100000
-depth: 727.5200830057464
+depth: 1271.1463322826455
 name: dec15eq
 tags: []
 extras: {}
@@ -68,10 +68,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4481.996637300994
-east_shift: 1733.0665291567104
+north_shift: 4194.100104396165
+east_shift: 2206.8483516014016
 time: 2019-12-15 06:11:51.100000
-depth: 727.5200830057464
+depth: 1277.9610735902586
 name: dec15eq
 tags: []
 extras: {}
@@ -79,10 +79,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4481.996637300994
-east_shift: 1733.0665291567104
+north_shift: 4194.100104396165
+east_shift: 2206.8483516014016
 time: 2019-12-15 06:11:51.100000
-depth: 727.5200830057464
+depth: 1277.9610735902586
 name: dec15eq
 tags: []
 extras: {}
@@ -90,10 +90,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4481.996637300994
-east_shift: 1733.0665291567104
+north_shift: 4197.38815104656
+east_shift: 2194.24467674134
 time: 2019-12-15 06:11:51.100000
-depth: 727.5200830057464
+depth: 1290.279242432413
 name: dec15eq
 tags: []
 extras: {}
@@ -101,10 +101,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4481.996637300994
-east_shift: 1733.0665291567104
+north_shift: 4204.394184878772
+east_shift: 2198.6293893443335
 time: 2019-12-15 06:11:51.100000
-depth: 727.5200830057464
+depth: 1262.573029154771
 name: dec15eq
 tags: []
 extras: {}
@@ -112,10 +112,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4481.996637300994
-east_shift: 1733.0665291567104
+north_shift: 4204.394184878772
+east_shift: 2198.6293893443335
 time: 2019-12-15 06:11:51.100000
-depth: 727.5200830057464
+depth: 1262.573029154771
 name: dec15eq
 tags: []
 extras: {}
@@ -123,10 +123,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4468.976101233643
-east_shift: 1689.1987933852388
+north_shift: 4203.2974861315315
+east_shift: 2201.609397782577
 time: 2019-12-15 06:11:51.100000
-depth: 718.8614320758492
+depth: 1266.8229824906402
 name: dec15eq
 tags: []
 extras: {}
@@ -134,10 +134,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4468.976101233643
-east_shift: 1689.1987933852388
+north_shift: 4203.2974861315315
+east_shift: 2201.609397782577
 time: 2019-12-15 06:11:51.100000
-depth: 718.8614320758492
+depth: 1266.8229824906402
 name: dec15eq
 tags: []
 extras: {}
@@ -145,10 +145,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4468.976101233643
-east_shift: 1689.1987933852388
+north_shift: 4203.2974861315315
+east_shift: 2201.609397782577
 time: 2019-12-15 06:11:51.100000
-depth: 718.8614320758492
+depth: 1266.8229824906402
 name: dec15eq
 tags: []
 extras: {}
@@ -156,10 +156,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4463.226803199241
-east_shift: 1708.948483627401
+north_shift: 4193.735525112925
+east_shift: 2196.064088986789
 time: 2019-12-15 06:11:51.100000
-depth: 728.9599128624021
+depth: 1272.7783607163312
 name: dec15eq
 tags: []
 extras: {}
@@ -167,10 +167,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4463.226803199241
-east_shift: 1708.948483627401
+north_shift: 4197.385821728651
+east_shift: 2213.717960940357
 time: 2019-12-15 06:11:51.100000
-depth: 728.9599128624021
+depth: 1270.7196443732817
 name: dec15eq
 tags: []
 extras: {}
@@ -178,10 +178,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4463.226803199241
-east_shift: 1708.948483627401
+north_shift: 4197.385821728651
+east_shift: 2213.717960940357
 time: 2019-12-15 06:11:51.100000
-depth: 728.9599128624021
+depth: 1270.7196443732817
 name: dec15eq
 tags: []
 extras: {}
@@ -189,10 +189,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4463.226803199241
-east_shift: 1708.948483627401
+north_shift: 4197.385821728651
+east_shift: 2213.717960940357
 time: 2019-12-15 06:11:51.100000
-depth: 728.9599128624021
+depth: 1270.7196443732817
 name: dec15eq
 tags: []
 extras: {}
@@ -200,10 +200,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4463.226803199241
-east_shift: 1708.948483627401
+north_shift: 4195.509926732087
+east_shift: 2207.2321733331396
 time: 2019-12-15 06:11:51.100000
-depth: 728.9599128624021
+depth: 1265.7573960075408
 name: dec15eq
 tags: []
 extras: {}
@@ -211,10 +211,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4463.226803199241
-east_shift: 1708.948483627401
+north_shift: 4195.509926732087
+east_shift: 2207.2321733331396
 time: 2019-12-15 06:11:51.100000
-depth: 728.9599128624021
+depth: 1265.7573960075408
 name: dec15eq
 tags: []
 extras: {}
@@ -222,10 +222,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4463.226803199241
-east_shift: 1708.948483627401
+north_shift: 4196.654718885851
+east_shift: 2240.769730043823
 time: 2019-12-15 06:11:51.100000
-depth: 728.9599128624021
+depth: 1270.9451328105254
 name: dec15eq
 tags: []
 extras: {}
@@ -233,10 +233,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4463.226803199241
-east_shift: 1708.948483627401
+north_shift: 4192.864444748878
+east_shift: 2202.627164476576
 time: 2019-12-15 06:11:51.100000
-depth: 728.9599128624021
+depth: 1269.5068700713337
 name: dec15eq
 tags: []
 extras: {}
@@ -244,10 +244,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4463.226803199241
-east_shift: 1708.948483627401
+north_shift: 4192.864444748878
+east_shift: 2202.627164476576
 time: 2019-12-15 06:11:51.100000
-depth: 728.9599128624021
+depth: 1269.5068700713337
 name: dec15eq
 tags: []
 extras: {}
@@ -255,10 +255,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4463.226803199241
-east_shift: 1708.948483627401
+north_shift: 4192.864444748878
+east_shift: 2202.627164476576
 time: 2019-12-15 06:11:51.100000
-depth: 728.9599128624021
+depth: 1269.5068700713337
 name: dec15eq
 tags: []
 extras: {}
@@ -266,10 +266,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4463.226803199241
-east_shift: 1708.948483627401
+north_shift: 4202.948286930257
+east_shift: 2203.276066690852
 time: 2019-12-15 06:11:51.100000
-depth: 728.9599128624021
+depth: 1274.725766640868
 name: dec15eq
 tags: []
 extras: {}
@@ -277,10 +277,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4463.226803199241
-east_shift: 1708.948483627401
+north_shift: 4210.887855744998
+east_shift: 2260.7704943467957
 time: 2019-12-15 06:11:51.100000
-depth: 728.9599128624021
+depth: 1270.0830030895559
 name: dec15eq
 tags: []
 extras: {}
@@ -288,10 +288,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4463.226803199241
-east_shift: 1708.948483627401
+north_shift: 4207.568078655514
+east_shift: 2235.459995313938
 time: 2019-12-15 06:11:51.100000
-depth: 728.9599128624021
+depth: 1265.1046652495809
 name: dec15eq
 tags: []
 extras: {}
@@ -299,10 +299,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4463.226803199241
-east_shift: 1708.948483627401
+north_shift: 4201.916440653309
+east_shift: 2244.853760440844
 time: 2019-12-15 06:11:51.100000
-depth: 728.9599128624021
+depth: 1269.7500051524614
 name: dec15eq
 tags: []
 extras: {}
@@ -310,10 +310,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4463.226803199241
-east_shift: 1708.948483627401
+north_shift: 4330.012330609892
+east_shift: 2072.5770564365703
 time: 2019-12-15 06:11:51.100000
-depth: 728.9599128624021
+depth: 1226.830098116771
 name: dec15eq
 tags: []
 extras: {}
@@ -321,10 +321,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4463.226803199241
-east_shift: 1708.948483627401
+north_shift: 4206.058206641363
+east_shift: 2239.0449886761203
 time: 2019-12-15 06:11:51.100000
-depth: 728.9599128624021
+depth: 1270.2444482056474
 name: dec15eq
 tags: []
 extras: {}
@@ -332,10 +332,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4463.226803199241
-east_shift: 1708.948483627401
+north_shift: 4193.236221817612
+east_shift: 2241.1262199534362
 time: 2019-12-15 06:11:51.100000
-depth: 728.9599128624021
+depth: 1273.560474603228
 name: dec15eq
 tags: []
 extras: {}
@@ -343,10 +343,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4463.226803199241
-east_shift: 1708.948483627401
+north_shift: 4200.10718695718
+east_shift: 2238.19253494889
 time: 2019-12-15 06:11:51.100000
-depth: 728.9599128624021
+depth: 1267.1989567917024
 name: dec15eq
 tags: []
 extras: {}
@@ -354,10 +354,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4463.226803199241
-east_shift: 1708.948483627401
+north_shift: 4203.353336884374
+east_shift: 2235.3730365745682
 time: 2019-12-15 06:11:51.100000
-depth: 728.9599128624021
+depth: 1266.4340765927166
 name: dec15eq
 tags: []
 extras: {}
@@ -365,10 +365,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4463.226803199241
-east_shift: 1708.948483627401
+north_shift: 4203.353336884374
+east_shift: 2235.3730365745682
 time: 2019-12-15 06:11:51.100000
-depth: 728.9599128624021
+depth: 1266.4340765927166
 name: dec15eq
 tags: []
 extras: {}
@@ -376,10 +376,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4463.226803199241
-east_shift: 1708.948483627401
+north_shift: 4204.526026066264
+east_shift: 2211.2521123119773
 time: 2019-12-15 06:11:51.100000
-depth: 728.9599128624021
+depth: 1264.9233587188455
 name: dec15eq
 tags: []
 extras: {}
@@ -387,10 +387,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4454.750350036447
-east_shift: 1745.5364135162743
+north_shift: 4197.481948647682
+east_shift: 2224.6933513997124
 time: 2019-12-15 06:11:51.100000
-depth: 731.7763552482566
+depth: 1258.7482405426879
 name: dec15eq
 tags: []
 extras: {}
@@ -398,10 +398,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4439.631922389279
-east_shift: 1692.5467905884345
+north_shift: 4200.676280683403
+east_shift: 2234.2400391410347
 time: 2019-12-15 06:11:51.100000
-depth: 730.4569204044464
+depth: 1269.2933046345704
 name: dec15eq
 tags: []
 extras: {}
@@ -409,10 +409,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4439.631922389279
-east_shift: 1692.5467905884345
+north_shift: 4196.817502967463
+east_shift: 2231.75184395909
 time: 2019-12-15 06:11:51.100000
-depth: 730.4569204044464
+depth: 1268.1979823908923
 name: dec15eq
 tags: []
 extras: {}
@@ -420,10 +420,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4439.631922389279
-east_shift: 1692.5467905884345
+north_shift: 4190.768364455961
+east_shift: 2203.655419047192
 time: 2019-12-15 06:11:51.100000
-depth: 730.4569204044464
+depth: 1260.3231793852215
 name: dec15eq
 tags: []
 extras: {}
@@ -431,10 +431,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4439.631922389279
-east_shift: 1692.5467905884345
+north_shift: 4203.655230345582
+east_shift: 2207.529573497214
 time: 2019-12-15 06:11:51.100000
-depth: 730.4569204044464
+depth: 1275.579742508167
 name: dec15eq
 tags: []
 extras: {}
@@ -442,10 +442,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4439.631922389279
-east_shift: 1692.5467905884345
+north_shift: 4205.561865445291
+east_shift: 2255.574045541383
 time: 2019-12-15 06:11:51.100000
-depth: 730.4569204044464
+depth: 1276.4274046753028
 name: dec15eq
 tags: []
 extras: {}
@@ -453,10 +453,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4439.631922389279
-east_shift: 1692.5467905884345
+north_shift: 4201.765550625597
+east_shift: 2229.321662980827
 time: 2019-12-15 06:11:51.100000
-depth: 730.4569204044464
+depth: 1262.2711306355188
 name: dec15eq
 tags: []
 extras: {}
@@ -464,10 +464,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4439.631922389279
-east_shift: 1692.5467905884345
+north_shift: 4216.859160756665
+east_shift: 2255.9982424787754
 time: 2019-12-15 06:11:51.100000
-depth: 730.4569204044464
+depth: 1253.2603027906644
 name: dec15eq
 tags: []
 extras: {}
@@ -475,10 +475,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4439.631922389279
-east_shift: 1692.5467905884345
+north_shift: 4200.778371605416
+east_shift: 2213.4239827574775
 time: 2019-12-15 06:11:51.100000
-depth: 730.4569204044464
+depth: 1269.1322566419162
 name: dec15eq
 tags: []
 extras: {}
@@ -486,10 +486,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4439.631922389279
-east_shift: 1692.5467905884345
+north_shift: 4202.767160788035
+east_shift: 2260.0395766331585
 time: 2019-12-15 06:11:51.100000
-depth: 730.4569204044464
+depth: 1276.909211021262
 name: dec15eq
 tags: []
 extras: {}
@@ -497,10 +497,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4439.631922389279
-east_shift: 1692.5467905884345
+north_shift: 4214.926831769995
+east_shift: 2184.6075640604363
 time: 2019-12-15 06:11:51.100000
-depth: 730.4569204044464
+depth: 1256.1854179673917
 name: dec15eq
 tags: []
 extras: {}
@@ -508,10 +508,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4439.631922389279
-east_shift: 1692.5467905884345
+north_shift: 4211.974519832276
+east_shift: 2239.4764539033986
 time: 2019-12-15 06:11:51.100000
-depth: 730.4569204044464
+depth: 1248.0712862775295
 name: dec15eq
 tags: []
 extras: {}
@@ -519,10 +519,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4439.631922389279
-east_shift: 1692.5467905884345
+north_shift: 4206.7310018696135
+east_shift: 2180.1295705366174
 time: 2019-12-15 06:11:51.100000
-depth: 730.4569204044464
+depth: 1250.2076333268742
 name: dec15eq
 tags: []
 extras: {}
@@ -530,10 +530,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4439.631922389279
-east_shift: 1692.5467905884345
+north_shift: 4210.107609197903
+east_shift: 2260.0898731946263
 time: 2019-12-15 06:11:51.100000
-depth: 730.4569204044464
+depth: 1273.0678973069578
 name: dec15eq
 tags: []
 extras: {}
@@ -541,10 +541,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4439.631922389279
-east_shift: 1692.5467905884345
+north_shift: 4208.336004908434
+east_shift: 2237.020629307885
 time: 2019-12-15 06:11:51.100000
-depth: 730.4569204044464
+depth: 1265.2904845640246
 name: dec15eq
 tags: []
 extras: {}
@@ -552,10 +552,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4467.543618000876
-east_shift: 1741.882602853666
+north_shift: 4212.263499702515
+east_shift: 2239.893096095729
 time: 2019-12-15 06:11:51.100000
-depth: 729.6179970883912
+depth: 1270.6861662332165
 name: dec15eq
 tags: []
 extras: {}
@@ -563,10 +563,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4467.543618000876
-east_shift: 1741.882602853666
+north_shift: 4216.044090591483
+east_shift: 2251.4560239351354
 time: 2019-12-15 06:11:51.100000
-depth: 729.6179970883912
+depth: 1245.4175488905048
 name: dec15eq
 tags: []
 extras: {}
@@ -574,10 +574,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4467.543618000876
-east_shift: 1741.882602853666
+north_shift: 4216.044090591483
+east_shift: 2251.4560239351354
 time: 2019-12-15 06:11:51.100000
-depth: 729.6179970883912
+depth: 1245.4175488905048
 name: dec15eq
 tags: []
 extras: {}
@@ -585,10 +585,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4467.543618000876
-east_shift: 1741.882602853666
+north_shift: 4223.050740288317
+east_shift: 2182.1001512685757
 time: 2019-12-15 06:11:51.100000
-depth: 729.6179970883912
+depth: 1243.784438839886
 name: dec15eq
 tags: []
 extras: {}
@@ -596,10 +596,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4464.275200121025
-east_shift: 1690.5765359244535
+north_shift: 4210.331081985089
+east_shift: 2215.354278417447
 time: 2019-12-15 06:11:51.100000
-depth: 738.9868105651825
+depth: 1260.9878536269343
 name: dec15eq
 tags: []
 extras: {}
@@ -607,10 +607,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4464.275200121025
-east_shift: 1690.5765359244535
+north_shift: 4206.116648811072
+east_shift: 2247.0682871949416
 time: 2019-12-15 06:11:51.100000
-depth: 738.9868105651825
+depth: 1248.5696428431588
 name: dec15eq
 tags: []
 extras: {}
@@ -618,10 +618,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4464.275200121025
-east_shift: 1690.5765359244535
+north_shift: 4206.116648811072
+east_shift: 2247.0682871949416
 time: 2019-12-15 06:11:51.100000
-depth: 738.9868105651825
+depth: 1248.5696428431588
 name: dec15eq
 tags: []
 extras: {}
@@ -629,10 +629,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4464.275200121025
-east_shift: 1690.5765359244535
+north_shift: 4209.572708853897
+east_shift: 2219.485819566698
 time: 2019-12-15 06:11:51.100000
-depth: 738.9868105651825
+depth: 1256.761751479978
 name: dec15eq
 tags: []
 extras: {}
@@ -640,10 +640,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4464.275200121025
-east_shift: 1690.5765359244535
+north_shift: 4200.161244764969
+east_shift: 2250.1353827278745
 time: 2019-12-15 06:11:51.100000
-depth: 738.9868105651825
+depth: 1257.0237638911892
 name: dec15eq
 tags: []
 extras: {}
@@ -651,10 +651,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4464.275200121025
-east_shift: 1690.5765359244535
+north_shift: 4210.679453069544
+east_shift: 2193.503843228632
 time: 2019-12-15 06:11:51.100000
-depth: 738.9868105651825
+depth: 1253.5589791624209
 name: dec15eq
 tags: []
 extras: {}
@@ -662,10 +662,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4464.275200121025
-east_shift: 1690.5765359244535
+north_shift: 4209.913119278562
+east_shift: 2234.6353349613405
 time: 2019-12-15 06:11:51.100000
-depth: 738.9868105651825
+depth: 1253.4412928345253
 name: dec15eq
 tags: []
 extras: {}
@@ -673,10 +673,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4464.275200121025
-east_shift: 1690.5765359244535
+north_shift: 4199.827042939214
+east_shift: 2243.739242289964
 time: 2019-12-15 06:11:51.100000
-depth: 738.9868105651825
+depth: 1266.1563576414887
 name: dec15eq
 tags: []
 extras: {}
@@ -684,10 +684,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4464.275200121025
-east_shift: 1690.5765359244535
+north_shift: 4218.499902785465
+east_shift: 2264.375971499285
 time: 2019-12-15 06:11:51.100000
-depth: 738.9868105651825
+depth: 1253.3650824954295
 name: dec15eq
 tags: []
 extras: {}
@@ -695,10 +695,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4464.275200121025
-east_shift: 1690.5765359244535
+north_shift: 4210.114186169941
+east_shift: 2241.650795255363
 time: 2019-12-15 06:11:51.100000
-depth: 738.9868105651825
+depth: 1260.6794076770743
 name: dec15eq
 tags: []
 extras: {}
@@ -706,10 +706,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4464.275200121025
-east_shift: 1690.5765359244535
+north_shift: 4320.9980519318815
+east_shift: 2069.5607193254486
 time: 2019-12-15 06:11:51.100000
-depth: 738.9868105651825
+depth: 1234.8132458774771
 name: dec15eq
 tags: []
 extras: {}
@@ -717,10 +717,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4464.275200121025
-east_shift: 1690.5765359244535
+north_shift: 4228.965861411196
+east_shift: 2178.9766046197515
 time: 2019-12-15 06:11:51.100000
-depth: 738.9868105651825
+depth: 1252.6861329165806
 name: dec15eq
 tags: []
 extras: {}
@@ -728,10 +728,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4464.275200121025
-east_shift: 1690.5765359244535
+north_shift: 4213.427316146853
+east_shift: 2187.5499094505253
 time: 2019-12-15 06:11:51.100000
-depth: 738.9868105651825
+depth: 1250.1764747719906
 name: dec15eq
 tags: []
 extras: {}
@@ -739,10 +739,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4464.275200121025
-east_shift: 1690.5765359244535
+north_shift: 4329.261724156882
+east_shift: 2081.874512036062
 time: 2019-12-15 06:11:51.100000
-depth: 738.9868105651825
+depth: 1231.531159013077
 name: dec15eq
 tags: []
 extras: {}
@@ -750,10 +750,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4464.275200121025
-east_shift: 1690.5765359244535
+north_shift: 4216.958518527634
+east_shift: 2245.5940215665787
 time: 2019-12-15 06:11:51.100000
-depth: 738.9868105651825
+depth: 1249.975704847272
 name: dec15eq
 tags: []
 extras: {}
@@ -761,10 +761,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4464.275200121025
-east_shift: 1690.5765359244535
+north_shift: 4216.958518527634
+east_shift: 2245.5940215665787
 time: 2019-12-15 06:11:51.100000
-depth: 738.9868105651825
+depth: 1249.975704847272
 name: dec15eq
 tags: []
 extras: {}
@@ -772,10 +772,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4464.275200121025
-east_shift: 1690.5765359244535
+north_shift: 4209.726796151393
+east_shift: 2241.8606965248982
 time: 2019-12-15 06:11:51.100000
-depth: 738.9868105651825
+depth: 1245.7846120064653
 name: dec15eq
 tags: []
 extras: {}
@@ -783,10 +783,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4464.275200121025
-east_shift: 1690.5765359244535
+north_shift: 4211.93169058208
+east_shift: 2244.4913756841993
 time: 2019-12-15 06:11:51.100000
-depth: 738.9868105651825
+depth: 1244.6147735484478
 name: dec15eq
 tags: []
 extras: {}
@@ -794,10 +794,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4464.275200121025
-east_shift: 1690.5765359244535
+north_shift: 4211.93169058208
+east_shift: 2244.4913756841993
 time: 2019-12-15 06:11:51.100000
-depth: 738.9868105651825
+depth: 1244.6147735484478
 name: dec15eq
 tags: []
 extras: {}
@@ -805,10 +805,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4464.275200121025
-east_shift: 1690.5765359244535
+north_shift: 4205.430853373471
+east_shift: 2242.1386587253596
 time: 2019-12-15 06:11:51.100000
-depth: 738.9868105651825
+depth: 1266.4035188935818
 name: dec15eq
 tags: []
 extras: {}
@@ -816,10 +816,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4464.275200121025
-east_shift: 1690.5765359244535
+north_shift: 4224.143839674332
+east_shift: 2180.816849626479
 time: 2019-12-15 06:11:51.100000
-depth: 738.9868105651825
+depth: 1255.7228810804495
 name: dec15eq
 tags: []
 extras: {}
@@ -827,10 +827,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4464.275200121025
-east_shift: 1690.5765359244535
+north_shift: 4211.4539812300245
+east_shift: 2239.883828195055
 time: 2019-12-15 06:11:51.100000
-depth: 738.9868105651825
+depth: 1243.8593435060777
 name: dec15eq
 tags: []
 extras: {}
@@ -838,10 +838,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4464.275200121025
-east_shift: 1690.5765359244535
+north_shift: 4187.852470491608
+east_shift: 2240.0884109356916
 time: 2019-12-15 06:11:51.100000
-depth: 738.9868105651825
+depth: 1252.2743894548655
 name: dec15eq
 tags: []
 extras: {}
@@ -849,10 +849,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4464.275200121025
-east_shift: 1690.5765359244535
+north_shift: 4212.275686376446
+east_shift: 2247.4384427142254
 time: 2019-12-15 06:11:51.100000
-depth: 738.9868105651825
+depth: 1237.6693957300279
 name: dec15eq
 tags: []
 extras: {}
@@ -860,10 +860,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4464.275200121025
-east_shift: 1690.5765359244535
+north_shift: 4208.575552548014
+east_shift: 2271.288548999387
 time: 2019-12-15 06:11:51.100000
-depth: 738.9868105651825
+depth: 1257.156992774291
 name: dec15eq
 tags: []
 extras: {}
@@ -871,10 +871,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4464.275200121025
-east_shift: 1690.5765359244535
+north_shift: 4200.07033481765
+east_shift: 2222.0477320853033
 time: 2019-12-15 06:11:51.100000
-depth: 738.9868105651825
+depth: 1242.6579177725948
 name: dec15eq
 tags: []
 extras: {}
@@ -882,10 +882,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4465.093188051317
-east_shift: 1721.746492414438
+north_shift: 4200.07033481765
+east_shift: 2222.0477320853033
 time: 2019-12-15 06:11:51.100000
-depth: 731.9709373294077
+depth: 1242.6579177725948
 name: dec15eq
 tags: []
 extras: {}
@@ -893,10 +893,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4465.093188051317
-east_shift: 1721.746492414438
+north_shift: 4213.479303813489
+east_shift: 2249.834184668125
 time: 2019-12-15 06:11:51.100000
-depth: 731.9709373294077
+depth: 1239.4018741696043
 name: dec15eq
 tags: []
 extras: {}
@@ -904,10 +904,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4465.093188051317
-east_shift: 1721.746492414438
+north_shift: 4217.165573566406
+east_shift: 2245.4336451841173
 time: 2019-12-15 06:11:51.100000
-depth: 731.9709373294077
+depth: 1241.9257001091867
 name: dec15eq
 tags: []
 extras: {}
@@ -915,10 +915,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4465.093188051317
-east_shift: 1721.746492414438
+north_shift: 4213.022932367097
+east_shift: 2186.978185800806
 time: 2019-12-15 06:11:51.100000
-depth: 731.9709373294077
+depth: 1254.68607710319
 name: dec15eq
 tags: []
 extras: {}
@@ -926,10 +926,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4457.861884798806
-east_shift: 1685.6472131063288
+north_shift: 4212.646831478041
+east_shift: 2249.1670806326474
 time: 2019-12-15 06:11:51.100000
-depth: 737.2814627395883
+depth: 1262.21013429474
 name: dec15eq
 tags: []
 extras: {}
@@ -937,10 +937,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4457.861884798806
-east_shift: 1685.6472131063288
+north_shift: 4212.112434528749
+east_shift: 2242.7031396249
 time: 2019-12-15 06:11:51.100000
-depth: 737.2814627395883
+depth: 1252.5376151411058
 name: dec15eq
 tags: []
 extras: {}
@@ -948,10 +948,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4457.861884798806
-east_shift: 1685.6472131063288
+north_shift: 4212.112434528749
+east_shift: 2242.7031396249
 time: 2019-12-15 06:11:51.100000
-depth: 737.2814627395883
+depth: 1252.5376151411058
 name: dec15eq
 tags: []
 extras: {}
@@ -959,10 +959,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4457.861884798806
-east_shift: 1685.6472131063288
+north_shift: 4220.734604427079
+east_shift: 2254.1896040602765
 time: 2019-12-15 06:11:51.100000
-depth: 737.2814627395883
+depth: 1255.2948944213
 name: dec15eq
 tags: []
 extras: {}
@@ -970,10 +970,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4457.861884798806
-east_shift: 1685.6472131063288
+north_shift: 4219.324583600559
+east_shift: 2245.2004633707556
 time: 2019-12-15 06:11:51.100000
-depth: 737.2814627395883
+depth: 1254.1067021045742
 name: dec15eq
 tags: []
 extras: {}
@@ -981,10 +981,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4457.861884798806
-east_shift: 1685.6472131063288
+north_shift: 4219.324583600559
+east_shift: 2245.2004633707556
 time: 2019-12-15 06:11:51.100000
-depth: 737.2814627395883
+depth: 1254.1067021045742
 name: dec15eq
 tags: []
 extras: {}
@@ -992,10 +992,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4457.861884798806
-east_shift: 1685.6472131063288
+north_shift: 4203.620491234696
+east_shift: 2228.374400363877
 time: 2019-12-15 06:11:51.100000
-depth: 737.2814627395883
+depth: 1247.7803949383676
 name: dec15eq
 tags: []
 extras: {}
@@ -1003,10 +1003,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4457.861884798806
-east_shift: 1685.6472131063288
+north_shift: 4213.202357964503
+east_shift: 2248.195251272958
 time: 2019-12-15 06:11:51.100000
-depth: 737.2814627395883
+depth: 1240.867576831592
 name: dec15eq
 tags: []
 extras: {}
@@ -1014,10 +1014,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4457.861884798806
-east_shift: 1685.6472131063288
+north_shift: 4327.353056737062
+east_shift: 2078.154902811819
 time: 2019-12-15 06:11:51.100000
-depth: 737.2814627395883
+depth: 1239.493726256943
 name: dec15eq
 tags: []
 extras: {}
@@ -1025,10 +1025,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4457.861884798806
-east_shift: 1685.6472131063288
+north_shift: 4213.794488163534
+east_shift: 2242.3091929078564
 time: 2019-12-15 06:11:51.100000
-depth: 737.2814627395883
+depth: 1239.9315068076896
 name: dec15eq
 tags: []
 extras: {}
@@ -1036,10 +1036,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4457.861884798806
-east_shift: 1685.6472131063288
+north_shift: 4213.794488163534
+east_shift: 2242.3091929078564
 time: 2019-12-15 06:11:51.100000
-depth: 737.2814627395883
+depth: 1239.9315068076896
 name: dec15eq
 tags: []
 extras: {}
@@ -1047,10 +1047,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4457.861884798806
-east_shift: 1685.6472131063288
+north_shift: 4204.839599620926
+east_shift: 2263.1818812437523
 time: 2019-12-15 06:11:51.100000
-depth: 737.2814627395883
+depth: 1253.8540712451418
 name: dec15eq
 tags: []
 extras: {}
@@ -1058,10 +1058,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4457.861884798806
-east_shift: 1685.6472131063288
+north_shift: 4207.055233084841
+east_shift: 2244.247246796617
 time: 2019-12-15 06:11:51.100000
-depth: 737.2814627395883
+depth: 1263.0728608731054
 name: dec15eq
 tags: []
 extras: {}
@@ -1069,10 +1069,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4457.861884798806
-east_shift: 1685.6472131063288
+north_shift: 4212.332635366934
+east_shift: 2269.95254926038
 time: 2019-12-15 06:11:51.100000
-depth: 737.2814627395883
+depth: 1237.9125150420537
 name: dec15eq
 tags: []
 extras: {}
@@ -1080,10 +1080,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4457.861884798806
-east_shift: 1685.6472131063288
+north_shift: 4216.0079183684675
+east_shift: 2243.4553087598033
 time: 2019-12-15 06:11:51.100000
-depth: 737.2814627395883
+depth: 1250.492033318695
 name: dec15eq
 tags: []
 extras: {}
@@ -1091,10 +1091,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4457.861884798806
-east_shift: 1685.6472131063288
+north_shift: 4216.0079183684675
+east_shift: 2243.4553087598033
 time: 2019-12-15 06:11:51.100000
-depth: 737.2814627395883
+depth: 1250.492033318695
 name: dec15eq
 tags: []
 extras: {}
@@ -1102,10 +1102,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4473.1480608224365
-east_shift: 1726.685967278321
+north_shift: 4216.0079183684675
+east_shift: 2243.4553087598033
 time: 2019-12-15 06:11:51.100000
-depth: 731.1297866896714
+depth: 1250.492033318695
 name: dec15eq
 tags: []
 extras: {}
@@ -1113,10 +1113,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4447.972589683671
-east_shift: 1681.067826528991
+north_shift: 4219.5973309381925
+east_shift: 2243.1539504610596
 time: 2019-12-15 06:11:51.100000
-depth: 724.7806757161861
+depth: 1244.9744495417178
 name: dec15eq
 tags: []
 extras: {}
@@ -1124,10 +1124,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4447.972589683671
-east_shift: 1681.067826528991
+north_shift: 4219.5973309381925
+east_shift: 2243.1539504610596
 time: 2019-12-15 06:11:51.100000
-depth: 724.7806757161861
+depth: 1244.9744495417178
 name: dec15eq
 tags: []
 extras: {}
@@ -1135,10 +1135,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4447.972589683671
-east_shift: 1681.067826528991
+north_shift: 4215.947452615515
+east_shift: 2234.9139645008236
 time: 2019-12-15 06:11:51.100000
-depth: 724.7806757161861
+depth: 1251.9597385703312
 name: dec15eq
 tags: []
 extras: {}
@@ -1146,10 +1146,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4447.972589683671
-east_shift: 1681.067826528991
+north_shift: 4215.8718603125935
+east_shift: 2238.3369328155854
 time: 2019-12-15 06:11:51.100000
-depth: 724.7806757161861
+depth: 1234.770327595881
 name: dec15eq
 tags: []
 extras: {}
@@ -1157,10 +1157,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4447.972589683671
-east_shift: 1681.067826528991
+north_shift: 4217.990552015634
+east_shift: 2250.905701398948
 time: 2019-12-15 06:11:51.100000
-depth: 724.7806757161861
+depth: 1241.8494581645896
 name: dec15eq
 tags: []
 extras: {}
@@ -1168,10 +1168,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4447.972589683671
-east_shift: 1681.067826528991
+north_shift: 4211.3904491428475
+east_shift: 2181.245490617475
 time: 2019-12-15 06:11:51.100000
-depth: 724.7806757161861
+depth: 1239.0917612061933
 name: dec15eq
 tags: []
 extras: {}
@@ -1179,10 +1179,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4447.972589683671
-east_shift: 1681.067826528991
+north_shift: 4207.930729182112
+east_shift: 2249.147439649166
 time: 2019-12-15 06:11:51.100000
-depth: 724.7806757161861
+depth: 1251.8043962448903
 name: dec15eq
 tags: []
 extras: {}
@@ -1190,10 +1190,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4447.972589683671
-east_shift: 1681.067826528991
+north_shift: 4198.1232953378485
+east_shift: 2240.045373505211
 time: 2019-12-15 06:11:51.100000
-depth: 724.7806757161861
+depth: 1250.7011059309066
 name: dec15eq
 tags: []
 extras: {}
@@ -1201,10 +1201,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4447.972589683671
-east_shift: 1681.067826528991
+north_shift: 4189.445637398486
+east_shift: 2240.028982180928
 time: 2019-12-15 06:11:51.100000
-depth: 724.7806757161861
+depth: 1243.8687544075128
 name: dec15eq
 tags: []
 extras: {}
@@ -1212,10 +1212,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4447.972589683671
-east_shift: 1681.067826528991
+north_shift: 4189.445637398486
+east_shift: 2240.028982180928
 time: 2019-12-15 06:11:51.100000
-depth: 724.7806757161861
+depth: 1243.8687544075128
 name: dec15eq
 tags: []
 extras: {}
@@ -1223,10 +1223,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4447.972589683671
-east_shift: 1681.067826528991
+north_shift: 4220.906299007989
+east_shift: 2182.3801235255864
 time: 2019-12-15 06:11:51.100000
-depth: 724.7806757161861
+depth: 1234.7563477253823
 name: dec15eq
 tags: []
 extras: {}
@@ -1234,10 +1234,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4447.972589683671
-east_shift: 1681.067826528991
+north_shift: 4207.2832799131265
+east_shift: 2241.8121858813424
 time: 2019-12-15 06:11:51.100000
-depth: 724.7806757161861
+depth: 1247.1366141617186
 name: dec15eq
 tags: []
 extras: {}
@@ -1245,10 +1245,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4447.972589683671
-east_shift: 1681.067826528991
+north_shift: 4204.845966211014
+east_shift: 2245.778223628148
 time: 2019-12-15 06:11:51.100000
-depth: 724.7806757161861
+depth: 1255.7605843114127
 name: dec15eq
 tags: []
 extras: {}
@@ -1256,10 +1256,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4447.972589683671
-east_shift: 1681.067826528991
+north_shift: 4201.757704875354
+east_shift: 2203.8765368864933
 time: 2019-12-15 06:11:51.100000
-depth: 724.7806757161861
+depth: 1249.479861163216
 name: dec15eq
 tags: []
 extras: {}
@@ -1267,10 +1267,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4447.972589683671
-east_shift: 1681.067826528991
+north_shift: 4319.744592177694
+east_shift: 2082.4812102866576
 time: 2019-12-15 06:11:51.100000
-depth: 724.7806757161861
+depth: 1227.7145106561086
 name: dec15eq
 tags: []
 extras: {}
@@ -1278,10 +1278,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4447.972589683671
-east_shift: 1681.067826528991
+north_shift: 4217.026581909852
+east_shift: 2244.72585946485
 time: 2019-12-15 06:11:51.100000
-depth: 724.7806757161861
+depth: 1236.4108431625314
 name: dec15eq
 tags: []
 extras: {}
@@ -1289,10 +1289,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4447.972589683671
-east_shift: 1681.067826528991
+north_shift: 4214.932679710617
+east_shift: 2243.6043239810706
 time: 2019-12-15 06:11:51.100000
-depth: 724.7806757161861
+depth: 1251.894855202224
 name: dec15eq
 tags: []
 extras: {}
@@ -1300,10 +1300,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4447.972589683671
-east_shift: 1681.067826528991
+north_shift: 4217.299741255561
+east_shift: 2245.4634537382153
 time: 2019-12-15 06:11:51.100000
-depth: 724.7806757161861
+depth: 1245.537171403804
 name: dec15eq
 tags: []
 extras: {}
@@ -1311,10 +1311,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4447.972589683671
-east_shift: 1681.067826528991
+north_shift: 4217.299741255561
+east_shift: 2245.4634537382153
 time: 2019-12-15 06:11:51.100000
-depth: 724.7806757161861
+depth: 1245.537171403804
 name: dec15eq
 tags: []
 extras: {}
@@ -1322,10 +1322,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4447.972589683671
-east_shift: 1681.067826528991
+north_shift: 4211.408795837145
+east_shift: 2244.6069947139804
 time: 2019-12-15 06:11:51.100000
-depth: 724.7806757161861
+depth: 1252.7470716950088
 name: dec15eq
 tags: []
 extras: {}
@@ -1333,10 +1333,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4447.972589683671
-east_shift: 1681.067826528991
+north_shift: 4211.408795837145
+east_shift: 2244.6069947139804
 time: 2019-12-15 06:11:51.100000
-depth: 724.7806757161861
+depth: 1252.7470716950088
 name: dec15eq
 tags: []
 extras: {}
@@ -1344,10 +1344,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4447.972589683671
-east_shift: 1681.067826528991
+north_shift: 4205.266232770172
+east_shift: 2250.7056547490924
 time: 2019-12-15 06:11:51.100000
-depth: 724.7806757161861
+depth: 1258.4052513529382
 name: dec15eq
 tags: []
 extras: {}
@@ -1355,10 +1355,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4447.972589683671
-east_shift: 1681.067826528991
+north_shift: 4205.031622044545
+east_shift: 2231.1359148249444
 time: 2019-12-15 06:11:51.100000
-depth: 724.7806757161861
+depth: 1248.7190180873413
 name: dec15eq
 tags: []
 extras: {}
@@ -1366,10 +1366,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4447.972589683671
-east_shift: 1681.067826528991
+north_shift: 4212.818168603373
+east_shift: 2237.4046361171904
 time: 2019-12-15 06:11:51.100000
-depth: 724.7806757161861
+depth: 1241.3554053816174
 name: dec15eq
 tags: []
 extras: {}
@@ -1377,10 +1377,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4447.972589683671
-east_shift: 1681.067826528991
+north_shift: 4212.818168603373
+east_shift: 2237.4046361171904
 time: 2019-12-15 06:11:51.100000
-depth: 724.7806757161861
+depth: 1241.3554053816174
 name: dec15eq
 tags: []
 extras: {}
@@ -1388,10 +1388,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4476.252777299864
-east_shift: 1747.6962188720731
+north_shift: 4212.818168603373
+east_shift: 2237.4046361171904
 time: 2019-12-15 06:11:51.100000
-depth: 731.6995857645427
+depth: 1241.3554053816174
 name: dec15eq
 tags: []
 extras: {}
@@ -1399,10 +1399,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4476.252777299864
-east_shift: 1747.6962188720731
+north_shift: 4212.818168603373
+east_shift: 2237.4046361171904
 time: 2019-12-15 06:11:51.100000
-depth: 731.6995857645427
+depth: 1241.3554053816174
 name: dec15eq
 tags: []
 extras: {}
@@ -1410,10 +1410,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4476.252777299864
-east_shift: 1747.6962188720731
+north_shift: 4212.818168603373
+east_shift: 2237.4046361171904
 time: 2019-12-15 06:11:51.100000
-depth: 731.6995857645427
+depth: 1241.3554053816174
 name: dec15eq
 tags: []
 extras: {}
@@ -1421,10 +1421,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4476.252777299864
-east_shift: 1747.6962188720731
+north_shift: 4206.06226195236
+east_shift: 2227.4195308543945
 time: 2019-12-15 06:11:51.100000
-depth: 731.6995857645427
+depth: 1249.3161047772833
 name: dec15eq
 tags: []
 extras: {}
@@ -1432,10 +1432,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4476.252777299864
-east_shift: 1747.6962188720731
+north_shift: 4211.809413955992
+east_shift: 2253.8916835521336
 time: 2019-12-15 06:11:51.100000
-depth: 731.6995857645427
+depth: 1230.8858540267381
 name: dec15eq
 tags: []
 extras: {}
@@ -1443,10 +1443,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4476.252777299864
-east_shift: 1747.6962188720731
+north_shift: 4211.809413955992
+east_shift: 2253.8916835521336
 time: 2019-12-15 06:11:51.100000
-depth: 731.6995857645427
+depth: 1230.8858540267381
 name: dec15eq
 tags: []
 extras: {}
@@ -1454,10 +1454,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4476.252777299864
-east_shift: 1747.6962188720731
+north_shift: 4331.3222679087585
+east_shift: 2079.541791390693
 time: 2019-12-15 06:11:51.100000
-depth: 731.6995857645427
+depth: 1227.8926105713201
 name: dec15eq
 tags: []
 extras: {}
@@ -1465,10 +1465,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4476.252777299864
-east_shift: 1747.6962188720731
+north_shift: 4213.117004776588
+east_shift: 2249.401459461815
 time: 2019-12-15 06:11:51.100000
-depth: 731.6995857645427
+depth: 1237.3521810866202
 name: dec15eq
 tags: []
 extras: {}
@@ -1476,10 +1476,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4476.252777299864
-east_shift: 1747.6962188720731
+north_shift: 4207.170078795366
+east_shift: 2262.4547216773103
 time: 2019-12-15 06:11:51.100000
-depth: 731.6995857645427
+depth: 1243.599432001535
 name: dec15eq
 tags: []
 extras: {}
@@ -1487,10 +1487,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4476.252777299864
-east_shift: 1747.6962188720731
+north_shift: 4195.00427832449
+east_shift: 2238.3386142942954
 time: 2019-12-15 06:11:51.100000
-depth: 731.6995857645427
+depth: 1247.4434412405453
 name: dec15eq
 tags: []
 extras: {}
@@ -1498,10 +1498,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4476.252777299864
-east_shift: 1747.6962188720731
+north_shift: 4195.00427832449
+east_shift: 2238.3386142942954
 time: 2019-12-15 06:11:51.100000
-depth: 731.6995857645427
+depth: 1247.4434412405453
 name: dec15eq
 tags: []
 extras: {}
@@ -1509,10 +1509,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4476.252777299864
-east_shift: 1747.6962188720731
+north_shift: 4191.40887725082
+east_shift: 2227.0967214621355
 time: 2019-12-15 06:11:51.100000
-depth: 731.6995857645427
+depth: 1252.3370635478104
 name: dec15eq
 tags: []
 extras: {}
@@ -1520,10 +1520,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4476.252777299864
-east_shift: 1747.6962188720731
+north_shift: 4334.113860015682
+east_shift: 2076.2422355377284
 time: 2019-12-15 06:11:51.100000
-depth: 731.6995857645427
+depth: 1230.7777249804
 name: dec15eq
 tags: []
 extras: {}
@@ -1531,10 +1531,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4476.252777299864
-east_shift: 1747.6962188720731
+north_shift: 4204.959022065216
+east_shift: 2239.962174444141
 time: 2019-12-15 06:11:51.100000
-depth: 731.6995857645427
+depth: 1252.0297040829669
 name: dec15eq
 tags: []
 extras: {}
@@ -1542,10 +1542,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4476.252777299864
-east_shift: 1747.6962188720731
+north_shift: 4211.680817234492
+east_shift: 2231.787343391146
 time: 2019-12-15 06:11:51.100000
-depth: 731.6995857645427
+depth: 1246.7855126003626
 name: dec15eq
 tags: []
 extras: {}
@@ -1553,10 +1553,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4476.252777299864
-east_shift: 1747.6962188720731
+north_shift: 4211.680817234492
+east_shift: 2231.787343391146
 time: 2019-12-15 06:11:51.100000
-depth: 731.6995857645427
+depth: 1246.7855126003626
 name: dec15eq
 tags: []
 extras: {}
@@ -1564,10 +1564,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4476.252777299864
-east_shift: 1747.6962188720731
+north_shift: 4211.680817234492
+east_shift: 2231.787343391146
 time: 2019-12-15 06:11:51.100000
-depth: 731.6995857645427
+depth: 1246.7855126003626
 name: dec15eq
 tags: []
 extras: {}
@@ -1575,10 +1575,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4476.252777299864
-east_shift: 1747.6962188720731
+north_shift: 4200.410580011538
+east_shift: 2238.500135231789
 time: 2019-12-15 06:11:51.100000
-depth: 731.6995857645427
+depth: 1247.9205666959579
 name: dec15eq
 tags: []
 extras: {}
@@ -1586,10 +1586,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4476.252777299864
-east_shift: 1747.6962188720731
+north_shift: 4200.410580011538
+east_shift: 2238.500135231789
 time: 2019-12-15 06:11:51.100000
-depth: 731.6995857645427
+depth: 1247.9205666959579
 name: dec15eq
 tags: []
 extras: {}
@@ -1597,10 +1597,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4476.252777299864
-east_shift: 1747.6962188720731
+north_shift: 4219.068763914005
+east_shift: 2243.872334551895
 time: 2019-12-15 06:11:51.100000
-depth: 731.6995857645427
+depth: 1249.479728861652
 name: dec15eq
 tags: []
 extras: {}
@@ -1608,10 +1608,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4476.252777299864
-east_shift: 1747.6962188720731
+north_shift: 4205.959915549649
+east_shift: 2266.1382718829323
 time: 2019-12-15 06:11:51.100000
-depth: 731.6995857645427
+depth: 1250.9251184930547
 name: dec15eq
 tags: []
 extras: {}
@@ -1619,10 +1619,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4476.252777299864
-east_shift: 1747.6962188720731
+north_shift: 4223.229797817262
+east_shift: 2239.998864110484
 time: 2019-12-15 06:11:51.100000
-depth: 731.6995857645427
+depth: 1258.9544815311501
 name: dec15eq
 tags: []
 extras: {}
@@ -1630,10 +1630,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4476.252777299864
-east_shift: 1747.6962188720731
+north_shift: 4214.401645240041
+east_shift: 2245.10253261385
 time: 2019-12-15 06:11:51.100000
-depth: 731.6995857645427
+depth: 1240.119308223132
 name: dec15eq
 tags: []
 extras: {}
@@ -1641,10 +1641,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4476.252777299864
-east_shift: 1747.6962188720731
+north_shift: 4196.3270549753925
+east_shift: 2238.3472936385633
 time: 2019-12-15 06:11:51.100000
-depth: 731.6995857645427
+depth: 1249.0777215652315
 name: dec15eq
 tags: []
 extras: {}
@@ -1652,10 +1652,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4476.252777299864
-east_shift: 1747.6962188720731
+north_shift: 4206.305386848966
+east_shift: 2254.952640749282
 time: 2019-12-15 06:11:51.100000
-depth: 731.6995857645427
+depth: 1252.8521250588958
 name: dec15eq
 tags: []
 extras: {}
@@ -1663,10 +1663,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4478.788832820997
-east_shift: 1695.274220690527
+north_shift: 4214.441318497883
+east_shift: 2238.4170554260886
 time: 2019-12-15 06:11:51.100000
-depth: 732.6032274202096
+depth: 1247.177479245733
 name: dec15eq
 tags: []
 extras: {}
@@ -1674,10 +1674,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4478.788832820997
-east_shift: 1695.274220690527
+north_shift: 4205.060442953643
+east_shift: 2265.627982589218
 time: 2019-12-15 06:11:51.100000
-depth: 732.6032274202096
+depth: 1248.3079784746153
 name: dec15eq
 tags: []
 extras: {}
@@ -1685,10 +1685,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4478.788832820997
-east_shift: 1695.274220690527
+north_shift: 4203.182322216608
+east_shift: 2249.785472440135
 time: 2019-12-15 06:11:51.100000
-depth: 732.6032274202096
+depth: 1249.8687024027215
 name: dec15eq
 tags: []
 extras: {}
@@ -1696,10 +1696,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4478.788832820997
-east_shift: 1695.274220690527
+north_shift: 4220.87854430076
+east_shift: 2230.109136079053
 time: 2019-12-15 06:11:51.100000
-depth: 732.6032274202096
+depth: 1257.7364403510446
 name: dec15eq
 tags: []
 extras: {}
@@ -1707,10 +1707,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4478.788832820997
-east_shift: 1695.274220690527
+north_shift: 4332.168145379117
+east_shift: 2078.767874376793
 time: 2019-12-15 06:11:51.100000
-depth: 732.6032274202096
+depth: 1236.2710748774111
 name: dec15eq
 tags: []
 extras: {}
@@ -1718,10 +1718,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4478.788832820997
-east_shift: 1695.274220690527
+north_shift: 4215.7737945436975
+east_shift: 2239.9138125990885
 time: 2019-12-15 06:11:51.100000
-depth: 732.6032274202096
+depth: 1240.7303187959637
 name: dec15eq
 tags: []
 extras: {}
@@ -1729,10 +1729,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4478.788832820997
-east_shift: 1695.274220690527
+north_shift: 4330.1144797185
+east_shift: 2070.1855357716263
 time: 2019-12-15 06:11:51.100000
-depth: 732.6032274202096
+depth: 1226.489396866139
 name: dec15eq
 tags: []
 extras: {}
@@ -1740,10 +1740,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4478.788832820997
-east_shift: 1695.274220690527
+north_shift: 4226.753085736231
+east_shift: 2180.061034976818
 time: 2019-12-15 06:11:51.100000
-depth: 732.6032274202096
+depth: 1248.8851890009116
 name: dec15eq
 tags: []
 extras: {}
@@ -1751,10 +1751,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4478.788832820997
-east_shift: 1695.274220690527
+north_shift: 4212.623676934149
+east_shift: 2261.273855391718
 time: 2019-12-15 06:11:51.100000
-depth: 732.6032274202096
+depth: 1251.756903708879
 name: dec15eq
 tags: []
 extras: {}
@@ -1762,10 +1762,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4478.788832820997
-east_shift: 1695.274220690527
+north_shift: 4196.838310057694
+east_shift: 2231.9329952413923
 time: 2019-12-15 06:11:51.100000
-depth: 732.6032274202096
+depth: 1242.2400168878473
 name: dec15eq
 tags: []
 extras: {}
@@ -1773,10 +1773,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4459.3481387924785
-east_shift: 1699.4824801928517
+north_shift: 4332.427128720816
+east_shift: 2078.2837568296936
 time: 2019-12-15 06:11:51.100000
-depth: 718.4309656708994
+depth: 1230.402730330243
 name: dec15eq
 tags: []
 extras: {}
@@ -1784,10 +1784,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4459.3481387924785
-east_shift: 1699.4824801928517
+north_shift: 4225.3976751823375
+east_shift: 2236.688795090789
 time: 2019-12-15 06:11:51.100000
-depth: 718.4309656708994
+depth: 1256.6902784541712
 name: dec15eq
 tags: []
 extras: {}
@@ -1795,10 +1795,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4459.3481387924785
-east_shift: 1699.4824801928517
+north_shift: 4193.720691351257
+east_shift: 2240.463361612064
 time: 2019-12-15 06:11:51.100000
-depth: 718.4309656708994
+depth: 1237.5508917377704
 name: dec15eq
 tags: []
 extras: {}
@@ -1806,10 +1806,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4459.3481387924785
-east_shift: 1699.4824801928517
+north_shift: 4194.615134146855
+east_shift: 2234.4099346180406
 time: 2019-12-15 06:11:51.100000
-depth: 718.4309656708994
+depth: 1256.1931326684114
 name: dec15eq
 tags: []
 extras: {}
@@ -1817,10 +1817,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4459.3481387924785
-east_shift: 1699.4824801928517
+north_shift: 4199.624209684831
+east_shift: 2240.748416933328
 time: 2019-12-15 06:11:51.100000
-depth: 718.4309656708994
+depth: 1249.3069949052087
 name: dec15eq
 tags: []
 extras: {}
@@ -1828,10 +1828,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4459.3481387924785
-east_shift: 1699.4824801928517
+north_shift: 4199.624209684831
+east_shift: 2240.748416933328
 time: 2019-12-15 06:11:51.100000
-depth: 718.4309656708994
+depth: 1249.3069949052087
 name: dec15eq
 tags: []
 extras: {}
@@ -1839,10 +1839,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4465.314597798173
-east_shift: 1740.6188994603401
+north_shift: 4199.624209684831
+east_shift: 2240.748416933328
 time: 2019-12-15 06:11:51.100000
-depth: 730.7552416287975
+depth: 1249.3069949052087
 name: dec15eq
 tags: []
 extras: {}
@@ -1850,10 +1850,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4465.314597798173
-east_shift: 1740.6188994603401
+north_shift: 4203.7970916523445
+east_shift: 2242.993041318728
 time: 2019-12-15 06:11:51.100000
-depth: 730.7552416287975
+depth: 1240.038507047902
 name: dec15eq
 tags: []
 extras: {}
@@ -1861,10 +1861,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4469.391095825732
-east_shift: 1695.0962864913126
+north_shift: 4196.838087483423
+east_shift: 2235.7852120624652
 time: 2019-12-15 06:11:51.100000
-depth: 726.6611746324583
+depth: 1232.2538535561719
 name: dec15eq
 tags: []
 extras: {}
@@ -1872,10 +1872,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4469.391095825732
-east_shift: 1695.0962864913126
+north_shift: 4216.596606586177
+east_shift: 2229.625640066372
 time: 2019-12-15 06:11:51.100000
-depth: 726.6611746324583
+depth: 1251.3993338268294
 name: dec15eq
 tags: []
 extras: {}
@@ -1883,10 +1883,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4466.239811024428
-east_shift: 1720.3770846050475
+north_shift: 4204.315680952358
+east_shift: 2242.724385376044
 time: 2019-12-15 06:11:51.100000
-depth: 736.3970353772413
+depth: 1232.2237559763
 name: dec15eq
 tags: []
 extras: {}
@@ -1894,10 +1894,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4466.239811024428
-east_shift: 1720.3770846050475
+north_shift: 4216.124682597923
+east_shift: 2259.038897071025
 time: 2019-12-15 06:11:51.100000
-depth: 736.3970353772413
+depth: 1240.962713921064
 name: dec15eq
 tags: []
 extras: {}
@@ -1905,10 +1905,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4466.239811024428
-east_shift: 1720.3770846050475
+north_shift: 4206.641335934157
+east_shift: 2252.238336436872
 time: 2019-12-15 06:11:51.100000
-depth: 736.3970353772413
+depth: 1238.621918955917
 name: dec15eq
 tags: []
 extras: {}
@@ -1916,10 +1916,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4466.239811024428
-east_shift: 1720.3770846050475
+north_shift: 4215.153824942227
+east_shift: 2259.6069661398865
 time: 2019-12-15 06:11:51.100000
-depth: 736.3970353772413
+depth: 1236.1756393385767
 name: dec15eq
 tags: []
 extras: {}
@@ -1927,10 +1927,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4466.239811024428
-east_shift: 1720.3770846050475
+north_shift: 4216.37048013042
+east_shift: 2245.114276620987
 time: 2019-12-15 06:11:51.100000
-depth: 736.3970353772413
+depth: 1252.421190602459
 name: dec15eq
 tags: []
 extras: {}
@@ -1938,10 +1938,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4466.239811024428
-east_shift: 1720.3770846050475
+north_shift: 4207.750082635183
+east_shift: 2243.533485696826
 time: 2019-12-15 06:11:51.100000
-depth: 736.3970353772413
+depth: 1234.0910042477494
 name: dec15eq
 tags: []
 extras: {}
@@ -1949,10 +1949,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4466.239811024428
-east_shift: 1720.3770846050475
+north_shift: 4208.738690150529
+east_shift: 2252.846982267254
 time: 2019-12-15 06:11:51.100000
-depth: 736.3970353772413
+depth: 1238.099232669146
 name: dec15eq
 tags: []
 extras: {}
@@ -1960,10 +1960,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4466.239811024428
-east_shift: 1720.3770846050475
+north_shift: 4192.9083610522885
+east_shift: 2249.0454665550865
 time: 2019-12-15 06:11:51.100000
-depth: 736.3970353772413
+depth: 1247.193085676355
 name: dec15eq
 tags: []
 extras: {}
@@ -1971,10 +1971,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4466.239811024428
-east_shift: 1720.3770846050475
+north_shift: 4209.822977308129
+east_shift: 2254.128234003089
 time: 2019-12-15 06:11:51.100000
-depth: 736.3970353772413
+depth: 1240.306114742013
 name: dec15eq
 tags: []
 extras: {}
@@ -1982,10 +1982,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4466.239811024428
-east_shift: 1720.3770846050475
+north_shift: 4200.007080679751
+east_shift: 2232.293915363363
 time: 2019-12-15 06:11:51.100000
-depth: 736.3970353772413
+depth: 1243.8299757959467
 name: dec15eq
 tags: []
 extras: {}
@@ -1993,10 +1993,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4466.239811024428
-east_shift: 1720.3770846050475
+north_shift: 4225.687532865789
+east_shift: 2245.8411906019433
 time: 2019-12-15 06:11:51.100000
-depth: 736.3970353772413
+depth: 1250.4694522986224
 name: dec15eq
 tags: []
 extras: {}
@@ -2004,10 +2004,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4466.239811024428
-east_shift: 1720.3770846050475
+north_shift: 4204.935721389147
+east_shift: 2247.8023263619098
 time: 2019-12-15 06:11:51.100000
-depth: 736.3970353772413
+depth: 1237.003641530891
 name: dec15eq
 tags: []
 extras: {}
@@ -2015,10 +2015,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4466.239811024428
-east_shift: 1720.3770846050475
+north_shift: 4217.684986064495
+east_shift: 2243.5949082440284
 time: 2019-12-15 06:11:51.100000
-depth: 736.3970353772413
+depth: 1255.2906370642283
 name: dec15eq
 tags: []
 extras: {}
@@ -2026,10 +2026,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4466.239811024428
-east_shift: 1720.3770846050475
+north_shift: 4215.931940000946
+east_shift: 2256.1706454681675
 time: 2019-12-15 06:11:51.100000
-depth: 736.3970353772413
+depth: 1245.5303744430316
 name: dec15eq
 tags: []
 extras: {}
@@ -2037,10 +2037,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4466.239811024428
-east_shift: 1720.3770846050475
+north_shift: 4191.947904634834
+east_shift: 2241.671634232307
 time: 2019-12-15 06:11:51.100000
-depth: 736.3970353772413
+depth: 1237.3559143574923
 name: dec15eq
 tags: []
 extras: {}
@@ -2048,10 +2048,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4462.5138958612715
-east_shift: 1736.321959055
+north_shift: 4206.29216025483
+east_shift: 2250.245909000153
 time: 2019-12-15 06:11:51.100000
-depth: 728.3308564417366
+depth: 1241.6190917928614
 name: dec15eq
 tags: []
 extras: {}
@@ -2059,10 +2059,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4462.5138958612715
-east_shift: 1736.321959055
+north_shift: 4194.2951965190605
+east_shift: 2243.6216292446748
 time: 2019-12-15 06:11:51.100000
-depth: 728.3308564417366
+depth: 1233.5816101909809
 name: dec15eq
 tags: []
 extras: {}
@@ -2070,10 +2070,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4473.238858884022
-east_shift: 1706.3615929234975
+north_shift: 4195.447150022051
+east_shift: 2227.786749685846
 time: 2019-12-15 06:11:51.100000
-depth: 727.9556959656318
+depth: 1240.3359408169529
 name: dec15eq
 tags: []
 extras: {}
@@ -2081,10 +2081,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4473.238858884022
-east_shift: 1706.3615929234975
+north_shift: 4208.002574820103
+east_shift: 2241.5553264823957
 time: 2019-12-15 06:11:51.100000
-depth: 727.9556959656318
+depth: 1237.9798222562706
 name: dec15eq
 tags: []
 extras: {}
@@ -2092,10 +2092,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4473.238858884022
-east_shift: 1706.3615929234975
+north_shift: 4208.002574820103
+east_shift: 2241.5553264823957
 time: 2019-12-15 06:11:51.100000
-depth: 727.9556959656318
+depth: 1237.9798222562706
 name: dec15eq
 tags: []
 extras: {}
@@ -2103,10 +2103,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4473.238858884022
-east_shift: 1706.3615929234975
+north_shift: 4214.798574859839
+east_shift: 2234.1022254652016
 time: 2019-12-15 06:11:51.100000
-depth: 727.9556959656318
+depth: 1243.9625815865156
 name: dec15eq
 tags: []
 extras: {}
@@ -2114,10 +2114,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4436.893873169862
-east_shift: 1708.0991579521751
+north_shift: 4216.160616864005
+east_shift: 2237.9227324218873
 time: 2019-12-15 06:11:51.100000
-depth: 740.8143101435285
+depth: 1247.2068979910428
 name: dec15eq
 tags: []
 extras: {}
@@ -2125,10 +2125,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4436.893873169862
-east_shift: 1708.0991579521751
+north_shift: 4189.703400180543
+east_shift: 2240.034053838985
 time: 2019-12-15 06:11:51.100000
-depth: 740.8143101435285
+depth: 1240.3896999444842
 name: dec15eq
 tags: []
 extras: {}
@@ -2136,10 +2136,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4436.893873169862
-east_shift: 1708.0991579521751
+north_shift: 4211.0803980119645
+east_shift: 2227.48241919101
 time: 2019-12-15 06:11:51.100000
-depth: 740.8143101435285
+depth: 1247.7155314123352
 name: dec15eq
 tags: []
 extras: {}
@@ -2147,10 +2147,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4436.893873169862
-east_shift: 1708.0991579521751
+north_shift: 4211.0803980119645
+east_shift: 2227.48241919101
 time: 2019-12-15 06:11:51.100000
-depth: 740.8143101435285
+depth: 1247.7155314123352
 name: dec15eq
 tags: []
 extras: {}
@@ -2158,10 +2158,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4436.893873169862
-east_shift: 1708.0991579521751
+north_shift: 4211.0803980119645
+east_shift: 2227.48241919101
 time: 2019-12-15 06:11:51.100000
-depth: 740.8143101435285
+depth: 1247.7155314123352
 name: dec15eq
 tags: []
 extras: {}
@@ -2169,10 +2169,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4436.893873169862
-east_shift: 1708.0991579521751
+north_shift: 4186.646322837133
+east_shift: 2239.4923483600105
 time: 2019-12-15 06:11:51.100000
-depth: 740.8143101435285
+depth: 1245.1371129787499
 name: dec15eq
 tags: []
 extras: {}
@@ -2180,10 +2180,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4436.893873169862
-east_shift: 1708.0991579521751
+north_shift: 4211.243165063203
+east_shift: 2261.815745463659
 time: 2019-12-15 06:11:51.100000
-depth: 740.8143101435285
+depth: 1237.4742627224168
 name: dec15eq
 tags: []
 extras: {}
@@ -2191,10 +2191,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4436.893873169862
-east_shift: 1708.0991579521751
+north_shift: 4211.243165063203
+east_shift: 2261.815745463659
 time: 2019-12-15 06:11:51.100000
-depth: 740.8143101435285
+depth: 1237.4742627224168
 name: dec15eq
 tags: []
 extras: {}
@@ -2202,10 +2202,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4436.893873169862
-east_shift: 1708.0991579521751
+north_shift: 4213.688889345559
+east_shift: 2239.83966012067
 time: 2019-12-15 06:11:51.100000
-depth: 740.8143101435285
+depth: 1243.6780726453073
 name: dec15eq
 tags: []
 extras: {}
@@ -2213,10 +2213,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4436.893873169862
-east_shift: 1708.0991579521751
+north_shift: 4207.562730559279
+east_shift: 2229.5747256464856
 time: 2019-12-15 06:11:51.100000
-depth: 740.8143101435285
+depth: 1248.6536162465907
 name: dec15eq
 tags: []
 extras: {}
@@ -2224,10 +2224,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4436.893873169862
-east_shift: 1708.0991579521751
+north_shift: 4207.999522826492
+east_shift: 2246.355826814553
 time: 2019-12-15 06:11:51.100000
-depth: 740.8143101435285
+depth: 1236.0474001075177
 name: dec15eq
 tags: []
 extras: {}
@@ -2235,10 +2235,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4436.893873169862
-east_shift: 1708.0991579521751
+north_shift: 4199.637446922244
+east_shift: 2240.422753943185
 time: 2019-12-15 06:11:51.100000
-depth: 740.8143101435285
+depth: 1234.133179992541
 name: dec15eq
 tags: []
 extras: {}
@@ -2246,10 +2246,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4436.893873169862
-east_shift: 1708.0991579521751
+north_shift: 4211.213808513737
+east_shift: 2255.0522213571485
 time: 2019-12-15 06:11:51.100000
-depth: 740.8143101435285
+depth: 1240.082758983381
 name: dec15eq
 tags: []
 extras: {}
@@ -2257,10 +2257,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4436.893873169862
-east_shift: 1708.0991579521751
+north_shift: 4211.213808513737
+east_shift: 2255.0522213571485
 time: 2019-12-15 06:11:51.100000
-depth: 740.8143101435285
+depth: 1240.082758983381
 name: dec15eq
 tags: []
 extras: {}
@@ -2268,10 +2268,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4436.893873169862
-east_shift: 1708.0991579521751
+north_shift: 4209.019260043877
+east_shift: 2242.0836805098374
 time: 2019-12-15 06:11:51.100000
-depth: 740.8143101435285
+depth: 1239.3127123385336
 name: dec15eq
 tags: []
 extras: {}
@@ -2279,10 +2279,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4436.893873169862
-east_shift: 1708.0991579521751
+north_shift: 4209.019260043877
+east_shift: 2242.0836805098374
 time: 2019-12-15 06:11:51.100000
-depth: 740.8143101435285
+depth: 1239.3127123385336
 name: dec15eq
 tags: []
 extras: {}
@@ -2290,10 +2290,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4436.893873169862
-east_shift: 1708.0991579521751
+north_shift: 4209.019260043877
+east_shift: 2242.0836805098374
 time: 2019-12-15 06:11:51.100000
-depth: 740.8143101435285
+depth: 1239.3127123385336
 name: dec15eq
 tags: []
 extras: {}
@@ -2301,10 +2301,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4436.893873169862
-east_shift: 1708.0991579521751
+north_shift: 4209.019260043877
+east_shift: 2242.0836805098374
 time: 2019-12-15 06:11:51.100000
-depth: 740.8143101435285
+depth: 1239.3127123385336
 name: dec15eq
 tags: []
 extras: {}
@@ -2312,10 +2312,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4436.893873169862
-east_shift: 1708.0991579521751
+north_shift: 4209.019260043877
+east_shift: 2242.0836805098374
 time: 2019-12-15 06:11:51.100000
-depth: 740.8143101435285
+depth: 1239.3127123385336
 name: dec15eq
 tags: []
 extras: {}
@@ -2323,10 +2323,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4436.893873169862
-east_shift: 1708.0991579521751
+north_shift: 4206.883621051793
+east_shift: 2237.2301381081643
 time: 2019-12-15 06:11:51.100000
-depth: 740.8143101435285
+depth: 1246.6278420316937
 name: dec15eq
 tags: []
 extras: {}
@@ -2334,10 +2334,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4436.893873169862
-east_shift: 1708.0991579521751
+north_shift: 4206.883621051793
+east_shift: 2237.2301381081643
 time: 2019-12-15 06:11:51.100000
-depth: 740.8143101435285
+depth: 1246.6278420316937
 name: dec15eq
 tags: []
 extras: {}
@@ -2345,10 +2345,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4436.893873169862
-east_shift: 1708.0991579521751
+north_shift: 4215.098285779893
+east_shift: 2250.907869489639
 time: 2019-12-15 06:11:51.100000
-depth: 740.8143101435285
+depth: 1234.8898781710084
 name: dec15eq
 tags: []
 extras: {}
@@ -2356,10 +2356,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4436.893873169862
-east_shift: 1708.0991579521751
+north_shift: 4185.440412406982
+east_shift: 2235.965155018051
 time: 2019-12-15 06:11:51.100000
-depth: 740.8143101435285
+depth: 1228.5582450892443
 name: dec15eq
 tags: []
 extras: {}
@@ -2367,10 +2367,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4436.893873169862
-east_shift: 1708.0991579521751
+north_shift: 4219.415362396973
+east_shift: 2243.003489078388
 time: 2019-12-15 06:11:51.100000
-depth: 740.8143101435285
+depth: 1242.0677463741304
 name: dec15eq
 tags: []
 extras: {}
@@ -2378,10 +2378,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4436.893873169862
-east_shift: 1708.0991579521751
+north_shift: 4199.096347028776
+east_shift: 2242.410634754368
 time: 2019-12-15 06:11:51.100000
-depth: 740.8143101435285
+depth: 1243.7402613527343
 name: dec15eq
 tags: []
 extras: {}
@@ -2389,10 +2389,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4436.893873169862
-east_shift: 1708.0991579521751
+north_shift: 4212.113090946154
+east_shift: 2257.492740016093
 time: 2019-12-15 06:11:51.100000
-depth: 740.8143101435285
+depth: 1238.8056373181037
 name: dec15eq
 tags: []
 extras: {}
@@ -2400,10 +2400,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4442.7469949631895
-east_shift: 1708.739888890794
+north_shift: 4206.471362868872
+east_shift: 2241.9026357046605
 time: 2019-12-15 06:11:51.100000
-depth: 740.7049719282153
+depth: 1234.2236092146982
 name: dec15eq
 tags: []
 extras: {}
@@ -2411,10 +2411,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4442.7469949631895
-east_shift: 1708.739888890794
+north_shift: 4201.569405388253
+east_shift: 2232.560660500159
 time: 2019-12-15 06:11:51.100000
-depth: 740.7049719282153
+depth: 1238.3818324665306
 name: dec15eq
 tags: []
 extras: {}
@@ -2422,10 +2422,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4442.7469949631895
-east_shift: 1708.739888890794
+north_shift: 4210.031000105344
+east_shift: 2244.730798165545
 time: 2019-12-15 06:11:51.100000
-depth: 740.7049719282153
+depth: 1244.676598467537
 name: dec15eq
 tags: []
 extras: {}
@@ -2433,10 +2433,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4442.7469949631895
-east_shift: 1708.739888890794
+north_shift: 4193.213878219996
+east_shift: 2232.7090398825917
 time: 2019-12-15 06:11:51.100000
-depth: 740.7049719282153
+depth: 1237.2871896565862
 name: dec15eq
 tags: []
 extras: {}
@@ -2444,10 +2444,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4442.7469949631895
-east_shift: 1708.739888890794
+north_shift: 4219.076420836771
+east_shift: 2236.1687843851564
 time: 2019-12-15 06:11:51.100000
-depth: 740.7049719282153
+depth: 1248.4825024131928
 name: dec15eq
 tags: []
 extras: {}
@@ -2455,10 +2455,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4442.7469949631895
-east_shift: 1708.739888890794
+north_shift: 4204.2664561361025
+east_shift: 2254.786677201635
 time: 2019-12-15 06:11:51.100000
-depth: 740.7049719282153
+depth: 1245.1781796593846
 name: dec15eq
 tags: []
 extras: {}
@@ -2466,10 +2466,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4442.7469949631895
-east_shift: 1708.739888890794
+north_shift: 4204.2664561361025
+east_shift: 2254.786677201635
 time: 2019-12-15 06:11:51.100000
-depth: 740.7049719282153
+depth: 1245.1781796593846
 name: dec15eq
 tags: []
 extras: {}
@@ -2477,10 +2477,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4442.7469949631895
-east_shift: 1708.739888890794
+north_shift: 4206.708092684363
+east_shift: 2227.2708773008326
 time: 2019-12-15 06:11:51.100000
-depth: 740.7049719282153
+depth: 1237.4573386755942
 name: dec15eq
 tags: []
 extras: {}
@@ -2488,10 +2488,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4442.7469949631895
-east_shift: 1708.739888890794
+north_shift: 4195.922117087479
+east_shift: 2240.1407191868557
 time: 2019-12-15 06:11:51.100000
-depth: 740.7049719282153
+depth: 1236.92166848204
 name: dec15eq
 tags: []
 extras: {}
@@ -2499,10 +2499,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4442.7469949631895
-east_shift: 1708.739888890794
+north_shift: 4202.776608540629
+east_shift: 2250.3551737298567
 time: 2019-12-15 06:11:51.100000
-depth: 740.7049719282153
+depth: 1244.8125007592605
 name: dec15eq
 tags: []
 extras: {}
@@ -2510,10 +2510,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4442.7469949631895
-east_shift: 1708.739888890794
+north_shift: 4221.301999894022
+east_shift: 2243.0903535292155
 time: 2019-12-15 06:11:51.100000
-depth: 740.7049719282153
+depth: 1245.8696934491013
 name: dec15eq
 tags: []
 extras: {}
@@ -2521,10 +2521,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4442.7469949631895
-east_shift: 1708.739888890794
+north_shift: 4209.296940395048
+east_shift: 2247.2274769702076
 time: 2019-12-15 06:11:51.100000
-depth: 740.7049719282153
+depth: 1247.8335264794987
 name: dec15eq
 tags: []
 extras: {}
@@ -2532,10 +2532,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4442.7469949631895
-east_shift: 1708.739888890794
+north_shift: 4190.341889231422
+east_shift: 2239.775926377052
 time: 2019-12-15 06:11:51.100000
-depth: 740.7049719282153
+depth: 1233.3721402612437
 name: dec15eq
 tags: []
 extras: {}
@@ -2543,10 +2543,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4442.7469949631895
-east_shift: 1708.739888890794
+north_shift: 4207.4061528295215
+east_shift: 2236.648311409247
 time: 2019-12-15 06:11:51.100000
-depth: 740.7049719282153
+depth: 1230.4522223224303
 name: dec15eq
 tags: []
 extras: {}
@@ -2554,10 +2554,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4442.7469949631895
-east_shift: 1708.739888890794
+north_shift: 4196.6197015574835
+east_shift: 2235.1201588558847
 time: 2019-12-15 06:11:51.100000
-depth: 740.7049719282153
+depth: 1233.753374210533
 name: dec15eq
 tags: []
 extras: {}
@@ -2565,10 +2565,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4442.7469949631895
-east_shift: 1708.739888890794
+north_shift: 4222.067790095592
+east_shift: 2235.144017036135
 time: 2019-12-15 06:11:51.100000
-depth: 740.7049719282153
+depth: 1253.7340836297951
 name: dec15eq
 tags: []
 extras: {}
@@ -2576,10 +2576,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4442.7469949631895
-east_shift: 1708.739888890794
+north_shift: 4215.487899470666
+east_shift: 2248.3388059118593
 time: 2019-12-15 06:11:51.100000
-depth: 740.7049719282153
+depth: 1235.761189620396
 name: dec15eq
 tags: []
 extras: {}
@@ -2587,10 +2587,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4442.7469949631895
-east_shift: 1708.739888890794
+north_shift: 4208.100610616731
+east_shift: 2259.4921014141073
 time: 2019-12-15 06:11:51.100000
-depth: 740.7049719282153
+depth: 1236.6288825380286
 name: dec15eq
 tags: []
 extras: {}
@@ -2598,10 +2598,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4442.7469949631895
-east_shift: 1708.739888890794
+north_shift: 4199.07226456883
+east_shift: 2265.5381194340116
 time: 2019-12-15 06:11:51.100000
-depth: 740.7049719282153
+depth: 1233.7311447147922
 name: dec15eq
 tags: []
 extras: {}
@@ -2609,10 +2609,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4442.7469949631895
-east_shift: 1708.739888890794
+north_shift: 4202.014899573811
+east_shift: 2249.1463261687168
 time: 2019-12-15 06:11:51.100000
-depth: 740.7049719282153
+depth: 1248.0289437758788
 name: dec15eq
 tags: []
 extras: {}
@@ -2620,10 +2620,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4442.7469949631895
-east_shift: 1708.739888890794
+north_shift: 4214.759011584725
+east_shift: 2242.2693145093153
 time: 2019-12-15 06:11:51.100000
-depth: 740.7049719282153
+depth: 1241.652004328814
 name: dec15eq
 tags: []
 extras: {}
@@ -2631,10 +2631,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4442.7469949631895
-east_shift: 1708.739888890794
+north_shift: 4222.128706480854
+east_shift: 2249.873267039662
 time: 2019-12-15 06:11:51.100000
-depth: 740.7049719282153
+depth: 1244.4141282907012
 name: dec15eq
 tags: []
 extras: {}
@@ -2642,10 +2642,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4464.0663148805515
-east_shift: 1686.9350768085221
+north_shift: 4213.979405323542
+east_shift: 2243.050191706475
 time: 2019-12-15 06:11:51.100000
-depth: 733.4603910874587
+depth: 1241.7223483878563
 name: dec15eq
 tags: []
 extras: {}
@@ -2653,10 +2653,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4464.0663148805515
-east_shift: 1686.9350768085221
+north_shift: 4206.02773306198
+east_shift: 2250.230292190526
 time: 2019-12-15 06:11:51.100000
-depth: 733.4603910874587
+depth: 1239.270445730489
 name: dec15eq
 tags: []
 extras: {}
@@ -2664,10 +2664,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4464.0663148805515
-east_shift: 1686.9350768085221
+north_shift: 4193.5314584343405
+east_shift: 2231.4450934782344
 time: 2019-12-15 06:11:51.100000
-depth: 733.4603910874587
+depth: 1231.3598682707643
 name: dec15eq
 tags: []
 extras: {}
@@ -2675,10 +2675,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4454.316036977393
-east_shift: 1700.0842998090072
+north_shift: 4215.4587969132
+east_shift: 2253.169915855766
 time: 2019-12-15 06:11:51.100000
-depth: 729.0681914879933
+depth: 1226.6733212338238
 name: dec15eq
 tags: []
 extras: {}
@@ -2686,10 +2686,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4454.316036977393
-east_shift: 1700.0842998090072
+north_shift: 4205.062664331528
+east_shift: 2254.7958451288164
 time: 2019-12-15 06:11:51.100000
-depth: 729.0681914879933
+depth: 1226.8673352936958
 name: dec15eq
 tags: []
 extras: {}
@@ -2697,10 +2697,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4454.316036977393
-east_shift: 1700.0842998090072
+north_shift: 4193.569206807883
+east_shift: 2233.929514371518
 time: 2019-12-15 06:11:51.100000
-depth: 729.0681914879933
+depth: 1227.419450712614
 name: dec15eq
 tags: []
 extras: {}
@@ -2708,10 +2708,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4450.425858867552
-east_shift: 1707.8460885423597
+north_shift: 4198.969637905251
+east_shift: 2258.8907124421876
 time: 2019-12-15 06:11:51.100000
-depth: 741.5303898782377
+depth: 1234.786498322199
 name: dec15eq
 tags: []
 extras: {}
@@ -2719,10 +2719,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4450.425858867552
-east_shift: 1707.8460885423597
+north_shift: 4207.591295376819
+east_shift: 2251.881640154129
 time: 2019-12-15 06:11:51.100000
-depth: 741.5303898782377
+depth: 1237.1074822398257
 name: dec15eq
 tags: []
 extras: {}
@@ -2730,10 +2730,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4450.425858867552
-east_shift: 1707.8460885423597
+north_shift: 4213.0144612185
+east_shift: 2236.1238985323034
 time: 2019-12-15 06:11:51.100000
-depth: 741.5303898782377
+depth: 1245.607210763416
 name: dec15eq
 tags: []
 extras: {}
@@ -2741,10 +2741,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4450.425858867552
-east_shift: 1707.8460885423597
+north_shift: 4219.6377804892745
+east_shift: 2225.986374143661
 time: 2019-12-15 06:11:51.100000
-depth: 741.5303898782377
+depth: 1248.5531794752135
 name: dec15eq
 tags: []
 extras: {}
@@ -2752,10 +2752,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4450.425858867552
-east_shift: 1707.8460885423597
+north_shift: 4218.231344462844
+east_shift: 2234.0956205672805
 time: 2019-12-15 06:11:51.100000
-depth: 741.5303898782377
+depth: 1231.9696281201489
 name: dec15eq
 tags: []
 extras: {}
@@ -2763,10 +2763,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4450.425858867552
-east_shift: 1707.8460885423597
+north_shift: 4214.159784593667
+east_shift: 2238.4929422155237
 time: 2019-12-15 06:11:51.100000
-depth: 741.5303898782377
+depth: 1243.864466520653
 name: dec15eq
 tags: []
 extras: {}
@@ -2774,10 +2774,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4450.425858867552
-east_shift: 1707.8460885423597
+north_shift: 4220.8974439497215
+east_shift: 2241.8368226591097
 time: 2019-12-15 06:11:51.100000
-depth: 741.5303898782377
+depth: 1243.000915499944
 name: dec15eq
 tags: []
 extras: {}
@@ -2785,10 +2785,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4450.425858867552
-east_shift: 1707.8460885423597
+north_shift: 4221.015582799938
+east_shift: 2242.0022925884628
 time: 2019-12-15 06:11:51.100000
-depth: 741.5303898782377
+depth: 1246.6710216438635
 name: dec15eq
 tags: []
 extras: {}
@@ -2796,10 +2796,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4450.425858867552
-east_shift: 1707.8460885423597
+north_shift: 4208.453297447219
+east_shift: 2241.707589632209
 time: 2019-12-15 06:11:51.100000
-depth: 741.5303898782377
+depth: 1227.7993632751857
 name: dec15eq
 tags: []
 extras: {}
@@ -2807,10 +2807,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4449.431462086929
-east_shift: 1703.8434530981422
+north_shift: 4206.223988572992
+east_shift: 2246.713068194886
 time: 2019-12-15 06:11:51.100000
-depth: 740.4927080151306
+depth: 1217.9765984149658
 name: dec15eq
 tags: []
 extras: {}
@@ -2818,10 +2818,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4458.695240867316
-east_shift: 1704.7650762495903
+north_shift: 4220.277608939023
+east_shift: 2243.1247078685433
 time: 2019-12-15 06:11:51.100000
-depth: 737.7121312848476
+depth: 1243.9313391450314
 name: dec15eq
 tags: []
 extras: {}
@@ -2829,10 +2829,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4432.83053420008
-east_shift: 1704.9009838396946
+north_shift: 4222.586373171293
+east_shift: 2244.1964741556967
 time: 2019-12-15 06:11:51.100000
-depth: 725.2508137832477
+depth: 1240.5331964566813
 name: dec15eq
 tags: []
 extras: {}
@@ -2840,10 +2840,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4432.83053420008
-east_shift: 1704.9009838396946
+north_shift: 4217.141729622393
+east_shift: 2239.8472360287624
 time: 2019-12-15 06:11:51.100000
-depth: 725.2508137832477
+depth: 1243.3298642908815
 name: dec15eq
 tags: []
 extras: {}
@@ -2851,10 +2851,10 @@ extras: {}
 --- !pf.Event
 lat: 6.64
 lon: 125.16
-north_shift: 4432.83053420008
-east_shift: 1704.9009838396946
+north_shift: 4215.945075155509
+east_shift: 2241.746760846493
 time: 2019-12-15 06:11:51.100000
-depth: 725.2508137832477
+depth: 1248.6753694505312
 name: dec15eq
 tags: []
 extras: {}

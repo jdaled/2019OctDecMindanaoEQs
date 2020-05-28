@@ -15,11 +15,24 @@ target_groups:
 - !grond.SatelliteTargetGroup
   normalisation_family: static
   path: insar
-  weight: 1.0
+  weight: 0.66
   interpolation: multilinear
   store_id: ph_local_hf
   kite_scenes:
   - A2_a136_1214-1228
+  misfit_config: !grond.SatelliteMisfitConfig
+    optimise_orbital_ramp: true
+    ranges:
+      offset: -0.1 .. 0.1
+      ramp_east: 0 .. 0
+      ramp_north: 0 .. 0
+- !grond.SatelliteTargetGroup
+  normalisation_family: static
+  path: insar2
+  weight: 1.0
+  interpolation: multilinear
+  store_id: ph_local_hf
+  kite_scenes:
   - s1_d163_20191213_20191219
   misfit_config: !grond.SatelliteMisfitConfig
     optimise_orbital_ramp: true

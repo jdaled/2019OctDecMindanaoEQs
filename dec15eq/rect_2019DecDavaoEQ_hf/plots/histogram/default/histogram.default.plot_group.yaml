@@ -88,8 +88,8 @@ items:
     parameters:
     - insar.A2_a136_1214-1228.offset
 - !grond.PlotItem
-  name: insar.s1_d163_20191213_20191219.offset
+  name: insar2.s1_d163_20191213_20191219.offset
   attributes:
     parameters:
-    - insar.s1_d163_20191213_20191219.offset
+    - insar2.s1_d163_20191213_20191219.offset
 attributes: {}

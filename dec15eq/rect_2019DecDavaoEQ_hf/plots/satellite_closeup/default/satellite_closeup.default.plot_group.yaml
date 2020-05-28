@@ -54,7 +54,7 @@ items:
   name: fig_1
   attributes:
     targets:
-    - insar
+    - insar2
   title: Satellite Surface Displacements - S1_d163_Dec15eq
   description: '
 

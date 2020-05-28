@@ -95,17 +95,17 @@ items:
   name: fig_13
   attributes:
     parameters:
-    - insar.s1_d163_20191213_20191219.offset
+    - insar2.s1_d163_20191213_20191219.offset
 - !grond.PlotItem
   name: fig_14
   attributes:
     parameters:
-    - insar.s1_d163_20191213_20191219.ramp_north
+    - insar2.s1_d163_20191213_20191219.ramp_north
 - !grond.PlotItem
   name: fig_15
   attributes:
     parameters:
-    - insar.s1_d163_20191213_20191219.ramp_east
+    - insar2.s1_d163_20191213_20191219.ramp_east
 - !grond.PlotItem
   name: fig_16
   attributes:
