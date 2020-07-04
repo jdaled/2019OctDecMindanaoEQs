@@ -17,43 +17,31 @@ target_groups:
   path: insar
   weight: 1.0
   interpolation: multilinear
-  store_id: ph_local_hf
+  store_id: crust2_ib_static
   kite_scenes:
   - A2_a136_1214-1228
-  misfit_config: !grond.SatelliteMisfitConfig
-    optimise_orbital_ramp: true
-    ranges:
-      offset: -0.1 .. 0.1
-      ramp_east: 0 .. 0
-      ramp_north: 0 .. 0
-- !grond.SatelliteTargetGroup
-  normalisation_family: static
-  path: insar2
-  weight: 0.66
-  interpolation: multilinear
-  store_id: ph_local_hf
-  kite_scenes:
   - s1_d163_20191213_20191219
+  - s1_a069_191213-191225
   misfit_config: !grond.SatelliteMisfitConfig
     optimise_orbital_ramp: true
     ranges:
       offset: -0.1 .. 0.1
-      ramp_east: 0 .. 0
-      ramp_north: 0 .. 0
+      ramp_east: -0.0001 .. 0.0001
+      ramp_north: -0.0001 .. 0.0001
 problem_config: !grond.RectangularProblemConfig
   name_template: rect_2019DecDavaoEQ_hf
   norm_exponent: 2
   ranges:
     depth: 0 .. 5000
-    dip: 40 .. 90
-    east_shift: -10000 .. 20000
-    length: 10000 .. 100000
-    north_shift: -10000 .. 20000
+    dipi: 50 .. 90
+    east_shift: -10000 .. 10000
+    length: 10000 .. 30000
+    north_shift: -10000 .. 10000
     rake: -30 .. 90
     slip: 0 .. 2
-    strike: 270 .. 360
-    width: 2000 .. 30000
-  decimation_factor: 2
+    strike: 290 .. 340
+    width: 2000 .. 20000
+  decimation_factor: 1
   distance_min: 0.0
   nthreads: 4
 analyser_configs:

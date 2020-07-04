@@ -54,8 +54,23 @@ items:
   name: fig_1
   attributes:
     targets:
-    - insar2
+    - insar
   title: Satellite Surface Displacements - S1_d163_Dec15eq
+  description: '
+
+    Surface displacements derived from satellite data.
+
+    (Left) the input data, (center) the modelled
+
+    data and (right) the model residual.
+
+    '
+- !grond.PlotItem
+  name: fig_2
+  attributes:
+    targets:
+    - insar
+  title: Satellite Surface Displacements - Dec15_DavaoEQ_S1asc
   description: '
 
     Surface displacements derived from satellite data.
