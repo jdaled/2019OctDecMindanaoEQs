@@ -539,8 +539,8 @@ targets:
     optimise_orbital_ramp: true
     ranges:
       offset: -0.1 .. 0.1
-      ramp_east: -0.001 .. 0.001
-      ramp_north: -0.001 .. 0.001
+      ramp_east: 0 .. 0
+      ramp_north: 0 .. 0
 - !grond.SatelliteMisfitTarget
   lats: |2
         6.327331
