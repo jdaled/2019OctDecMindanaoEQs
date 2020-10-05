@@ -73,6 +73,11 @@ items:
     parameters:
     - strike
 - !grond.PlotItem
+  name: dip
+  attributes:
+    parameters:
+    - dip
+- !grond.PlotItem
   name: rake
   attributes:
     parameters:

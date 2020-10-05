@@ -33,7 +33,7 @@ problem_config: !grond.RectangularProblemConfig
   norm_exponent: 2
   ranges:
     depth: 0 .. 5000
-    dipi: 50 .. 90
+    dip: 50 .. 90
     east_shift: -10000 .. 10000
     length: 10000 .. 30000
     north_shift: -10000 .. 10000
@@ -41,7 +41,7 @@ problem_config: !grond.RectangularProblemConfig
     slip: 0 .. 2
     strike: 290 .. 340
     width: 2000 .. 20000
-  decimation_factor: 1
+  decimation_factor: 2
   distance_min: 0.0
   nthreads: 4
 analyser_configs:
@@ -51,19 +51,19 @@ analyser_configs:
 optimiser_config: !grond.HighScoreOptimiserConfig
   sampler_phases:
   - !grond.UniformSamplerPhase
-    niterations: 20000
+    niterations: 10000
     ntries_preconstrain_limit: 1000
   - !grond.DirectedSamplerPhase
     niterations: 80000
     ntries_preconstrain_limit: 1000
     scatter_scale_begin: 2.0
-    scatter_scale_end: 0.5
+    scatter_scale_end: 0.8
     starting_point: excentricity_compensated
     sampler_distribution: normal
     standard_deviation_estimator: median_density_single_chain
     ntries_sample_limit: 2000
   chain_length_factor: 8.0
-  nbootstrap: 25
+  nbootstrap: 200
 engine_config: !grond.EngineConfig
   gf_stores_from_pyrocko_config: false
   gf_store_superdirs:
