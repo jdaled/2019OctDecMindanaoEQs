@@ -1,0 +1,12 @@
+%YAML 1.1
+--- !pf.Event
+lat: 6.86
+lon: 125.01
+north_shift: -5695.4266772862375
+east_shift: 5742.0785680826875
+time: 2019-10-16 11:37:10.100000
+depth: 8493.776409640694
+name: foreshock_Oct16
+duration: 4.0
+tags: []
+extras: {}

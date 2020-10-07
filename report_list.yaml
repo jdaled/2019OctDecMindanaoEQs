@@ -44,88 +44,44 @@ grond_version: 1.3.1
 run_info: !grond.RunInfo
   tags: []
 --- !grond.ReportIndexEntry
-path: mainafter1029_1031/rect_2019CotabatoForeshock_hf
-problem_name: rect_2019CotabatoForeshock_hf
+path: foreshock_Oct16/rect_2019CotabatoForeshock_hf_2020
+problem_name: rect_2019CotabatoForeshock_hf_2020
 event_reference: !pf.Event
-  lat: 6.98
-  lon: 125.1
-  time: 2019-10-31 13:11:21.500000
-  depth: 12000.0
-  name: mainafter1029_1031
-  magnitude: 6.5
+  lat: 6.86
+  lon: 125.01
+  time: 2019-10-16 11:37:10.100000
+  depth: 19000.0
+  name: foreshock_Oct16
+  magnitude: 6.4
   region: MINDANAO PHILIPPINES
   catalog: Global-CMT
   moment_tensor: !pf.MomentTensor
-    mnn: -2.31e+18
-    mee: 6.78e+18
-    mdd: -4.47e+18
-    mne: 7.79e+18
-    mnd: -1.6e+18
-    med: 1.59e+18
-    strike1: 109.25029999809232
-    dip1: 66.93053826780017
-    rake1: -158.3970773924532
-    strike2: 10.430265546437338
-    dip2: 70.20051624527431
-    rake2: -24.611717063828916
-    moment: 1.007049651208916e+19
-    magnitude: 6.6353672555855425
-  duration: 4.2
+    mnn: -2.6e+17
+    mee: 5.26e+18
+    mdd: -5.0e+18
+    mne: -5.45e+17
+    mnd: -2.42e+17
+    med: 1.57e+17
+    strike1: 8.32170979758868
+    dip1: 46.06403175975352
+    rake1: -86.18561223261874
+    strike2: 182.83303284774937
+    dip2: 44.067537362364604
+    rake2: -93.94956706712848
+    moment: 5.171831203742054e+18
+    magnitude: 6.442429561401127
+  duration: 4.0
   tags: []
   extras: {}
 event_best: !pf.Event
-  lat: 6.98
-  lon: 125.1
-  north_shift: -2208.6832258383843
-  east_shift: 8194.39388302823
-  time: 2019-10-31 13:11:21.500000
-  depth: 2008.9189698393748
-  name: mainafter1029_1031
-  duration: 4.2
-  tags: []
-  extras: {}
-grond_version: 1.3.1
-run_info: !grond.RunInfo
-  tags: []
---- !grond.ReportIndexEntry
-path: mainafter1029_1031/rect_2019CotabatoMainAfter_hf
-problem_name: rect_2019CotabatoMainAfter_hf
-event_reference: !pf.Event
-  lat: 6.98
-  lon: 125.1
-  time: 2019-10-31 13:11:21.500000
-  depth: 12000.0
-  name: mainafter1029_1031
-  magnitude: 6.5
-  region: MINDANAO PHILIPPINES
-  catalog: Global-CMT
-  moment_tensor: !pf.MomentTensor
-    mnn: -2.31e+18
-    mee: 6.78e+18
-    mdd: -4.47e+18
-    mne: 7.79e+18
-    mnd: -1.6e+18
-    med: 1.59e+18
-    strike1: 109.25029999809232
-    dip1: 66.93053826780017
-    rake1: -158.3970773924532
-    strike2: 10.430265546437338
-    dip2: 70.20051624527431
-    rake2: -24.611717063828916
-    moment: 1.007049651208916e+19
-    magnitude: 6.6353672555855425
-  duration: 4.2
-  tags: []
-  extras: {}
-event_best: !pf.Event
-  lat: 6.98
-  lon: 125.1
-  north_shift: -5367.158973919577
-  east_shift: 2866.1390148494293
-  time: 2019-10-31 13:11:21.500000
-  depth: 402.76565976266875
-  name: mainafter1029_1031
-  duration: 4.2
+  lat: 6.86
+  lon: 125.01
+  north_shift: -5184.673068951666
+  east_shift: 6052.764494382373
+  time: 2019-10-16 11:37:10.100000
+  depth: 8746.92257943685
+  name: foreshock_Oct16
+  duration: 4.0
   tags: []
   extras: {}
 grond_version: 1.3.1
