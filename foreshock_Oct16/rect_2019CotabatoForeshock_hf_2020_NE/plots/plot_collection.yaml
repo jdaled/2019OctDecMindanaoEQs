@@ -1,0 +1,18 @@
+--- !grond.PlotCollection
+group_refs:
+- - acceptance
+  - default
+- - bootstrap
+  - default
+- - contributions
+  - default
+- - histogram
+  - default
+- - jointpar
+  - default
+- - satellite
+  - default
+- - satellite_closeup
+  - default
+- - sequence
+  - default

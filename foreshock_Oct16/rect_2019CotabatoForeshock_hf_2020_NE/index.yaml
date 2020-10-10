@@ -1,0 +1,44 @@
+--- !grond.ReportIndexEntry
+path: .
+problem_name: rect_2019CotabatoForeshock_hf_2020_NE
+event_reference: !pf.Event
+  lat: 6.86
+  lon: 125.01
+  time: 2019-10-16 11:37:10.100000
+  depth: 19000.0
+  name: foreshock_Oct16
+  magnitude: 6.4
+  region: MINDANAO PHILIPPINES
+  catalog: Global-CMT
+  moment_tensor: !pf.MomentTensor
+    mnn: -2.6e+17
+    mee: 5.26e+18
+    mdd: -5.0e+18
+    mne: -5.45e+17
+    mnd: -2.42e+17
+    med: 1.57e+17
+    strike1: 8.32170979758868
+    dip1: 46.06403175975352
+    rake1: -86.18561223261874
+    strike2: 182.83303284774937
+    dip2: 44.067537362364604
+    rake2: -93.94956706712848
+    moment: 5.171831203742054e+18
+    magnitude: 6.442429561401127
+  duration: 4.0
+  tags: []
+  extras: {}
+event_best: !pf.Event
+  lat: 6.86
+  lon: 125.01
+  north_shift: -6410.314075765347
+  east_shift: 6369.687171873471
+  time: 2019-10-16 11:37:10.100000
+  depth: 9882.542087653534
+  name: foreshock_Oct16
+  duration: 4.0
+  tags: []
+  extras: {}
+grond_version: 1.3.1
+run_info: !grond.RunInfo
+  tags: []
