@@ -1,0 +1,113 @@
+--- !grond.PlotGroup
+name: sequence
+section: optimiser
+title: Sequence Plots
+description: '
+
+  Sequence plots for all parameters of the optimisation.
+
+
+  The sequence of all the parameter values is either a function of the
+
+  optimisation in progress or of the misfit from high to low. This plot can be
+
+  used to check on convergence or to see if model parameters push the given
+
+  bounds.
+
+
+  The color always shows the relative misfit. Relatively high misfits are in
+
+  cold blue colors and relatively low misfits in red. The last panel gives the
+
+  corresponding misfit values.
+
+  '
+formats:
+- !grond.PNG {}
+variant: default
+feather_icon: fast-forward
+size_cm:
+- 14.0
+- 6.0
+items:
+- !grond.PlotItem
+  name: fig_1
+  attributes:
+    parameters:
+    - east_shift
+- !grond.PlotItem
+  name: fig_2
+  attributes:
+    parameters:
+    - north_shift
+- !grond.PlotItem
+  name: fig_3
+  attributes:
+    parameters:
+    - depth
+- !grond.PlotItem
+  name: fig_4
+  attributes:
+    parameters:
+    - length
+- !grond.PlotItem
+  name: fig_5
+  attributes:
+    parameters:
+    - width
+- !grond.PlotItem
+  name: fig_6
+  attributes:
+    parameters:
+    - slip
+- !grond.PlotItem
+  name: fig_7
+  attributes:
+    parameters:
+    - strike
+- !grond.PlotItem
+  name: fig_8
+  attributes:
+    parameters:
+    - dip
+- !grond.PlotItem
+  name: fig_9
+  attributes:
+    parameters:
+    - rake
+- !grond.PlotItem
+  name: fig_10
+  attributes:
+    parameters:
+    - insar.s1_d163_20191026-20191107.offset
+- !grond.PlotItem
+  name: fig_11
+  attributes:
+    parameters:
+    - insar.s1_d163_20191026-20191107.ramp_north
+- !grond.PlotItem
+  name: fig_12
+  attributes:
+    parameters:
+    - insar.s1_d163_20191026-20191107.ramp_east
+- !grond.PlotItem
+  name: fig_13
+  attributes:
+    parameters:
+    - insar.a2_a136_20191019_20191102.offset
+- !grond.PlotItem
+  name: fig_14
+  attributes:
+    parameters:
+    - insar.a2_a136_20191019_20191102.ramp_north
+- !grond.PlotItem
+  name: fig_15
+  attributes:
+    parameters:
+    - insar.a2_a136_20191019_20191102.ramp_east
+- !grond.PlotItem
+  name: fig_16
+  attributes:
+    parameters: []
+attributes: {}

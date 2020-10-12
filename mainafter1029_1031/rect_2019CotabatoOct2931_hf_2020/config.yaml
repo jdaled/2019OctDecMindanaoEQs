@@ -33,13 +33,13 @@ problem_config: !grond.RectangularProblemConfig
   ranges:
     depth: 0 .. 2000
     dip: 60 .. 90
-    east_shift: -10000 .. 20000
-    length: 5000 .. 20000
-    north_shift: -20000 .. 20000
-    rake: 0 .. 180
+    east_shift: -15000 .. 15000
+    length: 4000 .. 20000
+    north_shift: -15000 .. 15000
+    rake: -180 .. 0
     slip: 0 .. 2
-    strike: 200 .. 340
-    width: 2000 .. 20000
+    strike: 0 .. 90
+    width: 1000 .. 20000
   decimation_factor: 2
   distance_min: 0.0
   nthreads: 4
