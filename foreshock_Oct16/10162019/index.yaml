@@ -1,6 +1,5 @@
-%YAML 1.1
 --- !grond.ReportIndexEntry
-path: foreshock_Oct16/10162019
+path: .
 problem_name: '10162019'
 event_reference: !pf.Event
   lat: 6.86
