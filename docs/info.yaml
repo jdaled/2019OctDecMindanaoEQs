@@ -1,0 +1,19 @@
+--- !grond.ReportInfo
+title: Grond Report
+description: This interactive document aggregates earthquake source inversion results
+  from optimisations performed with Grond.
+version_info: !grond.VersionInfo
+  grond_version: '1.3.1'
+  grond_long_version: 'grond_1.3.1_54bb4532c7b9d4a9bac898ebd1e697bf498bd118_2020-05-13_18:17:25'
+  git_sha1: '54bb4532c7b9d4a9bac898ebd1e697bf498bd118'
+  local_modifications: false
+  installed_date: '2020-05-13_18:17:25'
+  dependencies:
+    PyQt: '5.14.1'
+    Qt: '5.14.1'
+    matplotlib: '3.2.0'
+    numpy: '1.18.2'
+    pyrocko: 'pyrocko-2020.03.30-d5e781bd1634289472fd95490c4f5b8e472b8f6c-2020-05-19_10:09:17'
+    python: '3.7.1'
+    scipy: '1.4.1'
+have_archive: true
