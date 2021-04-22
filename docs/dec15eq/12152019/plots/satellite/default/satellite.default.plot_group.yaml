@@ -1,0 +1,83 @@
+--- !grond.PlotGroup
+name: satellite
+section: fits
+title: InSAR Displacements
+description: '
+
+  Maps showing subsampled surface displacements as observed, modelled and the
+
+  residual (observed minus modelled).
+
+
+  The displacement values predicted by the orbit-ambiguity ramps are added to the
+
+  modelled displacements (middle panels). The color shows the LOS displacement
+
+  values associated with, and the extent of, every quadtree box. The light grey
+
+  dots show the focal point of pixels combined in the quadtree box. This point
+
+  corresponds to the position of the modelled data point.
+
+
+  The large dark grey dot shows the reference source position. The grey filled
+
+  box shows the surface projection of the modelled source, with the thick-lined
+
+  edge marking the upper fault edge. Complete data extent is shown.
+
+  '
+formats:
+- !grond.PNG {}
+variant: default
+feather_icon: navigation
+size_cm:
+- 22.0
+- 12.0
+items:
+- !grond.PlotItem
+  name: fig_0
+  attributes:
+    targets:
+    - insar
+  title: Satellite Surface Displacements - Dec15eq_alos2
+  description: '
+
+    Surface displacements derived from satellite data.
+
+    (Left) the input data, (center) the modelled
+
+    data and (right) the model residual.
+
+    '
+- !grond.PlotItem
+  name: fig_1
+  attributes:
+    targets:
+    - insar
+  title: Satellite Surface Displacements - S1_d163_Dec15eq
+  description: '
+
+    Surface displacements derived from satellite data.
+
+    (Left) the input data, (center) the modelled
+
+    data and (right) the model residual.
+
+    '
+- !grond.PlotItem
+  name: fig_2
+  attributes:
+    targets:
+    - insar
+  title: Satellite Surface Displacements - Dec15_DavaoEQ_S1asc
+  description: '
+
+    Surface displacements derived from satellite data.
+
+    (Left) the input data, (center) the modelled
+
+    data and (right) the model residual.
+
+    '
+attributes: {}

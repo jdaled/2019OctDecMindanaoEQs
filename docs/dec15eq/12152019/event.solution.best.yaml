@@ -1,0 +1,11 @@
+%YAML 1.1
+--- !pf.Event
+lat: 6.64
+lon: 125.16
+north_shift: 5552.99414334101
+east_shift: 1860.0780300914214
+time: 2019-12-15 06:11:51.100000
+depth: 3127.901056869207
+name: dec15eq
+tags: []
+extras: {}
