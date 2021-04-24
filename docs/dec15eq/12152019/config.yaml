@@ -32,14 +32,14 @@ problem_config: !grond.RectangularProblemConfig
   name_template: '12152019'
   norm_exponent: 2
   ranges:
-    depth: 1000 .. 10000
+    depth: 0 .. 10000
     dip: 60 .. 90
-    east_shift: -10000 .. 20000
-    length: 1000 .. 50000
-    north_shift: -30000 .. 20000
+    east_shift: -10000 .. 10000
+    length: 5000 .. 70000
+    north_shift: -10000 .. 10000
     rake: -180 .. 180
-    slip: 0 .. 2
-    strike: 200 .. 340
+    slip: 0 .. 3
+    strike: 270 .. 340
     width: 2000 .. 20000
   decimation_factor: 1
   distance_min: 0.0

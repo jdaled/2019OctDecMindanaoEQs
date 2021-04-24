@@ -55,7 +55,7 @@ items:
   attributes:
     targets:
     - insar
-  title: Satellite Surface Displacements - S1_d163_Dec15eq
+  title: Satellite Surface Displacements - Dec15_DavaoEQ_S1asc
   description: '
 
     Surface displacements derived from satellite data.
@@ -70,7 +70,7 @@ items:
   attributes:
     targets:
     - insar
-  title: Satellite Surface Displacements - Dec15_DavaoEQ_S1asc
+  title: Satellite Surface Displacements - S1_d163_Dec15eq
   description: '
 
     Surface displacements derived from satellite data.

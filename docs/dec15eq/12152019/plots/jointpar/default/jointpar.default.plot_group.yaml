@@ -51,8 +51,8 @@ items:
     - slip
     - rake
     - insar.A2_a136_1214-1228.offset
-    - insar.s1_d163_20191213_20191219.offset
     - insar.s1_a069_191213-191225.offset
+    - insar.s1_d163_20191213_20191219.offset
 - !grond.PlotItem
   name: fig_1_1
   attributes:
@@ -61,6 +61,6 @@ items:
     - dip
     - rake
     - insar.A2_a136_1214-1228.offset
-    - insar.s1_d163_20191213_20191219.offset
     - insar.s1_a069_191213-191225.offset
+    - insar.s1_d163_20191213_20191219.offset
 attributes: {}
