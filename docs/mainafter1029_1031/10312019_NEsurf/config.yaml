@@ -1,6 +1,6 @@
 %YAML 1.1
 --- !grond.Config
-path_prefix: ..
+path_prefix: ../..
 rundir_template: runs/${problem_name}.grun
 dataset_config: !grond.DatasetConfig
   events_path: data/events/${event_name}/event.txt
