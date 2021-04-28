@@ -173,3 +173,34 @@ event_best: !pf.Event
 grond_version: 1.3.1
 run_info: !grond.RunInfo
   tags: []
+--- !grond.ReportIndexEntry
+path: mainafter1029_1031/10312019_NEsurf
+problem_name: 10312019_NEsurf
+event_reference: !pf.Event
+  lat: 6.98
+  lon: 125.1
+  time: 2019-10-31 13:11:21.500000
+  depth: 12000.0
+  name: mainafter1029_1031
+  magnitude: 6.5
+  region: MINDANAO PHILIPPINES
+  catalog: Global-CMT
+  moment_tensor: !pf.MomentTensor
+    mnn: -2.31e+18
+    mee: 6.78e+18
+    mdd: -4.47e+18
+    mne: 7.79e+18
+    mnd: -1.6e+18
+    med: 1.59e+18
+    strike1: 109.25029999809232
+    dip1: 66.93053826780017
+    rake1: -158.3970773924532
+    strike2: 10.430265546437338
+    dip2: 70.20051624527431
+    rake2: -24.611717063828916
+    moment: 1.007049651208916e+19
+    magnitude: 6.6353672555855425
+  duration: 4.2
+  tags: []
+  extras: {}
+grond_version: 1.3.1
