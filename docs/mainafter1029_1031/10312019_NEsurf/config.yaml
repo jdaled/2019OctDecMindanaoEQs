@@ -30,15 +30,15 @@ problem_config: !grond.RectangularProblemConfig
   name_template: 10312019_NEsurf
   norm_exponent: 2
   ranges:
-    depth: 0 .. 1000
+    depth: 0 .. 10000
     dip: 60 .. 90
-    east_shift: -5000 .. 10000
-    length: 7000 .. 50000
+    east_shift: -10000 .. 10000
+    length: 5000 .. 70000
     north_shift: -10000 .. 0
     rake: -180 .. 180
     slip: 0 .. 4
-    strike: 200 .. 270
-    width: 1000 .. 29000
+    strike: 0 .. 360
+    width: 1000 .. 20000
   decimation_factor: 1
   distance_min: 0.0
   nthreads: 4
@@ -49,10 +49,10 @@ analyser_configs:
 optimiser_config: !grond.HighScoreOptimiserConfig
   sampler_phases:
   - !grond.UniformSamplerPhase
-    niterations: 10000
+    niterations: 20000
     ntries_preconstrain_limit: 1000
   - !grond.DirectedSamplerPhase
-    niterations: 40000
+    niterations: 80000
     ntries_preconstrain_limit: 1000
     scatter_scale_begin: 2.0
     scatter_scale_end: 0.5
@@ -61,7 +61,7 @@ optimiser_config: !grond.HighScoreOptimiserConfig
     standard_deviation_estimator: median_density_single_chain
     ntries_sample_limit: 2000
   chain_length_factor: 8.0
-  nbootstrap: 100
+  nbootstrap: 200
 engine_config: !grond.EngineConfig
   gf_stores_from_pyrocko_config: false
   gf_store_superdirs:
