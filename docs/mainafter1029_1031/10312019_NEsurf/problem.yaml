@@ -4,11 +4,11 @@ ranges:
   depth: 0 .. 10000
   dip: 60 .. 90
   east_shift: -10000 .. 10000
-  length: 5000 .. 70000
+  length: 8000 .. 40000
   north_shift: -10000 .. 0
-  rake: -180 .. 180
+  rake: -180 .. -20
   slip: 0 .. 4
-  strike: 0 .. 360
+  strike: 10 .. 80
   width: 1000 .. 20000
 norm_exponent: 2
 base_source: !pf.RectangularSource
