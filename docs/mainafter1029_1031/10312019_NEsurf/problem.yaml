@@ -1,14 +1,14 @@
 --- !grond.RectangularProblem
 name: 10312019_NEsurf
 ranges:
-  depth: 0 .. 10000
-  dip: 60 .. 90
-  east_shift: -10000 .. 10000
+  depth: 0 .. 1000
+  dip: 45 .. 90
+  east_shift: -10000 .. 15000
   length: 8000 .. 40000
   north_shift: -10000 .. 0
-  rake: -180 .. -20
+  rake: -180 .. -120
   slip: 0 .. 4
-  strike: 10 .. 80
+  strike: 30 .. 50
   width: 1000 .. 20000
 norm_exponent: 2
 base_source: !pf.RectangularSource
