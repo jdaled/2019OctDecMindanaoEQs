@@ -1,0 +1,12 @@
+%YAML 1.1
+--- !pf.Event
+lat: 6.98
+lon: 125.1
+north_shift: -3998.1923888497918
+east_shift: 5609.053151131938
+time: 2019-10-31 13:11:21.500000
+depth: 461.0496522953074
+name: mainafter1029_1031
+duration: 4.2
+tags: []
+extras: {}
