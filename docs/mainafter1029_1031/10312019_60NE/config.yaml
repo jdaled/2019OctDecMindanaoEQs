@@ -23,7 +23,7 @@ target_groups:
   misfit_config: !grond.SatelliteMisfitConfig
     optimise_orbital_ramp: true
     ranges:
-      offset: -0.1 .. 0.1
+      offset: -0.5 .. 0.5
       ramp_east: 0 .. 0
       ramp_north: 0 .. 0
 problem_config: !grond.RectangularProblemConfig
@@ -37,9 +37,9 @@ problem_config: !grond.RectangularProblemConfig
     north_shift: -15000 .. 0
     rake: -180 .. -120
     slip: 0 .. 4
-    strike: 55 .. 65
+    strike: 59 .. 61
     width: 1000 .. 20000
-  decimation_factor: 1
+  decimation_factor: 2
   distance_min: 0.0
   nthreads: 4
 analyser_configs:
@@ -61,7 +61,7 @@ optimiser_config: !grond.HighScoreOptimiserConfig
     standard_deviation_estimator: median_density_single_chain
     ntries_sample_limit: 2000
   chain_length_factor: 8.0
-  nbootstrap: 200
+  nbootstrap: 100
 engine_config: !grond.EngineConfig
   gf_stores_from_pyrocko_config: false
   gf_store_superdirs:
