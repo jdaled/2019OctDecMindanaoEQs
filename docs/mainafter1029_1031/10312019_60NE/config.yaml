@@ -24,22 +24,22 @@ target_groups:
     optimise_orbital_ramp: true
     ranges:
       offset: -0.5 .. 0.5
-      ramp_east: 0 .. 0
-      ramp_north: 0 .. 0
+      ramp_east: -0.0001 .. 0.0001
+      ramp_north: -0.0001 .. 0.0001
 problem_config: !grond.RectangularProblemConfig
   name_template: 10312019_60NE
   norm_exponent: 2
   ranges:
-    depth: 0 .. 1000
+    depth: 0 .. 3000
     dip: 45 .. 90
     east_shift: -15000 .. 15000
-    length: 3000 .. 40000
+    length: 7000 .. 40000
     north_shift: -15000 .. 0
-    rake: -180 .. -120
+    rake: -180 .. -45
     slip: 0 .. 4
-    strike: 59 .. 61
+    strike: 60 .. 60
     width: 1000 .. 20000
-  decimation_factor: 2
+  decimation_factor: 1
   distance_min: 0.0
   nthreads: 4
 analyser_configs:
@@ -55,13 +55,13 @@ optimiser_config: !grond.HighScoreOptimiserConfig
     niterations: 80000
     ntries_preconstrain_limit: 1000
     scatter_scale_begin: 2.0
-    scatter_scale_end: 0.5
+    scatter_scale_end: 1.0
     starting_point: excentricity_compensated
     sampler_distribution: normal
     standard_deviation_estimator: median_density_single_chain
     ntries_sample_limit: 2000
   chain_length_factor: 8.0
-  nbootstrap: 100
+  nbootstrap: 200
 engine_config: !grond.EngineConfig
   gf_stores_from_pyrocko_config: false
   gf_store_superdirs:

@@ -37,28 +37,60 @@ items:
     - length
     - width
     - slip
-    - strike
+    - dip
 - !grond.PlotItem
   name: fig_1_0
   attributes:
     parameters:
     - east_shift
-    - dip
+    - rake
     - north_shift
     - depth
     - length
     - width
     - slip
-    - rake
     - insar.a2_a136_20191019_20191102.offset
+    - insar.a2_a136_20191019_20191102.ramp_north
+    - insar.a2_a136_20191019_20191102.ramp_east
     - insar.s1_d163_20191026-20191107.offset
+    - insar.s1_d163_20191026-20191107.ramp_north
 - !grond.PlotItem
   name: fig_1_1
   attributes:
     parameters:
-    - strike
     - dip
     - rake
     - insar.a2_a136_20191019_20191102.offset
+    - insar.a2_a136_20191019_20191102.ramp_north
+    - insar.a2_a136_20191019_20191102.ramp_east
     - insar.s1_d163_20191026-20191107.offset
+    - insar.s1_d163_20191026-20191107.ramp_north
+- !grond.PlotItem
+  name: fig_2_0
+  attributes:
+    parameters:
+    - east_shift
+    - insar.s1_d163_20191026-20191107.ramp_east
+    - north_shift
+    - depth
+    - length
+    - width
+    - slip
+- !grond.PlotItem
+  name: fig_2_1
+  attributes:
+    parameters:
+    - dip
+    - insar.s1_d163_20191026-20191107.ramp_east
+    - rake
+    - insar.a2_a136_20191019_20191102.offset
+    - insar.a2_a136_20191019_20191102.ramp_north
+    - insar.a2_a136_20191019_20191102.ramp_east
+    - insar.s1_d163_20191026-20191107.offset
+- !grond.PlotItem
+  name: fig_2_2
+  attributes:
+    parameters:
+    - insar.s1_d163_20191026-20191107.ramp_north
+    - insar.s1_d163_20191026-20191107.ramp_east
 attributes: {}

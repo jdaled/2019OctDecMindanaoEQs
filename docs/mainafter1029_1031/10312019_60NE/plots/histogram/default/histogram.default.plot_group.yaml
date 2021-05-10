@@ -68,11 +68,6 @@ items:
     parameters:
     - slip
 - !grond.PlotItem
-  name: strike
-  attributes:
-    parameters:
-    - strike
-- !grond.PlotItem
   name: dip
   attributes:
     parameters:
@@ -88,8 +83,28 @@ items:
     parameters:
     - insar.a2_a136_20191019_20191102.offset
 - !grond.PlotItem
+  name: insar.a2_a136_20191019_20191102.ramp_north
+  attributes:
+    parameters:
+    - insar.a2_a136_20191019_20191102.ramp_north
+- !grond.PlotItem
+  name: insar.a2_a136_20191019_20191102.ramp_east
+  attributes:
+    parameters:
+    - insar.a2_a136_20191019_20191102.ramp_east
+- !grond.PlotItem
   name: insar.s1_d163_20191026-20191107.offset
   attributes:
     parameters:
     - insar.s1_d163_20191026-20191107.offset
+- !grond.PlotItem
+  name: insar.s1_d163_20191026-20191107.ramp_north
+  attributes:
+    parameters:
+    - insar.s1_d163_20191026-20191107.ramp_north
+- !grond.PlotItem
+  name: insar.s1_d163_20191026-20191107.ramp_east
+  attributes:
+    parameters:
+    - insar.s1_d163_20191026-20191107.ramp_east
 attributes: {}

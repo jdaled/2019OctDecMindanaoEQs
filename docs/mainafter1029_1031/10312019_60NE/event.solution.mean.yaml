@@ -2,10 +2,10 @@
 --- !pf.Event
 lat: 6.98
 lon: 125.1
-north_shift: -4405.994525143545
-east_shift: 4361.107895043778
+north_shift: -3658.7942766513384
+east_shift: 6258.996067296007
 time: 2019-10-31 13:11:21.500000
-depth: 245.22760086366063
+depth: 427.5980671073662
 name: mainafter1029_1031
 duration: 4.2
 tags: []

@@ -262,50 +262,6 @@ grond_version: 1.3.1
 run_info: !grond.RunInfo
   tags: []
 --- !grond.ReportIndexEntry
-path: mainafter1029_1031/10312019_60NE
-problem_name: 10312019_60NE
-event_reference: !pf.Event
-  lat: 6.98
-  lon: 125.1
-  time: 2019-10-31 13:11:21.500000
-  depth: 12000.0
-  name: mainafter1029_1031
-  magnitude: 6.5
-  region: MINDANAO PHILIPPINES
-  catalog: Global-CMT
-  moment_tensor: !pf.MomentTensor
-    mnn: -2.31e+18
-    mee: 6.78e+18
-    mdd: -4.47e+18
-    mne: 7.79e+18
-    mnd: -1.6e+18
-    med: 1.59e+18
-    strike1: 109.25029999809232
-    dip1: 66.93053826780017
-    rake1: -158.3970773924532
-    strike2: 10.430265546437338
-    dip2: 70.20051624527431
-    rake2: -24.611717063828916
-    moment: 1.007049651208916e+19
-    magnitude: 6.6353672555855425
-  duration: 4.2
-  tags: []
-  extras: {}
-event_best: !pf.Event
-  lat: 6.98
-  lon: 125.1
-  north_shift: -3961.018540162614
-  east_shift: 5537.388185549618
-  time: 2019-10-31 13:11:21.500000
-  depth: 370.9091047390322
-  name: mainafter1029_1031
-  duration: 4.2
-  tags: []
-  extras: {}
-grond_version: 1.3.1
-run_info: !grond.RunInfo
-  tags: []
---- !grond.ReportIndexEntry
 path: mainafter1029_1031/10312019_55NE
 problem_name: 10312019_55NE
 event_reference: !pf.Event
@@ -342,6 +298,50 @@ event_best: !pf.Event
   east_shift: 5609.053151131938
   time: 2019-10-31 13:11:21.500000
   depth: 461.0496522953074
+  name: mainafter1029_1031
+  duration: 4.2
+  tags: []
+  extras: {}
+grond_version: 1.3.1
+run_info: !grond.RunInfo
+  tags: []
+--- !grond.ReportIndexEntry
+path: mainafter1029_1031/10312019_60NE
+problem_name: 10312019_60NE
+event_reference: !pf.Event
+  lat: 6.98
+  lon: 125.1
+  time: 2019-10-31 13:11:21.500000
+  depth: 12000.0
+  name: mainafter1029_1031
+  magnitude: 6.5
+  region: MINDANAO PHILIPPINES
+  catalog: Global-CMT
+  moment_tensor: !pf.MomentTensor
+    mnn: -2.31e+18
+    mee: 6.78e+18
+    mdd: -4.47e+18
+    mne: 7.79e+18
+    mnd: -1.6e+18
+    med: 1.59e+18
+    strike1: 109.25029999809232
+    dip1: 66.93053826780017
+    rake1: -158.3970773924532
+    strike2: 10.430265546437338
+    dip2: 70.20051624527431
+    rake2: -24.611717063828916
+    moment: 1.007049651208916e+19
+    magnitude: 6.6353672555855425
+  duration: 4.2
+  tags: []
+  extras: {}
+event_best: !pf.Event
+  lat: 6.98
+  lon: 125.1
+  north_shift: -2123.789922716481
+  east_shift: 8707.19278723623
+  time: 2019-10-31 13:11:21.500000
+  depth: 716.085199306189
   name: mainafter1029_1031
   duration: 4.2
   tags: []
