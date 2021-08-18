@@ -1,0 +1,73 @@
+%YAML 1.1
+--- !grond.Config
+path_prefix: ../..
+rundir_template: runs/${problem_name}.grun
+dataset_config: !grond.DatasetConfig
+  events_path: data/events/${event_name}/event.txt
+  extend_incomplete: false
+  picks_paths: []
+  blacklist_paths: []
+  blacklist: []
+  whitelist_paths: []
+  kite_scene_paths:
+  - data/events/${event_name}/insar
+target_groups:
+- !grond.SatelliteTargetGroup
+  normalisation_family: static
+  path: insar
+  weight: 1.0
+  interpolation: multilinear
+  store_id: cot_local_gf
+  kite_scenes:
+  - A2_a136_1005-1019
+  - S1_d163_1014-1026
+  misfit_config: !grond.SatelliteMisfitConfig
+    optimise_orbital_ramp: true
+    ranges:
+      offset: -0.1 .. 0.1
+      ramp_east: 0 .. 0
+      ramp_north: 0 .. 0
+problem_config: !grond.RectangularProblemConfig
+  name_template: 10162019_wide
+  norm_exponent: 2
+  ranges:
+    depth: 5000 .. 15000
+    dip: 60 .. 90
+    east_shift: -10000 .. 20000
+    length: 10000 .. 40000
+    north_shift: -30000 .. 20000
+    rake: -180 .. 180
+    slip: 0 .. 2
+    strike: 200 .. 340
+    width: 2000 .. 15000
+  decimation_factor: 1
+  distance_min: 0.0
+  nthreads: 4
+analyser_configs:
+- !grond.TargetBalancingAnalyserConfig
+  niterations: 1000
+  use_reference_magnitude: false
+optimiser_config: !grond.HighScoreOptimiserConfig
+  sampler_phases:
+  - !grond.UniformSamplerPhase
+    niterations: 20000
+    ntries_preconstrain_limit: 1000
+  - !grond.DirectedSamplerPhase
+    niterations: 80000
+    ntries_preconstrain_limit: 1000
+    scatter_scale_begin: 2.0
+    scatter_scale_end: 0.5
+    starting_point: excentricity_compensated
+    sampler_distribution: normal
+    standard_deviation_estimator: median_density_single_chain
+    ntries_sample_limit: 2000
+  chain_length_factor: 8.0
+  nbootstrap: 200
+engine_config: !grond.EngineConfig
+  gf_stores_from_pyrocko_config: false
+  gf_store_superdirs:
+  - gf_stores
+  gf_store_dirs: []
+event_names:
+- foreshock_Oct16
+event_names_exclude: []
