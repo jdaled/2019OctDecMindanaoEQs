@@ -34,7 +34,7 @@ problem_config: !grond.RectangularProblemConfig
     depth: 5000 .. 15000
     dip: 60 .. 90
     east_shift: -10000 .. 20000
-    length: 10000 .. 40000
+    length: 1000 .. 35000
     north_shift: -30000 .. 20000
     rake: -180 .. 180
     slip: 0 .. 2

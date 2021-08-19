@@ -2,10 +2,10 @@
 --- !pf.Event
 lat: 6.86
 lon: 125.01
-north_shift: -4353.727197561344
-east_shift: 6517.053337186015
+north_shift: -4380.050189343733
+east_shift: 5522.982668872747
 time: 2019-10-16 11:37:10.100000
-depth: 9821.614854975138
+depth: 9223.456495993074
 name: foreshock_Oct16
 duration: 4.0
 tags: []
